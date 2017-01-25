@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_notification_mail_24dp.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notification_mail_24dp.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_next_24dp.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_next_24dp.xml"
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2098,
+                        "endColumn": 63,
+                        "endOffset": 2157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 63,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 851,
+                        "endColumn": 63,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 61,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 789,
+                        "endColumn": 61,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 60,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 60,
+                        "endOffset": 784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 62,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1936,
+                        "endColumn": 62,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 59,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1876,
+                        "endColumn": 59,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 59,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1781,
+                        "endColumn": 59,
+                        "endOffset": 1836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 56,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1667,
+                        "endColumn": 56,
+                        "endOffset": 1719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 56,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1724,
+                        "endColumn": 56,
+                        "endOffset": 1776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 60,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 60,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 58,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 58,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 57,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 953,
+                        "endColumn": 57,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 58,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 58,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 57,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1436,
+                        "endColumn": 57,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 898,
+                    "endColumn": 55,
+                    "endOffset": 949
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 55,
+                        "endOffset": 1431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 954,
+                    "endColumn": 58,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2038,
+                        "endColumn": 58,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 65,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1554,
+                        "endColumn": 65,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endColumn": 55,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 55,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endColumn": 58,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endColumn": 58,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1194,
+                    "endColumn": 55,
+                    "endOffset": 1245
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-w600dp/dimensions.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 55,
+                        "endOffset": 1223
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/menu/email_compose_menu_extras.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/menu/email_compose_menu_extras.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/menu/quick_response_prefs_fragment_menu.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/menu/quick_response_prefs_fragment_menu.xml"
+    }
+]

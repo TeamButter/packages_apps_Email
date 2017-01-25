@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="clear_authentication_button">
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+    <style name="client_certificate_alias">
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_toStartOf">@id/select_button</item>
+    </style>
+    <style name="client_certificate_button" parent="account_setup_text_button">
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+    </style>
+    <style name="client_certificate_title">
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_toStartOf">@+id/select_button</item>
+    </style>
+    <style name="oauth_label">
+        <item name="android:paddingRight">10dp</item>
+    </style>
+</resources>

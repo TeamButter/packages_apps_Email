@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-ldrtl-v17/ic_next.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-ldrtl/ic_next.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-ldrtl-v17/ic_arrow_back_24dp_with_rtl.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-ldrtl/ic_arrow_back_24dp_with_rtl.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-ldrtl-v17/shadow_end.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-ldrtl/shadow_end.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-ldrtl-v17/ic_arrow_back_wht_24dp_with_rtl.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-ldrtl/ic_arrow_back_wht_24dp_with_rtl.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-ldrtl-v17/ic_prev.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-ldrtl/ic_prev.xml"
+    }
+]

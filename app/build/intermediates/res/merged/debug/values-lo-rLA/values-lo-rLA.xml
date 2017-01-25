@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6747351773934787126" name="account_duplicate_dlg_message_fmt">"ທ່ານໄດ້ໃຊ້ຊື່ຜູ່ໃຊ້ນີ້ສຳລັບບັນຊີ \"<ns1:g id="DUPLICATE">%s</ns1:g>\" ຢູ່ແລ້ວ."</string>
+    <string msgid="3768813340753269695" name="account_duplicate_dlg_title">"ບັນຊີຊ້ຳກັນ"</string>
+    <string msgid="4107093049191103780" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> ຮຽກ​ຮ້ອງ​ໃຫ້​ທ່ານ​ອັບ​ເດດ​ການ​ຕັ້ງ​ຄ່າ​ຄວາມ​ປອດ​ໄພ​ຂອງ​ທ່ານ."</string>
+    <string msgid="7003032393805438164" name="account_security_dialog_title">"ອັບ​ເດດ​ຄວາມ​ປອດ​ໄພ"</string>
+    <string msgid="2527501853520160827" name="account_security_policy_explanation_fmt">"ເຊີບເວີ <ns1:g id="SERVER">%s</ns1:g> ຮຽກ​ຮ້ອງ​ໃຫ້​ທ່ານ​ອະ​ນຸ​ຍາດ​ໃຫ້​ມັນ​ສາ​ມາດ​ຄວບ​ຄຸມ​ບາງ​​ຄຸນ​ສົມ​ບັດ​ດ້ານ​ຄວາມ​ປອດ​ໄພ​ໃນ​ອຸ​ປະ​ກອນ Android ຂອງ​ທ່ານ​ຈາກ​ໄລ​ຍະ​ໄກ​ໄດ້."</string>
+    <string msgid="6072273231606918870" name="account_security_title">"ຄວາມ​ປອດ​ໄພ​ອ​ຸ​ປະ​ກອນ"</string>
+    <string msgid="589969653965674604" name="account_settings_action">"ການຕັ້ງຄ່າບັນຊີ"</string>
+    <string msgid="3552681465680701047" name="account_settings_background_attachments_label">"ດາວໂຫຼດໄຟລ໌ແນບ"</string>
+    <string msgid="8801504001229061032" name="account_settings_background_attachments_summary">"ດາວ​ໂຫລດ​ໄຟລ໌​ແນບ​ຈາກ​ອີ​ເມວຫຼ້າ​ສຸດ​ຜ່ານ​ທາງ Wi-Fi ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ"</string>
+    <string msgid="6400715160238559711" name="account_settings_data_usage">"​ການ​​ນຳ​ໃຊ້​​ຂໍ້​ມູນ"</string>
+    <string msgid="2073736045984411004" name="account_settings_description_label">"ຊື່ບັນຊີ"</string>
+    <string msgid="6105791335935883199" name="account_settings_edit_quick_responses_label">"ການຕອບດ່ວນ"</string>
+    <string msgid="5406599402930290682" name="account_settings_edit_quick_responses_summary">"ແກ້​ໄຂ​ຂ​ໍ້​ຄວາມ​ທີ່​ທ່ານ​ໃສ່​ເລື້ອຍໆ​ໃນ​ເວ​ລາ​ຂຽນ​ອີ​ເມວ"</string>
+    <string msgid="7005050362066086119" name="account_settings_enforced_label">"ບັງ​ຄັບ​ໃຊ້​ນະ​ໂຍ​ບາຍ​ແລ້ວ"</string>
+    <string msgid="1668581504445370253" name="account_settings_enforced_summary">"ບໍ່​ມີ"</string>
+    <string msgid="4232590695889111419" name="account_settings_exit_server_settings">"ຖິ້ມ​ການ​ປ່ຽນ​ແປງ​ທີ່​ຍັງ​ບໍ່ໄດ້​ບັນ​ທຶກບໍ່?"</string>
+    <string msgid="3793314460723296874" name="account_settings_incoming_label">"ການຕັ້ງຄ່າຂາເຂົ້າ"</string>
+    <string msgid="7521181981008371492" name="account_settings_incoming_summary">"ຊື່ຜູ່ໃຊ້, ລະຫັດຜ່ານ ແລະ ການຕັ້ງຄ່າຂາເຂົ້າອື່ນໆຈາກເຊີບເວີ"</string>
+    <string msgid="4107847714594035131" name="account_settings_mail_check_frequency_label">"ຄວາມ​ຖີ່​ຂອງ​ການຊິ້ງຂໍ້ມູນ"</string>
+    <string msgid="8230436030850457988" name="account_settings_name_label">"ຊື່ຂອງທ່ານ"</string>
+    <string msgid="2842952349214972116" name="account_settings_notifications">"​ການ​ຕັ້ງ​ຄ່າ​ການ​ແຈ້ງ​ເຕືອນ"</string>
+    <string msgid="8621226576645167987" name="account_settings_notify_label">"ການແຈ້ງເຕືອນອີເມວ"</string>
+    <string msgid="88560545461159120" name="account_settings_notify_summary">"ສົ່ງການແຈ້ງເຕືອນເມື່ອອີເມວເຂົ້າ"</string>
+    <string msgid="4997504719643828381" name="account_settings_outgoing_label">"ຕັ້ງຄ່າຂາອອກ"</string>
+    <string msgid="1884202151340479161" name="account_settings_outgoing_summary">"ຊື່ຜູ່ໃຊ້, ລະຫັດຜ່ານ ແລະການຕັ້ງຄ່າຂາອອກອື່ນໆຈາກເຊີບເວີ"</string>
+    <string msgid="5972183883466873359" name="account_settings_policies">"ນະໂຍບາຍຄວາມປອດໄພ"</string>
+    <string msgid="8605492340808650923" name="account_settings_retry_label">"ພະຍາຍາມຊິ້ງຂໍ້ມູນ"</string>
+    <string msgid="2598065993718592906" name="account_settings_retry_summary">"ແຕະບ່ອນນີ້ເພື່ອຊິ້ງຂໍ້ມູນບັນຊີນີ້"</string>
+    <string msgid="2238523918221865167" name="account_settings_ringtone">"ເລືອກສຽງຣິງໂທນ"</string>
+    <string msgid="3386185135392642067" name="account_settings_servers">"ການຕັ້ງຄ່າເຊີບເວີ"</string>
+    <string msgid="4733776978291376161" name="account_settings_summary">"ຄວາມຖີ່ໃນການຊິ້ງຂໍ້ມູນ, ການແຈ້ງເຕືອນ, ຯລຯ."</string>
+    <string msgid="3172491863244160828" name="account_settings_sync_calendar_enable">"ຊິ້ງຂໍ້ມູນປະ​ຕິ​ທິນ"</string>
+    <string msgid="411960248618953311" name="account_settings_sync_calendar_summary">"ຊິ້ງ​ຂໍ້​ມູນ​ນັດ​ໝາຍ​ຂອງ​ປະ​ຕິ​ທິນ​ສຳ​ລັບ​ບັນ​ຊີ​ນີ້"</string>
+    <string msgid="2642448079273767521" name="account_settings_sync_contacts_enable">"ຊິ້ງຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+    <string msgid="1716022682035150630" name="account_settings_sync_contacts_summary">"ຊິ້ງຂໍ້ມູນລາຍຊື່ຈາກບັນຊີນີ້"</string>
+    <string msgid="7135765408226471860" name="account_settings_sync_email_enable">"ຊິ້ງຂໍ້ມູນອີເມວ"</string>
+    <string msgid="71710510041953351" name="account_settings_sync_email_summary">"ຊິ້ງຂໍ້ມູນອີເມວຈາກບັນຊີນີ້"</string>
+    <string msgid="7286722617178322465" name="account_settings_unsupported_label">"ນະໂຍບາຍບໍ່ຮອງຮັບ"</string>
+    <string msgid="1980825746966562221" name="account_settings_unsupported_summary">"ບໍ່​ມີ"</string>
+    <string msgid="1434091698882290052" name="account_setup_ab_headline">"ຢືນຢັນ​ປະເພດ​ບັນຊີ"</string>
+    <string msgid="6223657094843768202" name="account_setup_ab_instructions_format">"ທ່ານ​ລະບຸ​ວ່າ <ns1:g id="EMAIL">%1$s</ns1:g> ໃຊ້ <ns1:g id="USERPROTOCOL">%2$s</ns1:g>, ແຕ່​ບັນຊີ​ດັ່ງກ່າວ​ອາດ​ໃຊ້ <ns1:g id="PROVIDERPROTOCOL">%3$s</ns1:g> ກໍ​ເປັນ​ໄດ້"</string>
+    <string msgid="3375795537675351389" name="account_setup_account_type_headline">"ປະເພດບັນຊີ"</string>
+    <string msgid="968088954656738617" name="account_setup_account_type_instructions">"ປະ​ເພດ​ບັນ​ຊີ​ຂອງ​ທ່ານ​ນີ້​ແມ່ນ​ປະ​ເພດ​ໃດ?"</string>
+    <string msgid="4075075565221436715" name="account_setup_autodiscover_dlg_authfail_message">"ຢືນຢັນວ່າຊື່ຜູ່ໃຊ້, ລະຫັດຜ່ານ ແລະການຕັ້ງຄ່າບັນຊີນັ້ນຖືກຕ້ອງ."</string>
+    <string msgid="7551559109838593189" name="account_setup_autodiscover_dlg_authfail_title">"ມີ​ບັນ​ຫາ​ກັບ​ການ​ຕັ້ງ​ຄ່າບັນ​ຊີ"</string>
+    <string msgid="8701406783555749929" name="account_setup_basics_email_label">"ທີ່ຢູ່ອີເມວ"</string>
+    <string msgid="8468280216822264643" name="account_setup_basics_headline">"ບັນຊີອີເມວ"</string>
+    <string msgid="7690861839383362085" name="account_setup_basics_manual_setup_action">"ຕັ້ງດ້ວຍຕົນເອງ"</string>
+    <string msgid="784962388753706730" name="account_setup_basics_password_label">"ລະຫັດ​ຜ່ານ"</string>
+    <string msgid="5050895656741229172" name="account_setup_basics_title">"ຕັ້ງຄ່າບັນຊີ"</string>
+    <string msgid="9196418179524308411" name="account_setup_check_settings_check_incoming_msg">"ກຳ​ລັງ​ຢືນ​ຢັນ​ການ​ຕັ້ງ​ຄ່າ​ຂອງ​ເຊີບ​ເວີ..."</string>
+    <string msgid="9062019904409225329" name="account_setup_check_settings_check_outgoing_msg">"ກຳລັງຢືນຢັນການຕັ້ງຄ່າ smtp…"</string>
+    <string msgid="9103280616618316032" name="account_setup_check_settings_retr_info_msg">"ກຳລັງຮັບຂໍ້ມູນບັນຊີ..."</string>
+    <string msgid="2898648422471181490" name="account_setup_creating_account_msg">"ກຳລັງສ້າງບັນຊີ..."</string>
+    <string msgid="8756785660598838350" name="account_setup_exchange_certificate_title">"ໃບ​ຮັບຮອງ​ລູກຂ່າຍ"</string>
+    <string msgid="2306603503497194905" name="account_setup_exchange_device_id_label">"ໄອດີ​ອຸປະກອນ​ມືຖື"</string>
+    <string msgid="3569712401698909695" name="account_setup_exchange_no_certificate">"ບໍ່​ມີ"</string>
+    <string msgid="1222387802827919583" name="account_setup_exchange_remove_certificate">"ລຶບອອກ"</string>
+    <string msgid="264748505181695915" name="account_setup_exchange_select_certificate">"ເລືອກ"</string>
+    <string msgid="6513687497912094538" name="account_setup_exchange_use_certificate">"ນໍາໃຊ້ໃບຮັບຮອງຂອງໄຄຼເອນ"</string>
+    <string msgid="2051742796367919026" name="account_setup_failed_access_denied">"ທ່ານບໍ່​ມີ​ສິດ​ໃນ​ການ​ຊິ້ງ​ຂໍ້​ມູນ​ກັບ​ເຊີບ​ເວີ​ນີ້. ໃຫ້​ຕິດ​ຕໍ່​ຫາ​ຜູ່​ເບິ່ງ​ແຍງ​ລະ​ບົບ​ຂອງ​ທ່ານ​ສຳ​ລັບ​ຂໍ້​ມູນ​ເພີ່ມ​ເຕີມ."</string>
+    <string msgid="2684010997018901707" name="account_setup_failed_auth_required">"ເຊີບເວີບໍ່ຮອງຮັບວິທີການຢືນຢັນນີ້."</string>
+    <string msgid="4574461885959029072" name="account_setup_failed_certificate_inaccessible">"ໃບຮັບຮອງນີ້ບໍ່ຖືກຕ້ອງ ຫຼື ບໍ່ສາມາດເຂົ້າເຖິງໄດ້."</string>
+    <string msgid="4607859382193244795" name="account_setup_failed_certificate_required">"ຕ້ອງໃຊ້ໃບຮັບຮອງໄຄຼເອນ. ທ່ານຕ້ອງການ​ເຊື່ອມ​ຕໍ່ກັບເຊີບເວີດ້ວຍໃບ​ຮັບຮອງ​ໄຄຼເອນຫຼືບໍ່?"</string>
+    <string msgid="430054384233036305" name="account_setup_failed_check_credentials_message">"ເຊີບເວີຕອບ​ສະຫນອງ​ກັບດ້ວຍຂໍ້ຜິດພາດ. ໃຫ້ກວດເບິ່ງຊື່ຜູ່ໃຊ້ ແລະ ລະຫັດຜ່ານ ແລ້ວ​ລອງ​ໃໝ່ອີກຄັ້ງ."</string>
+    <string msgid="5608549872868036352" name="account_setup_failed_dlg_auth_message">"ຊື່ຜູ່ໃຊ້ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ."</string>
+    <string msgid="4725950885859654809" name="account_setup_failed_dlg_certificate_message">"ບໍ່ສາມາດເຊື່ອມຕໍ່​ກັບ​ເຊີບເວີ​ຢ່າງປອດໄພໄດ້."</string>
+    <string msgid="3451681985727559303" name="account_setup_failed_dlg_certificate_message_fmt">"ບໍ່ສາມາດ​ເຊື່ອມຕໍ່ກັບ​ເຊີບເວີ​ຢ່າງປອດໄພໄດ້.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="8155332642922842729" name="account_setup_failed_dlg_edit_details_action">"ແກ້​ໄຂ"</string>
+    <string msgid="1180197172141077524" name="account_setup_failed_dlg_server_message">"ບໍ່ສາມາດ​ເຊື່ອມຕໍ່​ຫາເຊີບເວີໄດ້."</string>
+    <string msgid="3889441611138037320" name="account_setup_failed_dlg_server_message_fmt">"ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຊີບເວີໄດ້.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="7923577224474005464" name="account_setup_failed_dlg_title">"ບໍ່ສາມາດເຮັດສໍາເລັດໄດ້"</string>
+    <string msgid="3862689923436539909" name="account_setup_failed_ioerror">"ບໍ່ສາມາດເປີດການ​ເຊື່ອມຕໍ່​ກັບເຊີບເວີໄດ້."</string>
+    <string msgid="4973054582044010375" name="account_setup_failed_protocol_unsupported">"ທ່ານໃສ່ທີ່ຢູ່​ເຊີບເວີ​ບໍ່ຖືກຕ້ອງ ຫຼື ເຊີບເວີຕ້ອງໃຊ້​ໂປຣໂຕຄອນ​ເວີຊັນທີ່ອີເມວບໍ່ຮອງຮັບ."</string>
+    <string msgid="1627240499907011040" name="account_setup_failed_security">"ບໍ່ສາມາດເປີດການ​ເຊື່ອມຕໍ່​ຫາເຊີບເວີໄດ້​ເນື່ອງຈາກ​ຂໍ້ຜິດພາດ​ດ້ານ​ຄວາມປອດໄພ."</string>
+    <string msgid="4619685657253094627" name="account_setup_failed_security_policies_unsupported">"ເຊີບເວີນີ້​ຕ້ອງການໃຊ້ຄວາມສາມາດ​ດ້ານຄວາມປອດໄພ​ທີ່ອຸປະກອນ Android ຂອງທ່ານບໍ່ຮອງຮັບ, ຮວມມີ: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="1902309158359287958" name="account_setup_failed_tls_required">"ຕ້ອງໃຊ້ TLS ແຕ່ມັນ​ບໍ່​ຮອງຮັບ​ໂດຍເຊີບເວີ."</string>
+    <string msgid="8677018382715596606" name="account_setup_incoming_delete_policy_delete_label">"ໃນເວລາຂ້ອຍລຶບ​ອອກຈາກ​ກ່ອງຮັບອີເມວ"</string>
+    <string msgid="2341742235654301690" name="account_setup_incoming_delete_policy_label">"ລຶບອີເມວ​ອອກຈາກ​ເຊີບເວີ"</string>
+    <string msgid="5777530843489961009" name="account_setup_incoming_delete_policy_never_label">"ບໍ່​ລຶບເລີຍ"</string>
+    <string msgid="6232828824446177639" name="account_setup_incoming_headline">"ການຕັ້ງຄ່າທີ່​ກຳລັງ​ສົ່ງມາຈາກເຊີບເວີ"</string>
+    <string msgid="206747922689229932" name="account_setup_incoming_imap_path_prefix_hint">"ບໍ່ເລືອກກໍໄດ້"</string>
+    <string msgid="3531290378620033218" name="account_setup_incoming_imap_path_prefix_label">"path ນຳໜ້າ IMAP"</string>
+    <string msgid="4806105500058512876" name="account_setup_incoming_password_label">"ລະຫັດ​ຜ່ານ"</string>
+    <string msgid="402562424498833560" name="account_setup_incoming_port_label">"ພອດ"</string>
+    <string msgid="8360505617331971663" name="account_setup_incoming_security_label">"ປະເພດ​ຄວາມປອດໄພ"</string>
+    <string msgid="2461510827337484818" name="account_setup_incoming_security_none_label">"ບໍ່​ມີ"</string>
+    <string msgid="5169133414545009342" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="2834386066577239560" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (ຮັບໃບຮັບຮອງທັງຫມົດ)"</string>
+    <string msgid="3892291833944170882" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="2281920902104029077" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (ຍອມຮັບ​ໃບຮັບຮອງ​ທັງຫມົດ)"</string>
+    <string msgid="5409694850973258387" name="account_setup_incoming_server_label">"ເຊີບເວີ"</string>
+    <string msgid="2609699829997945895" name="account_setup_incoming_username_label">"ຊື່​ຜູ່​ໃຊ້"</string>
+    <string msgid="3487538709712378441" name="account_setup_names_account_name_label">"ໃສ່ຊື່ໃຫ້ບັນຊີນີ້ (ທາງເລືອກ)"</string>
+    <string msgid="2031978210683887370" name="account_setup_names_headline">"ບັນຊີຂອງທ່ານແມ່ນ​ຕິດຕັ້ງ​ຮຽບຮ້ອຍແລ້ວ ແລະ​ອີເມວກຳລັງຈະມາໄວໆນີ້!"</string>
+    <string msgid="4298006111315033499" name="account_setup_names_user_name_label">"ຊື່ຂອງທ່ານ (ສະແດງ​ໃນ​ຂໍ້ຄວາມ​ຂາອອກ)"</string>
+    <string msgid="4085327585082867216" name="account_setup_options_background_attachments_label">"ດາວ​ໂຫຼດ​ໄຟລ໌ແນບ​ອັດຕະໂນມັດ​ໃນ​ເວລາ​ເຊື່ອມຕໍ່ Wi-Fi"</string>
+    <string msgid="4810292194395251968" name="account_setup_options_headline">"ໂຕ​ເລືອກ​ບັນ​ຊີ"</string>
+    <string msgid="8787901333816702849" name="account_setup_options_mail_check_frequency_10min">"ທຸກໆ 10 ນາທີ"</string>
+    <string msgid="7127640170766018765" name="account_setup_options_mail_check_frequency_15min">"ທຸກ 15 ນາທີ"</string>
+    <string msgid="107706566853925273" name="account_setup_options_mail_check_frequency_1hour">"ທຸກໆຊົ່ວໂມງ"</string>
+    <string msgid="4223562871143897449" name="account_setup_options_mail_check_frequency_30min">"ທຸກໆ 30 ນາທີ"</string>
+    <string msgid="8929785860545198867" name="account_setup_options_mail_check_frequency_5min">"ທຸກໆ 5 ນາທີ"</string>
+    <string msgid="7253305392938373553" name="account_setup_options_mail_check_frequency_label">"ຄວາມ​​ຖີ່​​ການ​ຊິ້ງ​ຂໍ້ມູນ:"</string>
+    <string msgid="2937664246354067829" name="account_setup_options_mail_check_frequency_never">"ບໍ່​ກວດ​ເລີຍ"</string>
+    <string msgid="5511415696925307797" name="account_setup_options_mail_check_frequency_push">"ອັດຕະໂນມັດ (ຕ້ອງກົດ)"</string>
+    <string msgid="7930883294844418428" name="account_setup_options_mail_window_1day">"ມື້ສຸດທ້າຍ"</string>
+    <string msgid="3228265299330513816" name="account_setup_options_mail_window_1month">"ເດືອນແລ້ວ"</string>
+    <string msgid="5230695719358085318" name="account_setup_options_mail_window_1week">"ອາທິດແລ້ວ"</string>
+    <string msgid="1144271277694832921" name="account_setup_options_mail_window_2weeks">"ສອງອາທິດກ່ອນ"</string>
+    <string msgid="3435093562391555730" name="account_setup_options_mail_window_3days">"ສາມມື້ກ່ອນ"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"ທັງໝົດ"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"ອັດຕະໂນມັດ"</string>
+    <string msgid="5518038139722596598" name="account_setup_options_mail_window_default">"ໃຊ້ຄ່າເລີ່ມຕົ້ນບັນຊີ"</string>
+    <string msgid="4737241149297585368" name="account_setup_options_mail_window_label">"ຊິ້ງ​ຂໍ້ມູນ​ອີເມວ​ຈາກ:"</string>
+    <string msgid="3101529443722198112" name="account_setup_options_notify_label">"ແຈ້ງໃຫ້ຂ້ອຍຮູ້ເມື່ອມີອີເມວມາຮອດ"</string>
+    <string msgid="303441956432308807" name="account_setup_options_sync_calendar_label">"ຊິ້ງຂໍ້ມູນປະຕິທິນຈາກບັນຊີນີ້"</string>
+    <string msgid="5029046373980454714" name="account_setup_options_sync_contacts_label">"ຊິ້ງຂໍ້ມູນລາຍຊື່ຈາກບັນຊີນີ້"</string>
+    <string msgid="468957966555663131" name="account_setup_options_sync_email_label">"ຊິ້ງຂໍ້ມູນອີເມວຈາກບັນຊີນີ້"</string>
+    <string msgid="6638171491109658047" name="account_setup_outgoing_headline">"ການຕັ້ງຄ່າ​ທີ່ກຳລັງ​ສົ່ງອອກ​ຈາກເຊີບເວີ"</string>
+    <string msgid="3735952013505812378" name="account_setup_outgoing_port_label">"ພອດ"</string>
+    <string msgid="5405196721947884033" name="account_setup_outgoing_require_login_label">"ຕ້ອງເຂົ້າສູ່ລະບົບ"</string>
+    <string msgid="6473177134731615282" name="account_setup_outgoing_security_label">"ປະເພດ​ຄວາມປອດໄພ"</string>
+    <string msgid="3460163861711242681" name="account_setup_outgoing_smtp_server_label">"ເຊີບເວີ SMTP"</string>
+    <string msgid="8844680398828891772" name="account_setup_outgoing_username_label">"ຊື່​ຜູ່​ໃຊ້"</string>
+    <string msgid="5930042642982830233" name="account_setup_password_subheading">"ລະຫັດ​ຜ່ານ"</string>
+    <string msgid="9029471168291631932" name="account_setup_security_policies_required_fmt">"ເຊີບເວີ <ns1:g id="SERVER">%s</ns1:g> ຮຽກຮ້ອງ​ໃຫ້​ທ່ານ​ອະນຸຍາດ​ໃຫ້ມັນ​ສາມາດ​ຄວບຄຸມ​ຄວາມ​ສາມາດ​ທາງດ້ານຄວາມປອດໄພ​ບາງອັນໃນອຸປະກອນ Android ຂອງທ່ານ​ໄດ້ຈາກໄລຍະໄກ. ທ່ານ​ຕ້ອງການ​ຕັ້ງຄ່າບັນ​ຊີ​ນີ້ໃຫ້​ແລ້ວບໍ່?"</string>
+    <string msgid="667943309546419435" name="account_setup_security_required_title">"ການ​ຈັດການ​ດ້ານຄວາມປອດໄພ​ຈາກ​ໄລຍະໄກ"</string>
+    <string msgid="3659744829670065777" name="account_setup_username_password_toast">"ພິມທີ່ຢູ່ອີເມວ ແລະລະຫັດຜ່ານທີ່ຖືກຕ້ອງ."</string>
+    <string msgid="8848194305692897677" name="account_waiting_for_folders_msg">"ກໍາລັງໂຫລດລາຍຊື່ໂຟນເດີ..."</string>
+    <string msgid="7230367425520242593" name="accounts_welcome">"ທ່ານ​ສາມາດຕິດຕັ້ງ​ບັນຊີ​ໄດ້ໃນພຽງ​ບໍ່ພໍເທົ່າໃດ​ຂັ້ນຕອນ."</string>
+    <string msgid="382998197798081729" name="add_authentication_label">"ເພີ່ມການກວດສອບ"</string>
+    <string msgid="2206468539066258195" name="app_name">"ອີເມວ"</string>
+    <string msgid="914463525214987772" name="authentication_label">"ການ​ພິສູດ​ຢືນຢັນ"</string>
+    <string msgid="4750930803913225689" name="clear_authentication_label">"ລຶບລ້າງການກວດສອບຢືນຢັນ"</string>
+    <string msgid="6764021931370809514" name="confirm_response">"ກຳລັງສົ່ງຄໍາຕອບ..."</string>
+    <string msgid="6575946089819721958" name="create_action">"ສ້າງໃຫມ່"</string>
+    <string msgid="1337476992195531309" name="debug_title">"ດີບັ໊ກ"</string>
+    <string msgid="4299378570982520839" name="device_admin_description">"ເປີດນຳໃຊ້ຂໍ້ກຳນົດຄວາມປອດໄພສະເພາະເຊີບເວີ"</string>
+    <string msgid="3335272972461391415" name="device_admin_label">"ອີເມວ"</string>
+    <string msgid="6001542250505146252" name="disable_admin_warning">"ຄໍາເຕືອນ: ການປິດ​ອຳ​ນາດໃນການຈັດການ​ຂອງແອັບຯ​ອີເມວ​ໃນອຸປະກອນ​ຂອງທ່ານ ຈະເປັນການ​ລຶບບັນຊີ​ອີເມວ​ພ້ອມກັບ​ອີເມວ​ຂອງບັນຊີທີ່​ກ່ຽວຂ້ອງ, ລາຍຊື່, ນັດໝາຍ​ໃນ​ປະຕິທິນ ແລະ​ຂໍ້ມູນອື່ນໆ​ນຳ."</string>
+    <string msgid="3048014284772648575" name="edit_quick_response_dialog">"ການຕອບດ່ວນ"</string>
+    <string msgid="64258748053106017" name="email_confirmation_label">"ທີ່ຢູ່ອີເມວ:"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="349478353401667107" name="folder_sync_settings_pref_title">"​ການ​ຕັ້ງ​ຄ່າ​ການ​ຊິ້ງ​ໂຟນ​ເດີ"</string>
+    <string msgid="2900585518884851062" name="forward_download_failed_ticker">"ບໍ່ສາມາດ​ສົ່ງຕໍ່​ນຶ່ງ ຫຼື​ຫຼາຍກວ່າ​ນຶ່ງໄຟລ໌ແນບ."</string>
+    <string msgid="2043036709913723298" name="forward_download_failed_title">"ໄຟລ໌ແນບ​ບໍ່​ສາມາດສົ່ງຕໍ່ໄດ້"</string>
+    <string msgid="2099786953868369991" name="gmail_name">"Gmail"</string>
+    <string msgid="8285222985908214985" name="imap_name">"ສ່ວນ​ໂຕ (IMAP​)"</string>
+    <string msgid="140881511322826320" name="label_notification_vibrate_title">"ສັ່ນເຕືອນ"</string>
+    <string msgid="4620839194581484497" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> ເຂົ້າສູ່ລະບົບບໍ່ສຳເລັດ."</string>
+    <string msgid="1737884069957090004" name="login_failed_title">"ບໍ່ສາມາດເຂົ້າສູ່ລະບົບໄດ້"</string>
+    <string msgid="4155918930481733669" name="mailbox_list_account_selector_combined_view">"ມຸມມອງແບບປະສົມ"</string>
+    <string msgid="3552043116466269581" name="mailbox_name_display_drafts">"ສະບັບຮ່າງ"</string>
+    <string msgid="5093068725739672126" name="mailbox_name_display_inbox">"ອິນບັອກ"</string>
+    <string msgid="1634126984313831675" name="mailbox_name_display_junk">"ຂີ້ເຫຍື້ອ"</string>
+    <string msgid="8735725798805339414" name="mailbox_name_display_outbox">"ອີ​ເມວ​ຂາ​ອອກ"</string>
+    <string msgid="6705058612006729985" name="mailbox_name_display_sent">"ສົ່ງແລ້ວ"</string>
+    <string msgid="8076384721309828453" name="mailbox_name_display_starred">"ຕິດດາວແລ້ວ"</string>
+    <string msgid="7020792045007681852" name="mailbox_name_display_trash">"ຖັງຂີ້ເຫຍື້ອ"</string>
+    <string msgid="1453575937919310339" name="mailbox_name_display_unread">"ຍັງບໍ່ໄດ້ອ່ານ"</string>
+    <string msgid="2196614373847675314" name="mailbox_settings_activity_title">"ຕົວເລືອກການຊິ້ງຂໍ້ມູນ"</string>
+    <string msgid="5547676392298186906" name="mailbox_settings_activity_title_with_mailbox">"ຕົວເລືອກການຊິ້ງຂໍ້ມູນ (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="7027516982341382326" name="mailbox_settings_mailbox_sync_window_label">"ຈຳນວນ​ມື້​ຂອງ​ອີເມວ​ທີ່​ຕ້ອງການ​ຊິ້ງ​ຂໍ້ມູນ"</string>
+    <string msgid="7723413381707277856" name="mailbox_settings_sync_enabled_label">"ຊິ້ງຂໍ້ມູນໂຟນເດີນີ້"</string>
+    <string msgid="742233465207750578" name="mailbox_settings_sync_enabled_summary">"ຂໍ້ຄວາມທັງໝົດ​ຈະຖືກດາວໂຫລດ​ເມື່ອມີການເຊື່ອມຕໍ່​ອິນເຕີເນັດ"</string>
+    <string msgid="6193988236722150221" name="message_compose_fwd_header_fmt">\n\n"-------- ຂໍ້ຄວາມຕົ້ນສະບັບ --------\nເລື່ອງ: <ns1:g id="SUBJECT">%1$s</ns1:g>\nຈາກ: <ns1:g id="SENDER">%2$s</ns1:g>\nເຖິງ: <ns1:g id="TO">%3$s</ns1:g>\nCC: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5836926808818821309" name="message_compose_insert_quick_response_list_title">"ໃສ່ການຕອບແບບໄວ"</string>
+    <string msgid="4393288554605333619" name="message_compose_insert_quick_response_menu_title">"ໃສ່ການຕອບແບບໄວ"</string>
+    <string msgid="91396461771444300" name="message_decode_error">"ມີຂໍ້ຜິດພາດໃນ​ລະຫວ່າງ​ຖອດລະຫັດ​ຂໍ້ຄວາມດັ່ງກ່າວ."</string>
+    <string msgid="7571652141281187845" name="message_view_attachment_background_load">"ນຶ່ງຫຼື່ຫຼາຍ​ກວ່າ​ນຶ່ງ​ໄຟລ໌​ແນບ​ໃນຂໍ້ຄວາມທີ່ທ່ານສົ່ງຕໍ່​ຈະຖືກດາວໂຫລດ​ກ່ອນໜ້າ​ທຳການ​ສົ່ງຕໍ່."</string>
+    <string msgid="8716297053803961304" name="no_quick_responses">"ບໍ່​ມີ​ອັນ​ໃດ​ທີ່​ສາ​ມາດ​ໃຊ້​ໄດ້"</string>
+    <string msgid="3771260531636603518" name="oauth_authentication_title">"ກຳ​ລັງຮ້ອງຂໍການອະນຸຍາດ"</string>
+    <string msgid="8466102021844409849" name="oauth_error_description">"ບໍ່​ສາມາດ​ພິສູດ​ຢືນຢັນ​ໄດ້"</string>
+    <string msgid="6408695162723653446" name="or_label">"ຫຼື"</string>
+    <string msgid="4360288708739366810" name="password_expire_warning_content_title">"ລະຫັດລັອກໜ້າຈໍໃກ້ຈະໝົດອາຍຸ"</string>
+    <string msgid="1093389293050776319" name="password_expire_warning_dialog_content_fmt">"ທ່ານຕ້ອງປ່ຽນລະຫັດ ຫຼື PIN ລັອກໜ້າຈໍໄວໆນີ້, ບໍ່ດັ່ງນັ້ນຂໍ້ມູນຂອງ <ns1:g id="ACCOUNT">%s</ns1:g> ຈະຖືກລຶບ. ທ່ານຕ້ອງການປ່ຽນມັນດຽວນີ້ບໍ່?"</string>
+    <string msgid="4901499545146045672" name="password_expire_warning_dialog_title">"ລະຫັດ​ລັອກ​ໜ້າຈໍ​ໃກ້​ຈະໝົດອາຍຸແລ້ວ"</string>
+    <string msgid="5543005790538884060" name="password_expire_warning_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" ຮຽກຮ້ອງ​ໃຫ້​ທ່ານ​ປ່ຽນ​ລະຫັດ ຫຼື PIN ລັອກໜ້າຈໍ."</string>
+    <string msgid="7379094218699681984" name="password_expired_content_title">"ລະຫັດລັອກ​ໜ້າຈໍໝົດ​ອາຍຸ​ແລ້ວ"</string>
+    <string msgid="8322213184626443346" name="password_expired_dialog_content_fmt">"ຂໍ້ມູນສຳລັບ <ns1:g id="ACCOUNT">%s</ns1:g> ກຳລັງ​ຖືກລຶບ​ອອກ​ຈາກ​ອຸປະກອນ​ຂອງ​ທ່ານ. ທ່ານ​ສາມາດ​ກູ້ມັນຄືນ​ໄດ້ ໂດຍ​ການ​ປ່ຽນ​ລະຫັດ ຫຼື PIN ລັອກ​ໜ້າ​ຈໍຂອງ​ທ່ານ. ທ່ານ​ຕ້ອງ​ການ​ປ່ຽນ​ມັນ​ດຽວ​ນີ້ບໍ່?"</string>
+    <string msgid="7275534155170185252" name="password_expired_dialog_title">"ລະຫັດ​ລັອກໜ້າ​ຈໍ​ໝົດ​ອາຍຸ​ແລ້ວ"</string>
+    <string msgid="3098703963402347483" name="password_expired_ticker">"ລະຫັດ PIN ລັອກໜ້າຈໍ ຫຼື​ລະຫັດ​ຜ່ານ​ຂອງ​ທ່ານ​ໄດ້​ໝົດ​ອາຍຸ​ລົງ​ແລ້ວ."</string>
+    <string msgid="4226682910292828279" name="password_hint">"ລະຫັດ​ຜ່ານ"</string>
+    <string msgid="1887439537224212124" name="password_warning_label">"ທີ່​ຢູ່​ອີ​ເມວ ຫຼື​ລະ​ຫັດ​ຜ່ານ​ບໍ່​ຖືກ​ຕ້ອງ"</string>
+    <string msgid="5338433949655493713" name="permission_access_provider_desc">"ອະນຸຍາດ​ໃຫ້​ແອັບຯ​ດັ່ງກ່າວ​ເຂົ້າ​ເຖິງ​ຖານ​ຂໍ້ມູນ​ອີເມວ, ຮວມ​ເຖິງ​ຂໍ້ຄວາມ​ທີ່​ໄດ້​ຮັບ, ຂໍ້ຄວາມທີ່ສົ່ງແລ້ວ, ຊື່ຜູ່ໃຊ້ ແລະ​ລະຫັດຜ່ານ."</string>
+    <string msgid="977700184037298723" name="permission_access_provider_label">"ເຂົ້າ​ເຖິງ​ຂໍ້ມູນ​ຜູ່​ໃຫ້​ບໍລິການ​ອີເມວ"</string>
+    <string msgid="6579059616090100181" name="permission_read_attachment_desc">"ອະນຸຍາດ​ໃຫ້​ແອັບຯ​ອ່ານ​ໄຟລ໌​ແນບ​ໃນ​ອີເມວ​ຂອງ​ທ່ານ​ໄດ້."</string>
+    <string msgid="6641407731311699536" name="permission_read_attachment_label">"ອ່ານໄຟລ໌ແນບໃນອີເມວ"</string>
+    <string msgid="6469328498345236120" name="policy_calendar_age">"ຈຳກັດ​ຈຳນວນ​ຂໍ້ມູນ​ກິດຈະກຳ​ໃນ​ປະຕິທິນ​ເພື່ອ​ຈະ​ຊິ້ງ​ຂໍ້ມູນ"</string>
+    <string msgid="8821533827628900689" name="policy_dont_allow_camera">"ບໍ່​ອະນຸຍາດ​ໃຫ້​ໃຊ້​ກ້ອງ​ຂອງ​ອຸປະກອນ"</string>
+    <string msgid="3521941976575225050" name="policy_email_age">"ຈຳກັດ​ຈຳນວນ​ຂໍ້ມູນ​ອີເມວ​ທີ່​ຈະຊິ້ງ​ຂໍ້ມູນ"</string>
+    <string msgid="1287225242918742275" name="policy_password_expiration">"ຕ້ອງ​ການ​ໃຫ້​ລະ​ຫັດ​ຜ່ານ​ມີມື້​ໝົດ​ອາ​ຍຸ​ນຳ​ໃຊ້"</string>
+    <string msgid="9001177390979112746" name="policy_password_history">"ຈຳກັດການ​ໃຊ້ລະຫັດຜ່ານ​ຫຼ້າສຸດຊ້ຳຄືນ"</string>
+    <string msgid="3556860917024612396" name="policy_require_password">"ຕ້ອງ​ໃຊ້​ລະຫັດຜ່ານ​ຂອງ​ອຸປະກອນ"</string>
+    <string msgid="3499201409239287702" name="policy_screen_timeout">"ຈຳເປັນ​ຕ້ອງ​ໃຫ້​ອຸປະກອນ​ຫວ່າງວຽກ​ເພື່ອ​ລັອກ​ໜ້າ​ຈໍ​ຂອງ​ມັນ"</string>
+    <string msgid="6653484706414263493" name="pop3_name">"ສ່ວນ​ໂຕ (POP3​)"</string>
+    <string msgid="1596701148051980218" name="provider_note_t_online">"ກ່ອນ​ທີ່​ຈະ​ຕິດຕັ້ງ​ບັນ​ຊີ​ອີເມວ, ໃຫ້​ເຂົ້າ​ຊົມເວັບໄຊ T-Online ແລະ ສ້າງ​ລະຫັດ​ຜ່ານ​ສຳລັບ​ການ​ເຂົ້າເຖິງ​ອີເມວ POP3 ກ່ອນ."</string>
+    <string msgid="9130521670178673190" name="quick_1">"ຂໍຂອບໃຈ!"</string>
+    <string msgid="8611591278119481491" name="quick_2">"ອ່ານ​ແລ້ວ​ຄື​ຊິ​ດີ​ຢູ່!"</string>
+    <string msgid="8070999183033184986" name="quick_3">"ຂ້ອຍ​ຈະ​ອ່ານ​ໃນພາຍຫຼັງ​ແລະຈະ​ຕິດຕໍ່​ກັບ​ໄປ."</string>
+    <string msgid="216066940197616025" name="quick_4">"ພວກ​ເຮົາ​​ປະ​ຊຸມ​ເພື່ອ​ສົນ​ທະ​ນາ​ເລື່ອງ​ນີ້​ດີກວ່າ."</string>
+    <string msgid="3394094315357455290" name="quick_responses_empty_view">"ບໍ່​ມີ​ການ​ຕອບ​ກັບ​ແບບ​ໄວ."</string>
+    <string msgid="5740359453077441466" name="save_action">"ບັນທຶກ"</string>
+    <string msgid="3823930420292838192" name="security_changed_ticker_fmt">"ປ່ຽນການຕັ້ງຄ່າ​ຄວາມປອດໄພ​ຂອງບັນຊີ \"<ns1:g id="ACCOUNT">%s</ns1:g>\" ແລ້ວ; ຜູ່ໃຊ້ບໍ່​ຈຳເປັນ​ຕ້ອງເຮັດຫຍັງ."</string>
+    <string msgid="7099561996532829229" name="security_needed_ticker_fmt">"ບັນຊີ \"<ns1:g id="ACCOUNT">%s</ns1:g>\" ຈຳເປັນຕ້ອງ​ອັບເດດ​ການຕັ້ງຄ່າ​ຄວາມປອດໄພ."</string>
+    <string msgid="615639963487448183" name="security_notification_content_change_title">"ນະໂຍບາຍ​ຄວາມປອດໄພ​ມີການປ່ຽນແປງ"</string>
+    <string msgid="6494791400431198228" name="security_notification_content_unsupported_title">"ບໍ່ສອດຄ່ອງກັບ​ຂໍ້ກຳນົດ​ຄວາມປອດໄພ"</string>
+    <string msgid="6321099538307807621" name="security_notification_content_update_title">"ຈຳເປັນຕ້ອງ​ອັບເດດ​ຄວາມປອດໄພ"</string>
+    <string msgid="3249185558872836884" name="security_unsupported_ticker_fmt">"ບັນຊີ \"<ns1:g id="ACCOUNT">%s</ns1:g>\" ບໍ່ສາມາດຊິ້ງຂໍ້ມູນໄດ້​ເນື່ອງຈາກຄວາມຕ້ອງການ​ດ້ານຄວາມປອດໄພ​ບໍ່ພຽງພໍ."</string>
+    <string msgid="9207482909822072856" name="sent_folder_selection_title">"ເລືອກໂຟນເດີ​ສົ່ງລາຍການ​ຂອງເຊີບເວີ​ສຳລັບ <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <string msgid="5051852806423550830" name="sign_in_title">"​ເຂົ້າ​ສູ່​ລະ​ບົບ"</string>
+    <string msgid="1412668282326928102" name="sign_in_with_google">"ເຂົ້າສູ່ລະບົບດ້ວຍ Google"</string>
+    <string msgid="4282359206358453634" name="signed_in_with_service_label">"ເຂົ້າສູ່ລະບົບໂດຍໃຊ້ %s"</string>
+    <string msgid="2248313263003927725" name="system_account_create_failed">"ບໍ່ສາມາດສ້າງບັນຊີໄດ້. ລອງໃໝ່ອີກຄັ້ງ."</string>
+    <string msgid="818944260541160146" name="system_folders_sent_dlg">"ເລືອກໂຟນເດີສົ່ງ​ລາຍການ​ຂອງເຊີບເວີຂອງທ່ານ"</string>
+    <string msgid="4252740721870748375" name="system_folders_sent_summary">"ເລືອກໂຟນເດີສົ່ງ​ລາຍການ​ຂອງເຊີບເວີຂອງທ່ານ"</string>
+    <string msgid="8792934374188279309" name="system_folders_sent_title">"ໂຟນເດີລາຍການສົ່ງ"</string>
+    <string msgid="7161311881709109736" name="system_folders_title">"ໂຟນເດີລະບົບ"</string>
+    <string msgid="353701568340939392" name="system_folders_trash_dlg">"ເລືອກໂຟນເດີ​ຖັງຂີ້ເຫຍື້ອ​ຂອງເຊີບເວີຂອງທ່ານ"</string>
+    <string msgid="2583143581531897068" name="system_folders_trash_summary">"ເລືອກໂຟນເດີ​ຖັງຂີ້ເຫຍື້ອ​ຂອງເຊີບເວີຂອງທ່ານ"</string>
+    <string msgid="3190927115504713123" name="system_folders_trash_title">"ໂຟນເດີຂີ້ເຫຍື້ອ"</string>
+    <string msgid="686039558899469073" name="trash_folder_selection_title">"ເລືອກໂຟນເດີ​ຖັງຂີ້ເຫຍື້ອ​ຂອງເຊີບເວີສຳລັບ <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+</resources>

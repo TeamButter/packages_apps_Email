@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6747351773934787126" name="account_duplicate_dlg_message_fmt">"帐户“<ns1:g id="DUPLICATE">%s</ns1:g>”已经使用了此用户名。"</string>
+    <string msgid="3768813340753269695" name="account_duplicate_dlg_title">"帐户重复"</string>
+    <string msgid="4107093049191103780" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> 要求更新您的安全设置。"</string>
+    <string msgid="7003032393805438164" name="account_security_dialog_title">"安全更新"</string>
+    <string msgid="2527501853520160827" name="account_security_policy_explanation_fmt">"<ns1:g id="SERVER">%s</ns1:g>服务器要求您允许其远程控制您Android设备的某些安全功能。"</string>
+    <string msgid="6072273231606918870" name="account_security_title">"设备安全性"</string>
+    <string msgid="589969653965674604" name="account_settings_action">"帐户设置"</string>
+    <string msgid="3552681465680701047" name="account_settings_background_attachments_label">"下载附件"</string>
+    <string msgid="8801504001229061032" name="account_settings_background_attachments_summary">"通过WLAN自动下载近期邮件的附件"</string>
+    <string msgid="6400715160238559711" name="account_settings_data_usage">"流量使用"</string>
+    <string msgid="2073736045984411004" name="account_settings_description_label">"帐户名称"</string>
+    <string msgid="6105791335935883199" name="account_settings_edit_quick_responses_label">"快速回复"</string>
+    <string msgid="5406599402930290682" name="account_settings_edit_quick_responses_summary">"编辑您在写电子邮件时经常插入的文本"</string>
+    <string msgid="7005050362066086119" name="account_settings_enforced_label">"已执行策略"</string>
+    <string msgid="1668581504445370253" name="account_settings_enforced_summary">"无"</string>
+    <string msgid="4232590695889111419" name="account_settings_exit_server_settings">"要舍弃未保存的更改？"</string>
+    <string msgid="3793314460723296874" name="account_settings_incoming_label">"接收设置"</string>
+    <string msgid="7521181981008371492" name="account_settings_incoming_summary">"用户名、密码和其他接收服务器设置"</string>
+    <string msgid="4107847714594035131" name="account_settings_mail_check_frequency_label">"同步频率"</string>
+    <string msgid="8230436030850457988" name="account_settings_name_label">"您的姓名"</string>
+    <string msgid="2842952349214972116" name="account_settings_notifications">"通知设置"</string>
+    <string msgid="8621226576645167987" name="account_settings_notify_label">"电子邮件通知"</string>
+    <string msgid="88560545461159120" name="account_settings_notify_summary">"收到电子邮件时发送通知"</string>
+    <string msgid="4997504719643828381" name="account_settings_outgoing_label">"外发设置"</string>
+    <string msgid="1884202151340479161" name="account_settings_outgoing_summary">"用户名、密码和其他外发服务器设置"</string>
+    <string msgid="5972183883466873359" name="account_settings_policies">"安全策略"</string>
+    <string msgid="8605492340808650923" name="account_settings_retry_label">"尝试同步"</string>
+    <string msgid="2598065993718592906" name="account_settings_retry_summary">"触摸此处以同步此帐户"</string>
+    <string msgid="2238523918221865167" name="account_settings_ringtone">"选择铃声"</string>
+    <string msgid="3386185135392642067" name="account_settings_servers">"服务器设置"</string>
+    <string msgid="4733776978291376161" name="account_settings_summary">"同步频率、通知等。"</string>
+    <string msgid="3172491863244160828" name="account_settings_sync_calendar_enable">"同步日历"</string>
+    <string msgid="411960248618953311" name="account_settings_sync_calendar_summary">"同步此帐户中的日历活动"</string>
+    <string msgid="2642448079273767521" name="account_settings_sync_contacts_enable">"同步联系人"</string>
+    <string msgid="1716022682035150630" name="account_settings_sync_contacts_summary">"同步此帐户中的联系人"</string>
+    <string msgid="7135765408226471860" name="account_settings_sync_email_enable">"同步电子邮件"</string>
+    <string msgid="71710510041953351" name="account_settings_sync_email_summary">"同步此帐户中的电子邮件"</string>
+    <string msgid="7286722617178322465" name="account_settings_unsupported_label">"不支持的策略"</string>
+    <string msgid="1980825746966562221" name="account_settings_unsupported_summary">"无"</string>
+    <string msgid="1434091698882290052" name="account_setup_ab_headline">"确认帐户类型"</string>
+    <string msgid="6223657094843768202" name="account_setup_ab_instructions_format">"您已指明<ns1:g id="EMAIL">%1$s</ns1:g>使用<ns1:g id="USERPROTOCOL">%2$s</ns1:g>，但该帐户使用的可能是<ns1:g id="PROVIDERPROTOCOL">%3$s</ns1:g>"</string>
+    <string msgid="3375795537675351389" name="account_setup_account_type_headline">"帐户类型"</string>
+    <string msgid="968088954656738617" name="account_setup_account_type_instructions">"这是什么类型的帐户？"</string>
+    <string msgid="4075075565221436715" name="account_setup_autodiscover_dlg_authfail_message">"请确认用户名、密码和帐户设置均正确无误。"</string>
+    <string msgid="7551559109838593189" name="account_setup_autodiscover_dlg_authfail_title">"设置帐户时出现问题"</string>
+    <string msgid="8701406783555749929" name="account_setup_basics_email_label">"电子邮件地址"</string>
+    <string msgid="8468280216822264643" name="account_setup_basics_headline">"电子邮件帐户"</string>
+    <string msgid="7690861839383362085" name="account_setup_basics_manual_setup_action">"手动设置"</string>
+    <string msgid="784962388753706730" name="account_setup_basics_password_label">"密码"</string>
+    <string msgid="5050895656741229172" name="account_setup_basics_title">"帐户设置"</string>
+    <string msgid="9196418179524308411" name="account_setup_check_settings_check_incoming_msg">"正在验证服务器设置…"</string>
+    <string msgid="9062019904409225329" name="account_setup_check_settings_check_outgoing_msg">"正在验证SMTP设置…"</string>
+    <string msgid="9103280616618316032" name="account_setup_check_settings_retr_info_msg">"正在检索帐户信息..."</string>
+    <string msgid="2898648422471181490" name="account_setup_creating_account_msg">"正在创建帐户…"</string>
+    <string msgid="8756785660598838350" name="account_setup_exchange_certificate_title">"客户端证书"</string>
+    <string msgid="2306603503497194905" name="account_setup_exchange_device_id_label">"移动设备ID"</string>
+    <string msgid="3569712401698909695" name="account_setup_exchange_no_certificate">"无"</string>
+    <string msgid="1222387802827919583" name="account_setup_exchange_remove_certificate">"移除"</string>
+    <string msgid="264748505181695915" name="account_setup_exchange_select_certificate">"选择"</string>
+    <string msgid="6513687497912094538" name="account_setup_exchange_use_certificate">"使用客户端证书"</string>
+    <string msgid="2051742796367919026" name="account_setup_failed_access_denied">"您没有与此服务器同步的权限。要了解详情，请与您服务器的管理员联系。"</string>
+    <string msgid="2684010997018901707" name="account_setup_failed_auth_required">"服务器不支持身份验证方法。"</string>
+    <string msgid="4574461885959029072" name="account_setup_failed_certificate_inaccessible">"证书无效或无法使用。"</string>
+    <string msgid="4607859382193244795" name="account_setup_failed_certificate_required">"需要客户端证书。要通过客户端证书连接到服务器吗？"</string>
+    <string msgid="430054384233036305" name="account_setup_failed_check_credentials_message">"该服务器返回了包含错误讯息的响应。请检查您的用户名和密码，然后重试。"</string>
+    <string msgid="5608549872868036352" name="account_setup_failed_dlg_auth_message">"用户名或密码不正确。"</string>
+    <string msgid="4725950885859654809" name="account_setup_failed_dlg_certificate_message">"无法安全地连接到服务器。"</string>
+    <string msgid="3451681985727559303" name="account_setup_failed_dlg_certificate_message_fmt">"无法安全地连接到服务器。\n（<ns1:g id="ERROR">%s</ns1:g>）"</string>
+    <string msgid="8155332642922842729" name="account_setup_failed_dlg_edit_details_action">"修改详细信息"</string>
+    <string msgid="1180197172141077524" name="account_setup_failed_dlg_server_message">"无法连接到服务器。"</string>
+    <string msgid="3889441611138037320" name="account_setup_failed_dlg_server_message_fmt">"无法连接到服务器。\n（<ns1:g id="ERROR">%s</ns1:g>）"</string>
+    <string msgid="7923577224474005464" name="account_setup_failed_dlg_title">"无法完成"</string>
+    <string msgid="3862689923436539909" name="account_setup_failed_ioerror">"无法连接到服务器。"</string>
+    <string msgid="4973054582044010375" name="account_setup_failed_protocol_unsupported">"您键入的服务器地址不正确，或电子邮件服务不支持该服务器需要的协议版本。"</string>
+    <string msgid="1627240499907011040" name="account_setup_failed_security">"由于安全错误，无法连接到服务器。"</string>
+    <string msgid="4619685657253094627" name="account_setup_failed_security_policies_unsupported">"您的Android设备不支持此服务器要求使用的安全功能，其中包括：<ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="1902309158359287958" name="account_setup_failed_tls_required">"需要 TLS，但服务器不支持 TLS。"</string>
+    <string msgid="8677018382715596606" name="account_setup_incoming_delete_policy_delete_label">"当我从收件箱中删除时"</string>
+    <string msgid="2341742235654301690" name="account_setup_incoming_delete_policy_label">"从服务器中删除电子邮件"</string>
+    <string msgid="5777530843489961009" name="account_setup_incoming_delete_policy_never_label">"永不"</string>
+    <string msgid="6232828824446177639" name="account_setup_incoming_headline">"接收服务器设置"</string>
+    <string msgid="206747922689229932" name="account_setup_incoming_imap_path_prefix_hint">"可选"</string>
+    <string msgid="3531290378620033218" name="account_setup_incoming_imap_path_prefix_label">"IMAP路径前缀"</string>
+    <string msgid="4806105500058512876" name="account_setup_incoming_password_label">"密码"</string>
+    <string msgid="402562424498833560" name="account_setup_incoming_port_label">"端口"</string>
+    <string msgid="8360505617331971663" name="account_setup_incoming_security_label">"安全类型"</string>
+    <string msgid="2461510827337484818" name="account_setup_incoming_security_none_label">"无"</string>
+    <string msgid="5169133414545009342" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="2834386066577239560" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS（接受所有证书）"</string>
+    <string msgid="3892291833944170882" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="2281920902104029077" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS（接受所有证书）"</string>
+    <string msgid="5409694850973258387" name="account_setup_incoming_server_label">"服务器"</string>
+    <string msgid="2609699829997945895" name="account_setup_incoming_username_label">"用户名"</string>
+    <string msgid="3487538709712378441" name="account_setup_names_account_name_label">"为此帐户起个名称（可选）"</string>
+    <string msgid="2031978210683887370" name="account_setup_names_headline">"您的帐户已设置完毕，可以收发电子邮件了！"</string>
+    <string msgid="4298006111315033499" name="account_setup_names_user_name_label">"您的姓名（显示在外发邮件中）"</string>
+    <string msgid="4085327585082867216" name="account_setup_options_background_attachments_label">"连接到WLAN后自动下载附件"</string>
+    <string msgid="4810292194395251968" name="account_setup_options_headline">"帐户选项"</string>
+    <string msgid="8787901333816702849" name="account_setup_options_mail_check_frequency_10min">"每隔10分钟"</string>
+    <string msgid="7127640170766018765" name="account_setup_options_mail_check_frequency_15min">"每隔15分钟"</string>
+    <string msgid="107706566853925273" name="account_setup_options_mail_check_frequency_1hour">"每小时"</string>
+    <string msgid="4223562871143897449" name="account_setup_options_mail_check_frequency_30min">"每隔30分钟"</string>
+    <string msgid="8929785860545198867" name="account_setup_options_mail_check_frequency_5min">"每隔5分钟"</string>
+    <string msgid="7253305392938373553" name="account_setup_options_mail_check_frequency_label">"同步频率："</string>
+    <string msgid="2937664246354067829" name="account_setup_options_mail_check_frequency_never">"永不"</string>
+    <string msgid="5511415696925307797" name="account_setup_options_mail_check_frequency_push">"自动（推送）"</string>
+    <string msgid="7930883294844418428" name="account_setup_options_mail_window_1day">"最近一天"</string>
+    <string msgid="3228265299330513816" name="account_setup_options_mail_window_1month">"最近一个月"</string>
+    <string msgid="5230695719358085318" name="account_setup_options_mail_window_1week">"最近一周"</string>
+    <string msgid="1144271277694832921" name="account_setup_options_mail_window_2weeks">"最近两周"</string>
+    <string msgid="3435093562391555730" name="account_setup_options_mail_window_3days">"最近三天"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"全部"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"自动"</string>
+    <string msgid="5518038139722596598" name="account_setup_options_mail_window_default">"使用帐户的默认设置"</string>
+    <string msgid="4737241149297585368" name="account_setup_options_mail_window_label">"同步最近多少天的邮件："</string>
+    <string msgid="3101529443722198112" name="account_setup_options_notify_label">"收到电子邮件时通知我"</string>
+    <string msgid="303441956432308807" name="account_setup_options_sync_calendar_label">"同步此帐户中的日历"</string>
+    <string msgid="5029046373980454714" name="account_setup_options_sync_contacts_label">"同步此帐户中的联系人"</string>
+    <string msgid="468957966555663131" name="account_setup_options_sync_email_label">"同步此帐户中的电子邮件"</string>
+    <string msgid="6638171491109658047" name="account_setup_outgoing_headline">"外发服务器设置"</string>
+    <string msgid="3735952013505812378" name="account_setup_outgoing_port_label">"端口"</string>
+    <string msgid="5405196721947884033" name="account_setup_outgoing_require_login_label">"要求登录"</string>
+    <string msgid="6473177134731615282" name="account_setup_outgoing_security_label">"安全类型"</string>
+    <string msgid="3460163861711242681" name="account_setup_outgoing_smtp_server_label">"SMTP服务器"</string>
+    <string msgid="8844680398828891772" name="account_setup_outgoing_username_label">"用户名"</string>
+    <string msgid="5930042642982830233" name="account_setup_password_subheading">"密码"</string>
+    <string msgid="9029471168291631932" name="account_setup_security_policies_required_fmt">"<ns1:g id="SERVER">%s</ns1:g>服务器要求您允许其远程控制您Android设备的某些安全功能。您想要完成此帐户设置吗？"</string>
+    <string msgid="667943309546419435" name="account_setup_security_required_title">"远程安全管理"</string>
+    <string msgid="3659744829670065777" name="account_setup_username_password_toast">"请键入有效的电子邮件地址和密码。"</string>
+    <string msgid="8848194305692897677" name="account_waiting_for_folders_msg">"正在加载文件夹列表…"</string>
+    <string msgid="7230367425520242593" name="accounts_welcome">"只需几步操作，即可设置好您的帐户。"</string>
+    <string msgid="382998197798081729" name="add_authentication_label">"添加身份验证"</string>
+    <string msgid="2206468539066258195" name="app_name">"电子邮件"</string>
+    <string msgid="914463525214987772" name="authentication_label">"身份验证"</string>
+    <string msgid="4750930803913225689" name="clear_authentication_label">"清除身份验证"</string>
+    <string msgid="6764021931370809514" name="confirm_response">"正在发送回复…"</string>
+    <string msgid="6575946089819721958" name="create_action">"新建"</string>
+    <string msgid="1337476992195531309" name="debug_title">"调试"</string>
+    <string msgid="4299378570982520839" name="device_admin_description">"启用服务器专有的安全策略"</string>
+    <string msgid="3335272972461391415" name="device_admin_label">"电子邮件"</string>
+    <string msgid="6001542250505146252" name="disable_admin_warning">"警告：撤消“电子邮件”应用管理您设备的权限会删除所有需要此权限的电子邮件帐户，以及这些帐户中的电子邮件、联系人、日历活动和其他数据。"</string>
+    <string msgid="3048014284772648575" name="edit_quick_response_dialog">"快速回复"</string>
+    <string msgid="64258748053106017" name="email_confirmation_label">"电子邮件地址："</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="349478353401667107" name="folder_sync_settings_pref_title">"文件夹同步设置"</string>
+    <string msgid="2900585518884851062" name="forward_download_failed_ticker">"一个或多个附件无法转发。"</string>
+    <string msgid="2043036709913723298" name="forward_download_failed_title">"无法转发附件"</string>
+    <string msgid="2099786953868369991" name="gmail_name">"Gmail"</string>
+    <string msgid="8285222985908214985" name="imap_name">"个人(IMAP)"</string>
+    <string msgid="140881511322826320" name="label_notification_vibrate_title">"振动"</string>
+    <string msgid="4620839194581484497" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> 登录失败。"</string>
+    <string msgid="1737884069957090004" name="login_failed_title">"无法登录"</string>
+    <string msgid="4155918930481733669" name="mailbox_list_account_selector_combined_view">"合并视图"</string>
+    <string msgid="3552043116466269581" name="mailbox_name_display_drafts">"草稿"</string>
+    <string msgid="5093068725739672126" name="mailbox_name_display_inbox">"收件箱"</string>
+    <string msgid="1634126984313831675" name="mailbox_name_display_junk">"垃圾邮件"</string>
+    <string msgid="8735725798805339414" name="mailbox_name_display_outbox">"发件箱"</string>
+    <string msgid="6705058612006729985" name="mailbox_name_display_sent">"已发送邮件"</string>
+    <string msgid="8076384721309828453" name="mailbox_name_display_starred">"已加星标"</string>
+    <string msgid="7020792045007681852" name="mailbox_name_display_trash">"已删除邮件"</string>
+    <string msgid="1453575937919310339" name="mailbox_name_display_unread">"未读邮件"</string>
+    <string msgid="2196614373847675314" name="mailbox_settings_activity_title">"同步选项"</string>
+    <string msgid="5547676392298186906" name="mailbox_settings_activity_title_with_mailbox">"同步选项（<ns1:g id="MAILBOXX_NAME">%s</ns1:g>）"</string>
+    <string msgid="7027516982341382326" name="mailbox_settings_mailbox_sync_window_label">"同步最近多少天的邮件"</string>
+    <string msgid="7723413381707277856" name="mailbox_settings_sync_enabled_label">"同步此文件夹"</string>
+    <string msgid="742233465207750578" name="mailbox_settings_sync_enabled_summary">"连接到网络后下载邮件"</string>
+    <string msgid="6193988236722150221" name="message_compose_fwd_header_fmt">\n\n"-------- 原始邮件 --------\n主题：<ns1:g id="SUBJECT">%1$s</ns1:g>\n发件人：<ns1:g id="SENDER">%2$s</ns1:g>\n收件人：<ns1:g id="TO">%3$s</ns1:g>\n抄送：<ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5836926808818821309" name="message_compose_insert_quick_response_list_title">"插入快速回复"</string>
+    <string msgid="4393288554605333619" name="message_compose_insert_quick_response_menu_title">"插入快速回复"</string>
+    <string msgid="91396461771444300" name="message_decode_error">"解码邮件时出错。"</string>
+    <string msgid="7571652141281187845" name="message_view_attachment_background_load">"您转发的邮件中有一个或多个附件需要先下载，然后才能发送。"</string>
+    <string msgid="8716297053803961304" name="no_quick_responses">"没有可供选择的快速回复"</string>
+    <string msgid="3771260531636603518" name="oauth_authentication_title">"正在请求授权"</string>
+    <string msgid="8466102021844409849" name="oauth_error_description">"无法进行身份验证"</string>
+    <string msgid="6408695162723653446" name="or_label">"或"</string>
+    <string msgid="4360288708739366810" name="password_expire_warning_content_title">"锁定屏幕密码即将过期"</string>
+    <string msgid="1093389293050776319" name="password_expire_warning_dialog_content_fmt">"您需要尽快更改锁定屏幕 PIN 或密码，否则系统将会清除 <ns1:g id="ACCOUNT">%s</ns1:g> 的数据。要立即更改吗？"</string>
+    <string msgid="4901499545146045672" name="password_expire_warning_dialog_title">"锁定屏幕密码即将过期"</string>
+    <string msgid="5543005790538884060" name="password_expire_warning_ticker_fmt">"“<ns1:g id="ACCOUNT">%s</ns1:g>”要求更改锁定屏幕 PIN 或密码。"</string>
+    <string msgid="7379094218699681984" name="password_expired_content_title">"锁定屏幕密码已过期"</string>
+    <string msgid="8322213184626443346" name="password_expired_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> 的数据已从设备中清除。您可以通过更改锁定屏幕 PIN 或密码来还原这些数据。要立即更改吗？"</string>
+    <string msgid="7275534155170185252" name="password_expired_dialog_title">"锁定屏幕密码已过期"</string>
+    <string msgid="3098703963402347483" name="password_expired_ticker">"您的锁定屏幕 PIN 或密码已过期。"</string>
+    <string msgid="4226682910292828279" name="password_hint">"密码"</string>
+    <string msgid="1887439537224212124" name="password_warning_label">"电子邮件地址或密码不正确"</string>
+    <string msgid="5338433949655493713" name="permission_access_provider_desc">"允许此应用访问您的电子邮件数据库，包括已收邮件、已发邮件、用户名和密码。"</string>
+    <string msgid="977700184037298723" name="permission_access_provider_label">"访问电子邮件服务提供商数据"</string>
+    <string msgid="6579059616090100181" name="permission_read_attachment_desc">"允许此应用读取您的电子邮件附件。"</string>
+    <string msgid="6641407731311699536" name="permission_read_attachment_label">"读取电子邮件附件"</string>
+    <string msgid="6469328498345236120" name="policy_calendar_age">"限制同步的日历活动数"</string>
+    <string msgid="8821533827628900689" name="policy_dont_allow_camera">"不允许使用设备的相机"</string>
+    <string msgid="3521941976575225050" name="policy_email_age">"限制同步的电子邮件数"</string>
+    <string msgid="1287225242918742275" name="policy_password_expiration">"强制密码在一段时间后过期"</string>
+    <string msgid="9001177390979112746" name="policy_password_history">"限制重复使用近期所用密码"</string>
+    <string msgid="3556860917024612396" name="policy_require_password">"需要设备密码"</string>
+    <string msgid="3499201409239287702" name="policy_screen_timeout">"要求闲置设备锁定其屏幕"</string>
+    <string msgid="6653484706414263493" name="pop3_name">"个人(POP3)"</string>
+    <string msgid="1596701148051980218" name="provider_note_t_online">"在设置该电子邮件帐户之前，请访问T-Online网站创建密码，以便使用POP3电子邮件功能。"</string>
+    <string msgid="9130521670178673190" name="quick_1">"非常感谢！"</string>
+    <string msgid="8611591278119481491" name="quick_2">"我觉得不错！"</string>
+    <string msgid="8070999183033184986" name="quick_3">"稍后我会阅读此邮件并给您回复。"</string>
+    <string msgid="216066940197616025" name="quick_4">"我们可以安排一个会议，讨论一下这个问题。"</string>
+    <string msgid="3394094315357455290" name="quick_responses_empty_view">"没有快速回复。"</string>
+    <string msgid="5740359453077441466" name="save_action">"保存"</string>
+    <string msgid="3823930420292838192" name="security_changed_ticker_fmt">"帐户“<ns1:g id="ACCOUNT">%s</ns1:g>”已更改其安全设置，用户无需进行任何操作。"</string>
+    <string msgid="7099561996532829229" name="security_needed_ticker_fmt">"帐户“<ns1:g id="ACCOUNT">%s</ns1:g>”需要更新安全设置。"</string>
+    <string msgid="615639963487448183" name="security_notification_content_change_title">"安全策略已更改"</string>
+    <string msgid="6494791400431198228" name="security_notification_content_unsupported_title">"无法满足安全策略的要求"</string>
+    <string msgid="6321099538307807621" name="security_notification_content_update_title">"需要进行安全更新"</string>
+    <string msgid="3249185558872836884" name="security_unsupported_ticker_fmt">"帐户“<ns1:g id="ACCOUNT">%s</ns1:g>”由于安全要求而无法同步。"</string>
+    <string msgid="9207482909822072856" name="sent_folder_selection_title">"选择 <ns1:g id="ACCOUNT">%s</ns1:g> 在服务器上的已发邮件文件夹"</string>
+    <string msgid="5051852806423550830" name="sign_in_title">"登录"</string>
+    <string msgid="1412668282326928102" name="sign_in_with_google">"使用Google帐户登录"</string>
+    <string msgid="4282359206358453634" name="signed_in_with_service_label">"已登录%s"</string>
+    <string msgid="2248313263003927725" name="system_account_create_failed">"无法创建帐户，请重试。"</string>
+    <string msgid="818944260541160146" name="system_folders_sent_dlg">"选择您在服务器上的已发邮件文件夹"</string>
+    <string msgid="4252740721870748375" name="system_folders_sent_summary">"选择您在服务器上的已发邮件文件夹"</string>
+    <string msgid="8792934374188279309" name="system_folders_sent_title">"已发邮件文件夹"</string>
+    <string msgid="7161311881709109736" name="system_folders_title">"系统文件夹"</string>
+    <string msgid="353701568340939392" name="system_folders_trash_dlg">"选择您在服务器上的已删除邮件文件夹"</string>
+    <string msgid="2583143581531897068" name="system_folders_trash_summary">"选择您在服务器上的已删除邮件文件夹"</string>
+    <string msgid="3190927115504713123" name="system_folders_trash_title">"已删除邮件文件夹"</string>
+    <string msgid="686039558899469073" name="trash_folder_selection_title">"选择 <ns1:g id="ACCOUNT">%s</ns1:g> 在服务器上的已删除邮件文件夹"</string>
+</resources>

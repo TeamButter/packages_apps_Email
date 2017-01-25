@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/layout-w600dp-v13/account_setup_outgoing_fragment.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/layout-w600dp/account_setup_outgoing_fragment.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/layout-w600dp-v13/account_setup_basics_fragment.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/layout-w600dp/account_setup_basics_fragment.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/layout-w600dp-v13/authentication_view.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/layout-w600dp/authentication_view.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/layout-w600dp-v13/account_setup_options_fragment.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/layout-w600dp/account_setup_options_fragment.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/layout-w600dp-v13/account_setup_incoming_fragment.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/layout-w600dp/account_setup_incoming_fragment.xml"
+    }
+]

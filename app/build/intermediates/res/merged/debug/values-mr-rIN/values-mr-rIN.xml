@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6747351773934787126" name="account_duplicate_dlg_message_fmt">"आपण \"<ns1:g id="DUPLICATE">%s</ns1:g>\" खात्यासाठी हे वापरकर्तानाव आधीपासूनच वापरत आहात."</string>
+    <string msgid="3768813340753269695" name="account_duplicate_dlg_title">"डुप्लिकेट खाते"</string>
+    <string msgid="4107093049191103780" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> ला आपण आपल्या सुरक्षितता सेटिंग्ज अद्यतनित करणे आवश्यक आहे."</string>
+    <string msgid="7003032393805438164" name="account_security_dialog_title">"सुरक्षितता अद्यतन"</string>
+    <string msgid="2527501853520160827" name="account_security_policy_explanation_fmt">"<ns1:g id="SERVER">%s</ns1:g> सर्व्हरला आपण त्यास आपल्या Android डिव्हाइसची काही सुरक्षितता वैशिष्ट्ये दूरस्थपणे नियंत्रित करण्यास अनुमती देण्याची आवश्यकता आहे."</string>
+    <string msgid="6072273231606918870" name="account_security_title">"डिव्हाइस सुरक्षितता"</string>
+    <string msgid="589969653965674604" name="account_settings_action">"खाते सेटिंग्ज"</string>
+    <string msgid="3552681465680701047" name="account_settings_background_attachments_label">"संलग्नके डाउनलोड करा"</string>
+    <string msgid="8801504001229061032" name="account_settings_background_attachments_summary">"वाय-फाय द्वारे अलीकडील संदेशांवर संलग्नके स्वयं-डाउनलोड करा"</string>
+    <string msgid="6400715160238559711" name="account_settings_data_usage">"डेटा वापर"</string>
+    <string msgid="2073736045984411004" name="account_settings_description_label">"खाते नाव"</string>
+    <string msgid="6105791335935883199" name="account_settings_edit_quick_responses_label">"द्रुत प्रतिसाद"</string>
+    <string msgid="5406599402930290682" name="account_settings_edit_quick_responses_summary">"ईमेल तयार करताना आपण वारंवार घालता तो मजकूर संपादित करा"</string>
+    <string msgid="7005050362066086119" name="account_settings_enforced_label">"धोरणांची अंमलबजावणी केली"</string>
+    <string msgid="1668581504445370253" name="account_settings_enforced_summary">"काहीही नाही"</string>
+    <string msgid="4232590695889111419" name="account_settings_exit_server_settings">"जतन न केलेले बदल टाकून द्यायचे?"</string>
+    <string msgid="3793314460723296874" name="account_settings_incoming_label">"येणार्‍या सेटिंग्ज"</string>
+    <string msgid="7521181981008371492" name="account_settings_incoming_summary">"वापरकर्तानाव, संकेतशब्द आणि अन्य येणार्‍या सर्व्हर सेटिंग्ज"</string>
+    <string msgid="4107847714594035131" name="account_settings_mail_check_frequency_label">"संकालन वारंवारता"</string>
+    <string msgid="8230436030850457988" name="account_settings_name_label">"आपले नाव"</string>
+    <string msgid="2842952349214972116" name="account_settings_notifications">"सूचना सेटिंग्ज"</string>
+    <string msgid="8621226576645167987" name="account_settings_notify_label">"ईमेल सूचना"</string>
+    <string msgid="88560545461159120" name="account_settings_notify_summary">"ईमेल येते तेव्हा सूचना पाठवा"</string>
+    <string msgid="4997504719643828381" name="account_settings_outgoing_label">"जाणार्‍या सेटिंग्ज"</string>
+    <string msgid="1884202151340479161" name="account_settings_outgoing_summary">"वापरकर्तानाव, संकेतशब्द आणि अन्य जाणार्‍या सर्व्हर सेटिंग्ज"</string>
+    <string msgid="5972183883466873359" name="account_settings_policies">"सुरक्षितता धोरणे"</string>
+    <string msgid="8605492340808650923" name="account_settings_retry_label">"संकालनाचा प्रयत्न करा"</string>
+    <string msgid="2598065993718592906" name="account_settings_retry_summary">"हे खाते संकालित करण्यासाठी येथे स्पर्श करा"</string>
+    <string msgid="2238523918221865167" name="account_settings_ringtone">"रिंगटोन निवडा"</string>
+    <string msgid="3386185135392642067" name="account_settings_servers">"सर्व्हर सेटिंग्ज"</string>
+    <string msgid="4733776978291376161" name="account_settings_summary">"संकालन वारंवारता, सूचना इ."</string>
+    <string msgid="3172491863244160828" name="account_settings_sync_calendar_enable">"कॅलेंडर संकालित करा"</string>
+    <string msgid="411960248618953311" name="account_settings_sync_calendar_summary">"या खात्यासाठी कॅलेंडर इव्हेंट संकालित करा"</string>
+    <string msgid="2642448079273767521" name="account_settings_sync_contacts_enable">"संपर्क संकालित करा"</string>
+    <string msgid="1716022682035150630" name="account_settings_sync_contacts_summary">"या खात्यासाठी संपर्क संकालित करा"</string>
+    <string msgid="7135765408226471860" name="account_settings_sync_email_enable">"संकालन ईमेल"</string>
+    <string msgid="71710510041953351" name="account_settings_sync_email_summary">"या खात्यासाठी ईमेल संकालित करा"</string>
+    <string msgid="7286722617178322465" name="account_settings_unsupported_label">"असमर्थित धोरणे"</string>
+    <string msgid="1980825746966562221" name="account_settings_unsupported_summary">"काहीही नाही"</string>
+    <string msgid="1434091698882290052" name="account_setup_ab_headline">"खाते प्रकाराची पुष्टी करा"</string>
+    <string msgid="6223657094843768202" name="account_setup_ab_instructions_format">"आपण <ns1:g id="EMAIL">%1$s</ns1:g> <ns1:g id="USERPROTOCOL">%2$s</ns1:g> वापरत असल्याचे दर्शविले, परंतु खाते <ns1:g id="PROVIDERPROTOCOL">%3$s</ns1:g> वापरू शकते"</string>
+    <string msgid="3375795537675351389" name="account_setup_account_type_headline">"खाते प्रकार"</string>
+    <string msgid="968088954656738617" name="account_setup_account_type_instructions">"हे खाते कोणत्या प्रकारचे आहे?"</string>
+    <string msgid="4075075565221436715" name="account_setup_autodiscover_dlg_authfail_message">"वापरकर्तानाव, संकेतशब्द आणि खाते सेटिंग्ज योग्य असल्याची पुष्टी करा."</string>
+    <string msgid="7551559109838593189" name="account_setup_autodiscover_dlg_authfail_title">"खाते सेटअप सह समस्या"</string>
+    <string msgid="8701406783555749929" name="account_setup_basics_email_label">"ईमेल पत्ता"</string>
+    <string msgid="8468280216822264643" name="account_setup_basics_headline">"ईमेल खाते"</string>
+    <string msgid="7690861839383362085" name="account_setup_basics_manual_setup_action">"व्यक्तिचलित सेटअप"</string>
+    <string msgid="784962388753706730" name="account_setup_basics_password_label">"संकेतशब्द"</string>
+    <string msgid="5050895656741229172" name="account_setup_basics_title">"खाते सेटअप"</string>
+    <string msgid="9196418179524308411" name="account_setup_check_settings_check_incoming_msg">"सर्व्हर सेटिंग्जचे प्रमाणीकरण करत आहे…"</string>
+    <string msgid="9062019904409225329" name="account_setup_check_settings_check_outgoing_msg">"smtp सेटिंग्ज प्रमाणित करत आहे…"</string>
+    <string msgid="9103280616618316032" name="account_setup_check_settings_retr_info_msg">"खाते माहिती पुनर्प्राप्त करत आहे…"</string>
+    <string msgid="2898648422471181490" name="account_setup_creating_account_msg">"खाते तयार करत आहे…"</string>
+    <string msgid="8756785660598838350" name="account_setup_exchange_certificate_title">"क्लायंट प्रमाणपत्र"</string>
+    <string msgid="2306603503497194905" name="account_setup_exchange_device_id_label">"मोबाईल डिव्हाइस ID"</string>
+    <string msgid="3569712401698909695" name="account_setup_exchange_no_certificate">"काहीही नाही"</string>
+    <string msgid="1222387802827919583" name="account_setup_exchange_remove_certificate">"काढा"</string>
+    <string msgid="264748505181695915" name="account_setup_exchange_select_certificate">"निवडा"</string>
+    <string msgid="6513687497912094538" name="account_setup_exchange_use_certificate">"क्लायंट प्रमाणपत्र वापरा"</string>
+    <string msgid="2051742796367919026" name="account_setup_failed_access_denied">"आपल्याला या सर्व्हरसह संकालन करण्याची परवानगी नाही. अधिक माहितीसाठी आपल्या सर्व्हरच्या प्रशासकाशी संपर्क साधा."</string>
+    <string msgid="2684010997018901707" name="account_setup_failed_auth_required">"प्रमाणीकरण पद्धती सर्व्हरद्वारे समर्थित नाहीत."</string>
+    <string msgid="4574461885959029072" name="account_setup_failed_certificate_inaccessible">"प्रमाणपत्र अवैध किंवा प्रवेश न करण्यायोग्य आहे."</string>
+    <string msgid="4607859382193244795" name="account_setup_failed_certificate_required">"क्लायंट प्रमाणपत्र आवश्यक आहे. आपण क्लायंट प्रमाणपत्रासह सर्व्हरशी कनेक्ट करू इच्छिता?"</string>
+    <string msgid="430054384233036305" name="account_setup_failed_check_credentials_message">"सर्व्हरने त्रुटीसह प्रतिसाद दिला. आपले वापरकर्तानाव आणि संकेतशब्द तपासा, नंतर पुन्हा प्रयत्न करा."</string>
+    <string msgid="5608549872868036352" name="account_setup_failed_dlg_auth_message">"वापरकर्तानाव किंवा संकेतशब्द चुकीचा आहे."</string>
+    <string msgid="4725950885859654809" name="account_setup_failed_dlg_certificate_message">"सर्व्हरशी सुरक्षितपणे कनेक्ट करू शकत नाही."</string>
+    <string msgid="3451681985727559303" name="account_setup_failed_dlg_certificate_message_fmt">"सर्व्हरशी सुरक्षितपणे कनेक्ट करू शकत नाही. \n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="8155332642922842729" name="account_setup_failed_dlg_edit_details_action">"तपशील संपादित करा"</string>
+    <string msgid="1180197172141077524" name="account_setup_failed_dlg_server_message">"सर्व्‍हरशी कनेक्‍ट करू शकत नाही."</string>
+    <string msgid="3889441611138037320" name="account_setup_failed_dlg_server_message_fmt">"सर्व्हरशी कनेक्ट करू शकत नाही.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="7923577224474005464" name="account_setup_failed_dlg_title">"समाप्त करू शकलो नाही"</string>
+    <string msgid="3862689923436539909" name="account_setup_failed_ioerror">"सर्व्हरवरील कनेक्शन उघडू शकलो नाही."</string>
+    <string msgid="4973054582044010375" name="account_setup_failed_protocol_unsupported">"आपण चुकीचा सर्व्हर पत्ता टाईप केला आहे किंवा सर्व्हरला ईमेल समर्थन करत नसलेली प्रोटोकॉल आवृत्ती आवश्यक आहे."</string>
+    <string msgid="1627240499907011040" name="account_setup_failed_security">"सुरक्षितता त्रुटीमुळे सर्व्हरवर कनेक्शन उघडू शकलो नाही."</string>
+    <string msgid="4619685657253094627" name="account_setup_failed_security_policies_unsupported">"या सर्व्हरला आपला Android डिव्हाइस समर्थन करत नसलेल्या सुरक्षितता वैशिष्ट्यांची आवश्यकता आहे, यासह: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="1902309158359287958" name="account_setup_failed_tls_required">"TLS आवश्यक आहे परंतु सर्व्हरद्वारे समर्थित नाही."</string>
+    <string msgid="8677018382715596606" name="account_setup_incoming_delete_policy_delete_label">"मी इनबॉक्समधून हटवतो तेव्हा"</string>
+    <string msgid="2341742235654301690" name="account_setup_incoming_delete_policy_label">"सर्व्हरवरून ईमेल हटवा"</string>
+    <string msgid="5777530843489961009" name="account_setup_incoming_delete_policy_never_label">"कधीही नाही"</string>
+    <string msgid="6232828824446177639" name="account_setup_incoming_headline">"येणार्‍या सर्व्हर सेटिंग्ज"</string>
+    <string msgid="206747922689229932" name="account_setup_incoming_imap_path_prefix_hint">"पर्यायी"</string>
+    <string msgid="3531290378620033218" name="account_setup_incoming_imap_path_prefix_label">"IMAP पथ प्रत्यय"</string>
+    <string msgid="4806105500058512876" name="account_setup_incoming_password_label">"संकेतशब्द"</string>
+    <string msgid="402562424498833560" name="account_setup_incoming_port_label">"पोर्ट"</string>
+    <string msgid="8360505617331971663" name="account_setup_incoming_security_label">"सुरक्षितता प्रकार"</string>
+    <string msgid="2461510827337484818" name="account_setup_incoming_security_none_label">"काहीही नाही"</string>
+    <string msgid="5169133414545009342" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="2834386066577239560" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (सर्व प्रमाणपत्रे स्वीकारा)"</string>
+    <string msgid="3892291833944170882" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="2281920902104029077" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (सर्व प्रमाणपत्रे स्वीकारा)"</string>
+    <string msgid="5409694850973258387" name="account_setup_incoming_server_label">"सर्व्हर"</string>
+    <string msgid="2609699829997945895" name="account_setup_incoming_username_label">"वापरकर्तानाव"</string>
+    <string msgid="3487538709712378441" name="account_setup_names_account_name_label">"या खात्यास एक नाव द्या (पर्यायी)"</string>
+    <string msgid="2031978210683887370" name="account_setup_names_headline">"आपले खाते सेट झाले आहे आणि ईमेल त्याच्या मार्गावर आहे!"</string>
+    <string msgid="4298006111315033499" name="account_setup_names_user_name_label">"आपले नाव (जाणार्‍या संदेशांवर प्रदर्शित केलेले)"</string>
+    <string msgid="4085327585082867216" name="account_setup_options_background_attachments_label">"वाय-फाय शी कनेक्ट करता तेव्हा संलग्नके स्वयंचलितपणे डाउनलोड करा"</string>
+    <string msgid="4810292194395251968" name="account_setup_options_headline">"खाते पर्याय"</string>
+    <string msgid="8787901333816702849" name="account_setup_options_mail_check_frequency_10min">"दर 10 मिनिटांनी"</string>
+    <string msgid="7127640170766018765" name="account_setup_options_mail_check_frequency_15min">"दर 15 मिनिटांनी"</string>
+    <string msgid="107706566853925273" name="account_setup_options_mail_check_frequency_1hour">"दर तासाला"</string>
+    <string msgid="4223562871143897449" name="account_setup_options_mail_check_frequency_30min">"दर 30 मिनिटांनी"</string>
+    <string msgid="8929785860545198867" name="account_setup_options_mail_check_frequency_5min">"दर 5 मिनिटांनी"</string>
+    <string msgid="7253305392938373553" name="account_setup_options_mail_check_frequency_label">"वारंवारता संकालित करा:"</string>
+    <string msgid="2937664246354067829" name="account_setup_options_mail_check_frequency_never">"कधीही नाही"</string>
+    <string msgid="5511415696925307797" name="account_setup_options_mail_check_frequency_push">"स्वयं (पुश करा)"</string>
+    <string msgid="7930883294844418428" name="account_setup_options_mail_window_1day">"अंतिम दिवस"</string>
+    <string msgid="3228265299330513816" name="account_setup_options_mail_window_1month">"अंतिम महिना"</string>
+    <string msgid="5230695719358085318" name="account_setup_options_mail_window_1week">"गेला आठवडा"</string>
+    <string msgid="1144271277694832921" name="account_setup_options_mail_window_2weeks">"गेले दोन आठवडे"</string>
+    <string msgid="3435093562391555730" name="account_setup_options_mail_window_3days">"अंतिम तीन दिवस"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"सर्व"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"स्वयंचलित"</string>
+    <string msgid="5518038139722596598" name="account_setup_options_mail_window_default">"खाते डीफॉल्ट वापरा"</string>
+    <string msgid="4737241149297585368" name="account_setup_options_mail_window_label">"येथील ईमेल संकालित करा:"</string>
+    <string msgid="3101529443722198112" name="account_setup_options_notify_label">"ईमेल येते तेव्हा मला सूचित करा"</string>
+    <string msgid="303441956432308807" name="account_setup_options_sync_calendar_label">"या खात्यातून कॅलेंडर संकालित करा"</string>
+    <string msgid="5029046373980454714" name="account_setup_options_sync_contacts_label">"या खात्यातून संपर्क संकालित करा"</string>
+    <string msgid="468957966555663131" name="account_setup_options_sync_email_label">"या खात्यावरून ईमेल संकालित करा"</string>
+    <string msgid="6638171491109658047" name="account_setup_outgoing_headline">"जाणार्‍या सर्व्हर सेटिंग्ज"</string>
+    <string msgid="3735952013505812378" name="account_setup_outgoing_port_label">"पोर्ट"</string>
+    <string msgid="5405196721947884033" name="account_setup_outgoing_require_login_label">"साइन इन आवश्यक"</string>
+    <string msgid="6473177134731615282" name="account_setup_outgoing_security_label">"सुरक्षितता प्रकार"</string>
+    <string msgid="3460163861711242681" name="account_setup_outgoing_smtp_server_label">"SMTP सर्व्हर"</string>
+    <string msgid="8844680398828891772" name="account_setup_outgoing_username_label">"वापरकर्तानाव"</string>
+    <string msgid="5930042642982830233" name="account_setup_password_subheading">"संकेतशब्द"</string>
+    <string msgid="9029471168291631932" name="account_setup_security_policies_required_fmt">"<ns1:g id="SERVER">%s</ns1:g> सर्व्हरला आपण त्यास आपल्या Android डिव्हाइसची काही वैशिष्ट्ये दूरस्थपणे नियंत्रित करू देण्याची आवश्यकता आहे. आपण हे खाते सेट करणे समाप्त करू इच्छिता?"</string>
+    <string msgid="667943309546419435" name="account_setup_security_required_title">"दूरस्थ सुरक्षितता प्रशासन"</string>
+    <string msgid="3659744829670065777" name="account_setup_username_password_toast">"एक वैध ईमेल पत्ता आणि संकेतशब्द टाइप करा."</string>
+    <string msgid="8848194305692897677" name="account_waiting_for_folders_msg">"फोल्डर सूची लोड करत आहे..."</string>
+    <string msgid="7230367425520242593" name="accounts_welcome">"आपण फक्त थोड्या चरणांमध्ये आपले खाते सेट करू शकता."</string>
+    <string msgid="382998197798081729" name="add_authentication_label">"प्रमाणीकरण जोडा"</string>
+    <string msgid="2206468539066258195" name="app_name">"ईमेल"</string>
+    <string msgid="914463525214987772" name="authentication_label">"प्रमाणीकरण"</string>
+    <string msgid="4750930803913225689" name="clear_authentication_label">"प्रमाणीकरण साफ करा"</string>
+    <string msgid="6764021931370809514" name="confirm_response">"प्रतिसाद पाठवित आहे…"</string>
+    <string msgid="6575946089819721958" name="create_action">"नवीन तयार करा"</string>
+    <string msgid="1337476992195531309" name="debug_title">"डीबग करा"</string>
+    <string msgid="4299378570982520839" name="device_admin_description">"सर्व्हर-निर्दिष्ट सुरक्षितता धोरणे सक्षम करते"</string>
+    <string msgid="3335272972461391415" name="device_admin_label">"ईमेल"</string>
+    <string msgid="6001542250505146252" name="disable_admin_warning">"चेतावणी: आपले डिव्हाइस चालविण्यासाठी ईमेल अॅपचे अधिकार निष्क्रिय केल्याने, ज्या खात्यांना त्याची आवश्यकता आहे ती सर्व खाती त्यांचे ईमेल, संपर्क, कॅलेंडर इव्हेंट आणि अन्य डेटा यासह हटवली जातील."</string>
+    <string msgid="3048014284772648575" name="edit_quick_response_dialog">"द्रुत प्रतिसाद"</string>
+    <string msgid="64258748053106017" name="email_confirmation_label">"ईमेल पत्ता:"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="349478353401667107" name="folder_sync_settings_pref_title">"फोल्डर संकालन सेटिंग्ज"</string>
+    <string msgid="2900585518884851062" name="forward_download_failed_ticker">"एक किंवा अधिक संलग्नके अग्रेषित करू शकलो नाही."</string>
+    <string msgid="2043036709913723298" name="forward_download_failed_title">"संलग्नक अग्रेषित केले नाही"</string>
+    <string msgid="2099786953868369991" name="gmail_name">"Gmail"</string>
+    <string msgid="8285222985908214985" name="imap_name">"वैयक्तिक (IMAP)"</string>
+    <string msgid="140881511322826320" name="label_notification_vibrate_title">"कंपन करा"</string>
+    <string msgid="4620839194581484497" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> साइन इन अयशस्वी."</string>
+    <string msgid="1737884069957090004" name="login_failed_title">"साइन इन करू शकलो नाही"</string>
+    <string msgid="4155918930481733669" name="mailbox_list_account_selector_combined_view">"संयुक्त दृश्य"</string>
+    <string msgid="3552043116466269581" name="mailbox_name_display_drafts">"मसुदे"</string>
+    <string msgid="5093068725739672126" name="mailbox_name_display_inbox">"इनबॉक्स"</string>
+    <string msgid="1634126984313831675" name="mailbox_name_display_junk">"जंक"</string>
+    <string msgid="8735725798805339414" name="mailbox_name_display_outbox">"आउटबॉक्स"</string>
+    <string msgid="6705058612006729985" name="mailbox_name_display_sent">"प्रेषित"</string>
+    <string msgid="8076384721309828453" name="mailbox_name_display_starred">"तारांकित"</string>
+    <string msgid="7020792045007681852" name="mailbox_name_display_trash">"कचरा"</string>
+    <string msgid="1453575937919310339" name="mailbox_name_display_unread">"न वाचलेले"</string>
+    <string msgid="2196614373847675314" name="mailbox_settings_activity_title">"संकालन पर्याय"</string>
+    <string msgid="5547676392298186906" name="mailbox_settings_activity_title_with_mailbox">"संकालन पर्याय (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="7027516982341382326" name="mailbox_settings_mailbox_sync_window_label">"संकालन करण्यासाठी मेलचे दिवस"</string>
+    <string msgid="7723413381707277856" name="mailbox_settings_sync_enabled_label">"हे फोल्डर संकालित करा"</string>
+    <string msgid="742233465207750578" name="mailbox_settings_sync_enabled_summary">"कनेक्ट केलेले असते तेव्हा संदेश डाउनलोड होतील"</string>
+    <string msgid="6193988236722150221" name="message_compose_fwd_header_fmt">\n\n"-------- मूळ संदेश --------\nविषय: <ns1:g id="SUBJECT">%1$s</ns1:g>\nप्रेषक: <ns1:g id="SENDER">%2$s</ns1:g>\nप्रति: <ns1:g id="TO">%3$s</ns1:g>\nCC: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5836926808818821309" name="message_compose_insert_quick_response_list_title">"द्रुत प्रतिसाद घाला"</string>
+    <string msgid="4393288554605333619" name="message_compose_insert_quick_response_menu_title">"द्रुत प्रतिसाद घाला"</string>
+    <string msgid="91396461771444300" name="message_decode_error">"संदेश डीकोड करताना एक त्रुटी आली."</string>
+    <string msgid="7571652141281187845" name="message_view_attachment_background_load">"आपल्या अग्रेषित केलेल्या संदेशांमधील एक किंवा दोन संलग्नके पाठविण्याच्या अगोदर डाउनलोड केले जातील."</string>
+    <string msgid="8716297053803961304" name="no_quick_responses">"काहीही उपलब्ध नाही"</string>
+    <string msgid="3771260531636603518" name="oauth_authentication_title">"प्राधिकृततेसाठी विनंती करत आहे"</string>
+    <string msgid="8466102021844409849" name="oauth_error_description">"प्रमाणीकृत करण्यात अक्षम"</string>
+    <string msgid="6408695162723653446" name="or_label">"किंवा"</string>
+    <string msgid="4360288708739366810" name="password_expire_warning_content_title">"लॉक स्क्रीन संकेतशब्द कालबाह्य होत आहे"</string>
+    <string msgid="1093389293050776319" name="password_expire_warning_dialog_content_fmt">"आपल्याला लवकरच आपला लॉक स्क्रीन पिन किंवा संकेतशब्द बदलण्याची आवश्यकता आहे किंवा <ns1:g id="ACCOUNT">%s</ns1:g> साठीचा डेटा हटविला जाईल. आपण आता तो बदलू इच्छिता?"</string>
+    <string msgid="4901499545146045672" name="password_expire_warning_dialog_title">"लॉक स्क्रीन संकेतशब्द कालबाह्य होत आहे"</string>
+    <string msgid="5543005790538884060" name="password_expire_warning_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" ला आपण आपला लॉक स्क्रीन पिन किंवा संकेतशब्द बदलण्याची आवश्यकता आहे."</string>
+    <string msgid="7379094218699681984" name="password_expired_content_title">"स्क्रीन लॉक संकेतशब्द कालबाह्य"</string>
+    <string msgid="8322213184626443346" name="password_expired_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> साठीचा डेटा आपल्या डिव्हाइसवरून हटविला जात आहे. आपण आपला लॉक स्क्रीन पिन किंवा संकेतशब्द बदलून तो पुनर्संचयित करू शकता. आपण आता तो बदलू इच्छिता?"</string>
+    <string msgid="7275534155170185252" name="password_expired_dialog_title">"स्क्रीन लॉक संकेतशब्द कालबाह्य"</string>
+    <string msgid="3098703963402347483" name="password_expired_ticker">"आपला लॉक स्क्रीन पिन किंवा संकेतशब्द कालबाह्य झाला आहे."</string>
+    <string msgid="4226682910292828279" name="password_hint">"संकेतशब्द"</string>
+    <string msgid="1887439537224212124" name="password_warning_label">"ईमेल पत्ता किंवा संकेतशब्द चुकीचे आहेत"</string>
+    <string msgid="5338433949655493713" name="permission_access_provider_desc">"प्राप्त केलेले संदेश, पाठविलेले संदेश, वापरकर्तानावे आणि संकेतशब्द यासह, आपल्या ईमेल डेटाबेसवर प्रवेश करण्यासाठी अॅप ला अनुमती देते."</string>
+    <string msgid="977700184037298723" name="permission_access_provider_label">"ईमेल प्रदाता डेटावर प्रवेश करा"</string>
+    <string msgid="6579059616090100181" name="permission_read_attachment_desc">"आपली ईमेल संलग्नके वाचण्यास अॅप ला अनुमती देते."</string>
+    <string msgid="6641407731311699536" name="permission_read_attachment_label">"ईमेल संलग्नके वाचा"</string>
+    <string msgid="6469328498345236120" name="policy_calendar_age">"संकालित केलेल्या कॅलेंडर इव्हेंटची संख्या मर्यादित करा"</string>
+    <string msgid="8821533827628900689" name="policy_dont_allow_camera">"डिव्हाइसचा कॅमेरा वापरण्याची अनुमती रद्द करा"</string>
+    <string msgid="3521941976575225050" name="policy_email_age">"संकालित केलेल्या ईमेलची संख्या मर्यादित करा"</string>
+    <string msgid="1287225242918742275" name="policy_password_expiration">"संकेतशब्द कालबाह्य होणे आवश्यक"</string>
+    <string msgid="9001177390979112746" name="policy_password_history">"अलीकडील संकेतशब्द पुनर्वापरासाठी प्रतिबंधित करा"</string>
+    <string msgid="3556860917024612396" name="policy_require_password">"डिव्हाइस संकेतशब्द आवश्यक"</string>
+    <string msgid="3499201409239287702" name="policy_screen_timeout">"त्याची स्क्रीन लॉक करण्यासाठी निष्क्रिय डिव्हाइस आवश्यक"</string>
+    <string msgid="6653484706414263493" name="pop3_name">"वैयक्तिक (POP3)"</string>
+    <string msgid="1596701148051980218" name="provider_note_t_online">"हे ईमेल खाते सेट करण्यापूर्वी, T-ऑनलाइन वेबसाइटला भेट द्या आणि POP3 ईमेल प्रवेशाकरिता एक संकेतशब्द तयार करा."</string>
+    <string msgid="9130521670178673190" name="quick_1">"धन्यवाद!"</string>
+    <string msgid="8611591278119481491" name="quick_2">"मला छान वाटतंय!"</string>
+    <string msgid="8070999183033184986" name="quick_3">"मी हे नंतर वाचेन आणि परत आपल्याशी संपर्क साधेन."</string>
+    <string msgid="216066940197616025" name="quick_4">"याची चर्चा करण्यासाठी एक संमेलन सेट करू या."</string>
+    <string msgid="3394094315357455290" name="quick_responses_empty_view">"द्रुत प्रतिसाद नाहीत."</string>
+    <string msgid="5740359453077441466" name="save_action">"जतन करा"</string>
+    <string msgid="3823930420292838192" name="security_changed_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" खात्याने त्याच्या सुरक्षितता सेटिंग्ज बदलल्या; वापरकर्ता क्रिया आवश्यक नाही."</string>
+    <string msgid="7099561996532829229" name="security_needed_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" खात्यास सुरक्षितता सेटिंग्ज अद्यतन आवश्यक असते."</string>
+    <string msgid="615639963487448183" name="security_notification_content_change_title">"सुरक्षितता धोरणे बदलली आहेत"</string>
+    <string msgid="6494791400431198228" name="security_notification_content_unsupported_title">"सुरक्षितता धोरणांची पूर्तता केली जाऊ शकत नाही"</string>
+    <string msgid="6321099538307807621" name="security_notification_content_update_title">"सुरक्षितता अद्यतन आवश्यक"</string>
+    <string msgid="3249185558872836884" name="security_unsupported_ticker_fmt">"सुरक्षितता आवश्यकतांमुळे \"<ns1:g id="ACCOUNT">%s</ns1:g>\" खाते संकालित केले जाऊ शकत नाही."</string>
+    <string msgid="9207482909822072856" name="sent_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g> साठी सर्व्हरने पाठविलेले आयटम फोल्डर निवडा"</string>
+    <string msgid="5051852806423550830" name="sign_in_title">"साइन इन करा"</string>
+    <string msgid="1412668282326928102" name="sign_in_with_google">"Google सह साइन इन करा"</string>
+    <string msgid="4282359206358453634" name="signed_in_with_service_label">"%s सह साइन इन केले"</string>
+    <string msgid="2248313263003927725" name="system_account_create_failed">"खाते तयार करू शकलो नाही. पुन्हा प्रयत्न करा."</string>
+    <string msgid="818944260541160146" name="system_folders_sent_dlg">"आपल्या सर्व्हरचे प्रेषित आयटम फोल्डर निवडा"</string>
+    <string msgid="4252740721870748375" name="system_folders_sent_summary">"आपल्या सर्व्हरचे पाठविलेले आयटम फोल्डर निवडा"</string>
+    <string msgid="8792934374188279309" name="system_folders_sent_title">"प्रेषित आयटम फोल्डर"</string>
+    <string msgid="7161311881709109736" name="system_folders_title">"सिस्टीम फोल्डर"</string>
+    <string msgid="353701568340939392" name="system_folders_trash_dlg">"आपल्या सर्व्हरचे कचरा फोल्डर निवडा"</string>
+    <string msgid="2583143581531897068" name="system_folders_trash_summary">"आपल्या सर्व्हरचे कचरा फोल्डर निवडा"</string>
+    <string msgid="3190927115504713123" name="system_folders_trash_title">"कचरा फोल्डर"</string>
+    <string msgid="686039558899469073" name="trash_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g> साठी सर्व्हर कचरा फोल्डर निवडा"</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exchange_selected.png",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-xhdpi/ic_exchange_selected.png"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_notification_mail_24dp.png",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_notification_mail_24dp.png"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_next_24dp.png",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_next_24dp.png"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_setup_delete.png",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-xhdpi/ic_setup_delete.png"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exchange_minitab_selected.png",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-xhdpi/ic_exchange_minitab_selected.png"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_add_24dp.png",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/drawable-xhdpi/ic_add_24dp.png"
+    }
+]

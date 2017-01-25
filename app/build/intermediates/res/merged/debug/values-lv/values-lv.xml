@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6747351773934787126" name="account_duplicate_dlg_message_fmt">"Jūs jau izmantojat šo lietotājvārdu kontam <ns1:g id="DUPLICATE">%s</ns1:g>."</string>
+    <string msgid="3768813340753269695" name="account_duplicate_dlg_title">"Dublikāta konts"</string>
+    <string msgid="4107093049191103780" name="account_security_dialog_content_fmt">"Kontam <ns1:g id="ACCOUNT">%s</ns1:g> ir jāatjaunina drošības iestatījumi."</string>
+    <string msgid="7003032393805438164" name="account_security_dialog_title">"Drošības atjauninājums"</string>
+    <string msgid="2527501853520160827" name="account_security_policy_explanation_fmt">"Serveris <ns1:g id="SERVER">%s</ns1:g> pieprasa, lai jūs tam atļautu attālināti vadīt dažas jūsu Android ierīces drošības funkcijas."</string>
+    <string msgid="6072273231606918870" name="account_security_title">"Ierīces drošība"</string>
+    <string msgid="589969653965674604" name="account_settings_action">"Konta iestatījumi"</string>
+    <string msgid="3552681465680701047" name="account_settings_background_attachments_label">"Lejupielādēt pielikumus"</string>
+    <string msgid="8801504001229061032" name="account_settings_background_attachments_summary">"Automātiski lejupielādēt jaunāko ziņojumu pielikumus Wi-Fi tīklā"</string>
+    <string msgid="6400715160238559711" name="account_settings_data_usage">"Datu lietojums"</string>
+    <string msgid="2073736045984411004" name="account_settings_description_label">"Konta nosaukums"</string>
+    <string msgid="6105791335935883199" name="account_settings_edit_quick_responses_label">"Ātrās atbildes"</string>
+    <string msgid="5406599402930290682" name="account_settings_edit_quick_responses_summary">"Rediģēt tekstu, kuru bieži ievietojat e-pasta ziņojumos"</string>
+    <string msgid="7005050362066086119" name="account_settings_enforced_label">"Īstenotās politikas"</string>
+    <string msgid="1668581504445370253" name="account_settings_enforced_summary">"Nav"</string>
+    <string msgid="4232590695889111419" name="account_settings_exit_server_settings">"Vai atmest nesaglabātās izmaiņas?"</string>
+    <string msgid="3793314460723296874" name="account_settings_incoming_label">"Ienākošo datu iestatījumi"</string>
+    <string msgid="7521181981008371492" name="account_settings_incoming_summary">"Lietotājvārds, parole u.c. ienākošā pasta servera iestatījumi"</string>
+    <string msgid="4107847714594035131" name="account_settings_mail_check_frequency_label">"Sinhronizēšanas biežums"</string>
+    <string msgid="8230436030850457988" name="account_settings_name_label">"Jūsu vārds"</string>
+    <string msgid="2842952349214972116" name="account_settings_notifications">"Paziņojumu iestatījumi"</string>
+    <string msgid="8621226576645167987" name="account_settings_notify_label">"E-pasta paziņojumi"</string>
+    <string msgid="88560545461159120" name="account_settings_notify_summary">"Nosūtīt paziņojumu, kad tiek saņemts e-pasta ziņojums"</string>
+    <string msgid="4997504719643828381" name="account_settings_outgoing_label">"Izejošo datu iestatījumi"</string>
+    <string msgid="1884202151340479161" name="account_settings_outgoing_summary">"Lietotājvārds, parole un citi izejošā pasta servera iestatījumi"</string>
+    <string msgid="5972183883466873359" name="account_settings_policies">"Drošības politikas"</string>
+    <string msgid="8605492340808650923" name="account_settings_retry_label">"Sinhronizēt"</string>
+    <string msgid="2598065993718592906" name="account_settings_retry_summary">"Pieskarties šeit, lai sinhronizētu šo kontu"</string>
+    <string msgid="2238523918221865167" name="account_settings_ringtone">"Izvēlēties zvana signālu"</string>
+    <string msgid="3386185135392642067" name="account_settings_servers">"Servera iestatījumi"</string>
+    <string msgid="4733776978291376161" name="account_settings_summary">"Sinhronizācijas biežums, paziņojumi u.c."</string>
+    <string msgid="3172491863244160828" name="account_settings_sync_calendar_enable">"Sinhronizēt kalendāru"</string>
+    <string msgid="411960248618953311" name="account_settings_sync_calendar_summary">"Sinhr. šī konta kalendāra notikumus"</string>
+    <string msgid="2642448079273767521" name="account_settings_sync_contacts_enable">"Sinhronizēt kontaktpersonas"</string>
+    <string msgid="1716022682035150630" name="account_settings_sync_contacts_summary">"Sinhron. kontaktpersonas šim kontam"</string>
+    <string msgid="7135765408226471860" name="account_settings_sync_email_enable">"Sinhronizēt e-pastu"</string>
+    <string msgid="71710510041953351" name="account_settings_sync_email_summary">"Sinhronizēt e-pastu šim kontam"</string>
+    <string msgid="7286722617178322465" name="account_settings_unsupported_label">"Neatbalstītas politikas"</string>
+    <string msgid="1980825746966562221" name="account_settings_unsupported_summary">"Nav"</string>
+    <string msgid="1434091698882290052" name="account_setup_ab_headline">"Konta veida apstiprināšana"</string>
+    <string msgid="6223657094843768202" name="account_setup_ab_instructions_format">"Jūsu norādītajā e-pasta adresē <ns1:g id="EMAIL">%1$s</ns1:g> tiek izmantots protokols <ns1:g id="USERPROTOCOL">%2$s</ns1:g>, taču kontam, iespējams, tiek lietots protokols <ns1:g id="PROVIDERPROTOCOL">%3$s</ns1:g>."</string>
+    <string msgid="3375795537675351389" name="account_setup_account_type_headline">"Konta veids"</string>
+    <string msgid="968088954656738617" name="account_setup_account_type_instructions">"Kāds ir šī konta veids?"</string>
+    <string msgid="4075075565221436715" name="account_setup_autodiscover_dlg_authfail_message">"Apstipriniet, ka lietotājvārds, parole un konta iestatījumi ir pareizi."</string>
+    <string msgid="7551559109838593189" name="account_setup_autodiscover_dlg_authfail_title">"Problēma ar konta iestatīšanu"</string>
+    <string msgid="8701406783555749929" name="account_setup_basics_email_label">"E-pasta adrese"</string>
+    <string msgid="8468280216822264643" name="account_setup_basics_headline">"E-pasta konts"</string>
+    <string msgid="7690861839383362085" name="account_setup_basics_manual_setup_action">"Manuāla iest."</string>
+    <string msgid="784962388753706730" name="account_setup_basics_password_label">"PAROLE"</string>
+    <string msgid="5050895656741229172" name="account_setup_basics_title">"Konta iestatīšana"</string>
+    <string msgid="9196418179524308411" name="account_setup_check_settings_check_incoming_msg">"Notiek servera iestatījumu pārbaude…"</string>
+    <string msgid="9062019904409225329" name="account_setup_check_settings_check_outgoing_msg">"Notiek SMTP iestatījumu pārbaude..."</string>
+    <string msgid="9103280616618316032" name="account_setup_check_settings_retr_info_msg">"Notiek konta informācijas izgūšana..."</string>
+    <string msgid="2898648422471181490" name="account_setup_creating_account_msg">"Notiek konta izveide..."</string>
+    <string msgid="8756785660598838350" name="account_setup_exchange_certificate_title">"KLIENTA SERTIFIKĀTS"</string>
+    <string msgid="2306603503497194905" name="account_setup_exchange_device_id_label">"MOBILĀS IERĪCES ID"</string>
+    <string msgid="3569712401698909695" name="account_setup_exchange_no_certificate">"Nav"</string>
+    <string msgid="1222387802827919583" name="account_setup_exchange_remove_certificate">"Noņemt"</string>
+    <string msgid="264748505181695915" name="account_setup_exchange_select_certificate">"Atlasīt"</string>
+    <string msgid="6513687497912094538" name="account_setup_exchange_use_certificate">"Izmantot klienta sertifikātu"</string>
+    <string msgid="2051742796367919026" name="account_setup_failed_access_denied">"Jums nav atļaujas veikt sinhronizāciju ar šo serveri. Lai iegūtu plašāku informāciju, sazinieties ar servera administratoru."</string>
+    <string msgid="2684010997018901707" name="account_setup_failed_auth_required">"Serverī netiek atbalstītas autentifikācijas metodes."</string>
+    <string msgid="4574461885959029072" name="account_setup_failed_certificate_inaccessible">"Sertifikāts nav derīgs vai nav pieejams."</string>
+    <string msgid="4607859382193244795" name="account_setup_failed_certificate_required">"Ir nepieciešams klienta sertifikāts. Vai vēlaties izveidot savienojumu ar serveri, izmantojot klienta sertifikātu?"</string>
+    <string msgid="430054384233036305" name="account_setup_failed_check_credentials_message">"Serveris atgrieza kļūdu. Pārbaudiet lietotājvārdu un paroli un pēc tam mēģiniet vēlreiz."</string>
+    <string msgid="5608549872868036352" name="account_setup_failed_dlg_auth_message">"Nepareizs lietotājvārds vai parole."</string>
+    <string msgid="4725950885859654809" name="account_setup_failed_dlg_certificate_message">"Nevar izveidot drošu savienojumu ar serveri."</string>
+    <string msgid="3451681985727559303" name="account_setup_failed_dlg_certificate_message_fmt">"Nevar izveidot drošu savienojumu ar serveri.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="8155332642922842729" name="account_setup_failed_dlg_edit_details_action">"Rediģēt datus"</string>
+    <string msgid="1180197172141077524" name="account_setup_failed_dlg_server_message">"Nevar izveidot savienojumu ar serveri."</string>
+    <string msgid="3889441611138037320" name="account_setup_failed_dlg_server_message_fmt">"Nevar izveidot savienojumu ar serveri.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="7923577224474005464" name="account_setup_failed_dlg_title">"Nevarēja pabeigt"</string>
+    <string msgid="3862689923436539909" name="account_setup_failed_ioerror">"Nevarēja izveidot savienojumu ar serveri."</string>
+    <string msgid="4973054582044010375" name="account_setup_failed_protocol_unsupported">"Jūs ierakstījāt nepareizu servera adresi, vai arī serverī tiek pieprasīta tāda protokola versija, kas netiek atbalstīta lietotnē E-pasts."</string>
+    <string msgid="1627240499907011040" name="account_setup_failed_security">"Nevarēja izveidot savienojumu ar serveri drošības kļūdas dēļ."</string>
+    <string msgid="4619685657253094627" name="account_setup_failed_security_policies_unsupported">"Šajā serverī tiek pieprasītas drošības funkcijas, kas netiek atbalstītas jūsu Android ierīcē, tostarp: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="1902309158359287958" name="account_setup_failed_tls_required">"Protokols TLS ir obligāts, taču serveris to neatbalsta."</string>
+    <string msgid="8677018382715596606" name="account_setup_incoming_delete_policy_delete_label">"Kad es dzēšu no iesūtnes"</string>
+    <string msgid="2341742235654301690" name="account_setup_incoming_delete_policy_label">"Dzēst e-pasta ziņojumu no servera"</string>
+    <string msgid="5777530843489961009" name="account_setup_incoming_delete_policy_never_label">"Nekad"</string>
+    <string msgid="6232828824446177639" name="account_setup_incoming_headline">"Ienākošā servera iestatījumi"</string>
+    <string msgid="206747922689229932" name="account_setup_incoming_imap_path_prefix_hint">"Neobligāti"</string>
+    <string msgid="3531290378620033218" name="account_setup_incoming_imap_path_prefix_label">"IMAP ceļa prefikss"</string>
+    <string msgid="4806105500058512876" name="account_setup_incoming_password_label">"PAROLE"</string>
+    <string msgid="402562424498833560" name="account_setup_incoming_port_label">"PORTS"</string>
+    <string msgid="8360505617331971663" name="account_setup_incoming_security_label">"DROŠĪBAS VEIDS"</string>
+    <string msgid="2461510827337484818" name="account_setup_incoming_security_none_label">"Nav"</string>
+    <string msgid="5169133414545009342" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="2834386066577239560" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (pieņemt visus sertifikātus)"</string>
+    <string msgid="3892291833944170882" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="2281920902104029077" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (pieņemt visus sertifikātus)"</string>
+    <string msgid="5409694850973258387" name="account_setup_incoming_server_label">"SERVERIS"</string>
+    <string msgid="2609699829997945895" name="account_setup_incoming_username_label">"LIETOTĀJVĀRDS"</string>
+    <string msgid="3487538709712378441" name="account_setup_names_account_name_label">"Ievadiet konta nosaukumu (neobligāti)"</string>
+    <string msgid="2031978210683887370" name="account_setup_names_headline">"Jūsu konts ir izveidots, un ir nosūtīts e-pasta ziņojums."</string>
+    <string msgid="4298006111315033499" name="account_setup_names_user_name_label">"Jūsu vārds (attēlots izejošajos ziņojumos)"</string>
+    <string msgid="4085327585082867216" name="account_setup_options_background_attachments_label">"Automātiski lejupielādēt pielikumus, kad ir izveidots Wi-Fi savienojums"</string>
+    <string msgid="4810292194395251968" name="account_setup_options_headline">"Konta iespējas"</string>
+    <string msgid="8787901333816702849" name="account_setup_options_mail_check_frequency_10min">"Ik pēc 10 minūtēm"</string>
+    <string msgid="7127640170766018765" name="account_setup_options_mail_check_frequency_15min">"Ik pēc 15 minūtēm"</string>
+    <string msgid="107706566853925273" name="account_setup_options_mail_check_frequency_1hour">"Ik pēc stundas"</string>
+    <string msgid="4223562871143897449" name="account_setup_options_mail_check_frequency_30min">"Ik pēc 30 minūtēm"</string>
+    <string msgid="8929785860545198867" name="account_setup_options_mail_check_frequency_5min">"Ik pēc 5 minūtēm"</string>
+    <string msgid="7253305392938373553" name="account_setup_options_mail_check_frequency_label">"Sinhronizēšanas biežums:"</string>
+    <string msgid="2937664246354067829" name="account_setup_options_mail_check_frequency_never">"Nekad"</string>
+    <string msgid="5511415696925307797" name="account_setup_options_mail_check_frequency_push">"Automātiski (piespiediet)"</string>
+    <string msgid="7930883294844418428" name="account_setup_options_mail_window_1day">"Pēdējā diena"</string>
+    <string msgid="3228265299330513816" name="account_setup_options_mail_window_1month">"Pēdējais mēnesis"</string>
+    <string msgid="5230695719358085318" name="account_setup_options_mail_window_1week">"Pēdējā nedēļa"</string>
+    <string msgid="1144271277694832921" name="account_setup_options_mail_window_2weeks">"Pēdējās divas nedēļas"</string>
+    <string msgid="3435093562391555730" name="account_setup_options_mail_window_3days">"Pēdējās trīs dienas"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"Visi"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"Automātiski"</string>
+    <string msgid="5518038139722596598" name="account_setup_options_mail_window_default">"Lietot konta noklusējumu"</string>
+    <string msgid="4737241149297585368" name="account_setup_options_mail_window_label">"Sinhronizēt e-pasta ziņojumus no:"</string>
+    <string msgid="3101529443722198112" name="account_setup_options_notify_label">"Paziņot man, kad tiek saņemts jauns e-pasta ziņojums"</string>
+    <string msgid="303441956432308807" name="account_setup_options_sync_calendar_label">"Sinhronizēt šī konta kalendāru"</string>
+    <string msgid="5029046373980454714" name="account_setup_options_sync_contacts_label">"Sinhronizēt šī konta kontaktpersonas"</string>
+    <string msgid="468957966555663131" name="account_setup_options_sync_email_label">"Sinhronizēt šī konta e-pastu"</string>
+    <string msgid="6638171491109658047" name="account_setup_outgoing_headline">"Izejošā servera iestatījumi"</string>
+    <string msgid="3735952013505812378" name="account_setup_outgoing_port_label">"PORTS"</string>
+    <string msgid="5405196721947884033" name="account_setup_outgoing_require_login_label">"Pieprasīt pierakstīšanos"</string>
+    <string msgid="6473177134731615282" name="account_setup_outgoing_security_label">"DROŠĪBAS VEIDS"</string>
+    <string msgid="3460163861711242681" name="account_setup_outgoing_smtp_server_label">"SMTP SERVERIS"</string>
+    <string msgid="8844680398828891772" name="account_setup_outgoing_username_label">"LIETOTĀJVĀRDS"</string>
+    <string msgid="5930042642982830233" name="account_setup_password_subheading">"Parole"</string>
+    <string msgid="9029471168291631932" name="account_setup_security_policies_required_fmt">"Serveris <ns1:g id="SERVER">%s</ns1:g> pieprasa, lai jūs tam atļautu attālināti vadīt dažas jūsu Android ierīces drošības funkcijas. Vai vēlaties pabeigt konta iestatīšanu?"</string>
+    <string msgid="667943309546419435" name="account_setup_security_required_title">"Attālināta drošības administrācija"</string>
+    <string msgid="3659744829670065777" name="account_setup_username_password_toast">"Ierakstiet derīgu e-pasta adresi un paroli."</string>
+    <string msgid="8848194305692897677" name="account_waiting_for_folders_msg">"Notiek mapju saraksta ielāde…"</string>
+    <string msgid="7230367425520242593" name="accounts_welcome">"Varat iestatīt savu kontu, veicot tikai dažas darbības."</string>
+    <string msgid="382998197798081729" name="add_authentication_label">"Pievienot autentifikācijas ikonu"</string>
+    <string msgid="2206468539066258195" name="app_name">"E-pasts"</string>
+    <string msgid="914463525214987772" name="authentication_label">"AUTENTIFIKĀCIJA"</string>
+    <string msgid="4750930803913225689" name="clear_authentication_label">"Notīrīt autentifikācijas ikonu"</string>
+    <string msgid="6764021931370809514" name="confirm_response">"Notiek atbildes sūtīšana..."</string>
+    <string msgid="6575946089819721958" name="create_action">"Izveidot jaunu"</string>
+    <string msgid="1337476992195531309" name="debug_title">"Atkļūdot"</string>
+    <string msgid="4299378570982520839" name="device_admin_description">"Iespējo servera noteiktas drošības politikas"</string>
+    <string msgid="3335272972461391415" name="device_admin_label">"E-pasts"</string>
+    <string msgid="6001542250505146252" name="disable_admin_warning">"BRĪDINĀJUMS: deaktivizējot lietotnes E-pasts tiesības administrēt jūsu ierīci, tiks dzēsti visi e-pasta konti, kuriem šī funkcionalitāte ir nepieciešama, kā arī šo kontu e-pasta ziņojumi, kontaktpersonas, kalendāra pasākumi un citi dati."</string>
+    <string msgid="3048014284772648575" name="edit_quick_response_dialog">"Ātrā atbilde"</string>
+    <string msgid="64258748053106017" name="email_confirmation_label">"E-pasta adrese:"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="349478353401667107" name="folder_sync_settings_pref_title">"Mapju sinhronizācijas iestatījumi"</string>
+    <string msgid="2900585518884851062" name="forward_download_failed_ticker">"Nevarēja pārsūtīt vienu vai vairākus pielikumus."</string>
+    <string msgid="2043036709913723298" name="forward_download_failed_title">"Pielikums netika nosūtīts."</string>
+    <string msgid="2099786953868369991" name="gmail_name">"Gmail"</string>
+    <string msgid="8285222985908214985" name="imap_name">"Personīgs (IMAP)"</string>
+    <string msgid="140881511322826320" name="label_notification_vibrate_title">"Vibrozvans"</string>
+    <string msgid="4620839194581484497" name="login_failed_ticker">"Neizdevās pierakstīties kontā <ns1:g id="ACCOUNT_NAME">%s</ns1:g>."</string>
+    <string msgid="1737884069957090004" name="login_failed_title">"Nevarēja pierakstīties"</string>
+    <string msgid="4155918930481733669" name="mailbox_list_account_selector_combined_view">"Kombinētais skatījums"</string>
+    <string msgid="3552043116466269581" name="mailbox_name_display_drafts">"Melnraksti"</string>
+    <string msgid="5093068725739672126" name="mailbox_name_display_inbox">"Iesūtne"</string>
+    <string msgid="1634126984313831675" name="mailbox_name_display_junk">"Nevēlamie"</string>
+    <string msgid="8735725798805339414" name="mailbox_name_display_outbox">"Izsūtne"</string>
+    <string msgid="6705058612006729985" name="mailbox_name_display_sent">"Nosūtītie"</string>
+    <string msgid="8076384721309828453" name="mailbox_name_display_starred">"Atzīmēts ar zvaigznīti"</string>
+    <string msgid="7020792045007681852" name="mailbox_name_display_trash">"Miskaste"</string>
+    <string msgid="1453575937919310339" name="mailbox_name_display_unread">"Nelasīti"</string>
+    <string msgid="2196614373847675314" name="mailbox_settings_activity_title">"Sinhronizācijas opcijas"</string>
+    <string msgid="5547676392298186906" name="mailbox_settings_activity_title_with_mailbox">"Sinhronizācijas opcijas (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="7027516982341382326" name="mailbox_settings_mailbox_sync_window_label">"Sinhronizējamo dienu skaits"</string>
+    <string msgid="7723413381707277856" name="mailbox_settings_sync_enabled_label">"Sinhronizēt šo mapi"</string>
+    <string msgid="742233465207750578" name="mailbox_settings_sync_enabled_summary">"Ziņojumi tiks lejupielādēti, kad būs izveidots savienojums."</string>
+    <string msgid="6193988236722150221" name="message_compose_fwd_header_fmt">\n\n"-------- Sākotnējais ziņojums --------\nTemats: <ns1:g id="SUBJECT">%1$s</ns1:g>\nNo: <ns1:g id="SENDER">%2$s</ns1:g>\nKam: <ns1:g id="TO">%3$s</ns1:g>\nKopija: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5836926808818821309" name="message_compose_insert_quick_response_list_title">"Ātrās atbildes ievietošana"</string>
+    <string msgid="4393288554605333619" name="message_compose_insert_quick_response_menu_title">"Ievietot ātro atbildi"</string>
+    <string msgid="91396461771444300" name="message_decode_error">"Atšifrējot ziņojumu, radās kļūda."</string>
+    <string msgid="7571652141281187845" name="message_view_attachment_background_load">"Viens vai vairāki pārsūtītā ziņojuma pielikumi pirms sūtīšanas tiks lejupielādēti."</string>
+    <string msgid="8716297053803961304" name="no_quick_responses">"Nav pieejamas"</string>
+    <string msgid="3771260531636603518" name="oauth_authentication_title">"Notiek pilnvarojuma pieprasīšana"</string>
+    <string msgid="8466102021844409849" name="oauth_error_description">"Nevar autentificēt"</string>
+    <string msgid="6408695162723653446" name="or_label">"VAI"</string>
+    <string msgid="4360288708739366810" name="password_expire_warning_content_title">"Ekr. bloķ. par. term. tuv. b."</string>
+    <string msgid="1093389293050776319" name="password_expire_warning_dialog_content_fmt">"Jums drīzumā ir jāmaina ekrāna bloķēšanas PIN vai parole, citādi konta <ns1:g id="ACCOUNT">%s</ns1:g> dati tiks dzēsti. Vai vēlaties to mainīt tūlīt?"</string>
+    <string msgid="4901499545146045672" name="password_expire_warning_dialog_title">"Ekr. bloķ. paroles term. tuvojas beigām"</string>
+    <string msgid="5543005790538884060" name="password_expire_warning_ticker_fmt">"Lai varētu izmantot kontu <ns1:g id="ACCOUNT">%s</ns1:g>, jāmaina ekrāna bloķēšanas PIN kods vai parole."</string>
+    <string msgid="7379094218699681984" name="password_expired_content_title">"Ekr. bloķ. paroles term. b."</string>
+    <string msgid="8322213184626443346" name="password_expired_dialog_content_fmt">"Konta <ns1:g id="ACCOUNT">%s</ns1:g> dati tiek dzēsti no šīs ierīces. Tos var atjaunot, nomainot ekrāna bloķēšanas PIN vai paroli. Vai vēlaties to mainīt tūlīt?"</string>
+    <string msgid="7275534155170185252" name="password_expired_dialog_title">"Ekrāna bloķēš. paroles termiņa beigas"</string>
+    <string msgid="3098703963402347483" name="password_expired_ticker">"Ekrāna bloķēšanas PIN vai paroles derīguma termiņš ir beidzies."</string>
+    <string msgid="4226682910292828279" name="password_hint">"Parole"</string>
+    <string msgid="1887439537224212124" name="password_warning_label">"E-pasta adrese vai parole nav pareiza."</string>
+    <string msgid="5338433949655493713" name="permission_access_provider_desc">"Ļauj lietotnei piekļūt jūsu e-pasta datu bāzei, tostarp saņemtajiem ziņojumiem, nosūtītajiem ziņojumiem, lietotājvārdiem un parolēm."</string>
+    <string msgid="977700184037298723" name="permission_access_provider_label">"Piekļūt e-pasta pakalpojumu sniedzēja datiem"</string>
+    <string msgid="6579059616090100181" name="permission_read_attachment_desc">"Ļauj lietotnei lasīt e-pasta ziņojumu pielikumus."</string>
+    <string msgid="6641407731311699536" name="permission_read_attachment_label">"Lasīt e-pasta ziņojumu pielikumus"</string>
+    <string msgid="6469328498345236120" name="policy_calendar_age">"Ierobežot sinhronizēto kalendāra notikumu skaitu"</string>
+    <string msgid="8821533827628900689" name="policy_dont_allow_camera">"Neatļaut ierīces kameras izmantošanu"</string>
+    <string msgid="3521941976575225050" name="policy_email_age">"Ierobežot sinhronizēto e-pasta ziņojumu skaitu"</string>
+    <string msgid="1287225242918742275" name="policy_password_expiration">"Pieprasīt paroļu derīguma term. beigas"</string>
+    <string msgid="9001177390979112746" name="policy_password_history">"Ierobežot jaunāko paroļu atkārt. izmant."</string>
+    <string msgid="3556860917024612396" name="policy_require_password">"Pieprasīt ierīces paroli"</string>
+    <string msgid="3499201409239287702" name="policy_screen_timeout">"Bloķēt ierīc. ekr., kad tā ir dīkstāvē"</string>
+    <string msgid="6653484706414263493" name="pop3_name">"Personīgs (POP3)"</string>
+    <string msgid="1596701148051980218" name="provider_note_t_online">"Pirms šī e-pasta konta iestatīšanas apmeklējiet T-Online vietni un izveidojiet paroli, lai piekļūtu e-pastam pa protokolu POP3."</string>
+    <string msgid="9130521670178673190" name="quick_1">"Paldies!"</string>
+    <string msgid="8611591278119481491" name="quick_2">"Esmu ar mieru!"</string>
+    <string msgid="8070999183033184986" name="quick_3">"Vēlāk izlasīšu šo ziņojumu un atbildēšu."</string>
+    <string msgid="216066940197616025" name="quick_4">"Norunāsim tikšanos, lai to pārrunātu."</string>
+    <string msgid="3394094315357455290" name="quick_responses_empty_view">"Nav ātro atbilžu."</string>
+    <string msgid="5740359453077441466" name="save_action">"Saglabāt"</string>
+    <string msgid="3823930420292838192" name="security_changed_ticker_fmt">"Kontā <ns1:g id="ACCOUNT">%s</ns1:g> ir mainīti drošības iestatījumi; lietotājam nav jāveic nekādas darbības."</string>
+    <string msgid="7099561996532829229" name="security_needed_ticker_fmt">"Kontā <ns1:g id="ACCOUNT">%s</ns1:g> ir jāatjaunina drošības iestatījumi."</string>
+    <string msgid="615639963487448183" name="security_notification_content_change_title">"Droš. politikas ir mainītas."</string>
+    <string msgid="6494791400431198228" name="security_notification_content_unsupported_title">"Netiek ievērota droš. politika"</string>
+    <string msgid="6321099538307807621" name="security_notification_content_update_title">"Nepieciešams drošības atjaun."</string>
+    <string msgid="3249185558872836884" name="security_unsupported_ticker_fmt">"Kontu <ns1:g id="ACCOUNT">%s</ns1:g> nevar sinhronizēt drošības prasību dēļ."</string>
+    <string msgid="9207482909822072856" name="sent_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>: atlasīt servera nosūtni"</string>
+    <string msgid="5051852806423550830" name="sign_in_title">"Pierakstīšanās"</string>
+    <string msgid="1412668282326928102" name="sign_in_with_google">"Pierakstīties ar Google"</string>
+    <string msgid="4282359206358453634" name="signed_in_with_service_label">"Pierkakstījies šajā kontā: %s"</string>
+    <string msgid="2248313263003927725" name="system_account_create_failed">"Nevarēja izveidot kontu. Mēģiniet vēlreiz."</string>
+    <string msgid="818944260541160146" name="system_folders_sent_dlg">"Atlasiet no sava servera sūtīto vienumu mapi."</string>
+    <string msgid="4252740721870748375" name="system_folders_sent_summary">"Atlasiet no sava servera sūtīto vienumu mapi."</string>
+    <string msgid="8792934374188279309" name="system_folders_sent_title">"Nosūtīto vienumu mape"</string>
+    <string msgid="7161311881709109736" name="system_folders_title">"Sistēmas mapes"</string>
+    <string msgid="353701568340939392" name="system_folders_trash_dlg">"Atlasiet servera atkritnes mapi."</string>
+    <string msgid="2583143581531897068" name="system_folders_trash_summary">"Atlasiet servera atkritnes mapi."</string>
+    <string msgid="3190927115504713123" name="system_folders_trash_title">"Atkritnes mape"</string>
+    <string msgid="686039558899469073" name="trash_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>: atlasīt servera atkritnes mapi"</string>
+</resources>

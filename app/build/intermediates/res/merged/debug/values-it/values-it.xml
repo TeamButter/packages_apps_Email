@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6747351773934787126" name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l\'account \"<ns1:g id="DUPLICATE">%s</ns1:g>\"."</string>
+    <string msgid="3768813340753269695" name="account_duplicate_dlg_title">"Account duplicato"</string>
+    <string msgid="4107093049191103780" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> richiede l\'aggiornamento delle impostazioni di sicurezza."</string>
+    <string msgid="7003032393805438164" name="account_security_dialog_title">"Aggiornamento sicurezza"</string>
+    <string msgid="2527501853520160827" name="account_security_policy_explanation_fmt">"Il server <ns1:g id="SERVER">%s</ns1:g> richiede che tu consenta il controllo remoto di alcune funzionalità di sicurezza del tuo dispositivo Android."</string>
+    <string msgid="6072273231606918870" name="account_security_title">"Sicurezza dispositivo"</string>
+    <string msgid="589969653965674604" name="account_settings_action">"Impostazioni account"</string>
+    <string msgid="3552681465680701047" name="account_settings_background_attachments_label">"Scarica allegati"</string>
+    <string msgid="8801504001229061032" name="account_settings_background_attachments_summary">"Scarica automaticamente allegati messaggi recenti tramite Wi-Fi"</string>
+    <string msgid="6400715160238559711" name="account_settings_data_usage">"Utilizzo dati"</string>
+    <string msgid="2073736045984411004" name="account_settings_description_label">"Nome account"</string>
+    <string msgid="6105791335935883199" name="account_settings_edit_quick_responses_label">"Risposte rapide"</string>
+    <string msgid="5406599402930290682" name="account_settings_edit_quick_responses_summary">"Modifica il testo che inserisci spesso quando scrivi email"</string>
+    <string msgid="7005050362066086119" name="account_settings_enforced_label">"Criteri applicati"</string>
+    <string msgid="1668581504445370253" name="account_settings_enforced_summary">"Nessuna"</string>
+    <string msgid="4232590695889111419" name="account_settings_exit_server_settings">"Ignorare le modifiche non salvate?"</string>
+    <string msgid="3793314460723296874" name="account_settings_incoming_label">"Impostazioni posta in arrivo"</string>
+    <string msgid="7521181981008371492" name="account_settings_incoming_summary">"Nome utente, password e altre impostazioni server in entrata"</string>
+    <string msgid="4107847714594035131" name="account_settings_mail_check_frequency_label">"Frequenza sincronizzazione"</string>
+    <string msgid="8230436030850457988" name="account_settings_name_label">"Nome"</string>
+    <string msgid="2842952349214972116" name="account_settings_notifications">"Impostazioni notifiche"</string>
+    <string msgid="8621226576645167987" name="account_settings_notify_label">"Notifiche email"</string>
+    <string msgid="88560545461159120" name="account_settings_notify_summary">"Invia notifica all\'arrivo di email"</string>
+    <string msgid="4997504719643828381" name="account_settings_outgoing_label">"Impostazioni posta in uscita"</string>
+    <string msgid="1884202151340479161" name="account_settings_outgoing_summary">"Nome utente, password e altre impostazioni server in uscita"</string>
+    <string msgid="5972183883466873359" name="account_settings_policies">"Criteri di sicurezza"</string>
+    <string msgid="8605492340808650923" name="account_settings_retry_label">"Tentativo di sincronizzazione"</string>
+    <string msgid="2598065993718592906" name="account_settings_retry_summary">"Tocca qui per sincronizzare l\'account"</string>
+    <string msgid="2238523918221865167" name="account_settings_ringtone">"Scegli suoneria"</string>
+    <string msgid="3386185135392642067" name="account_settings_servers">"Impostazioni server"</string>
+    <string msgid="4733776978291376161" name="account_settings_summary">"Frequenza sincronizzazione, notifiche e altro."</string>
+    <string msgid="3172491863244160828" name="account_settings_sync_calendar_enable">"Sincronizza calendario"</string>
+    <string msgid="411960248618953311" name="account_settings_sync_calendar_summary">"Sincron. evento calendario account"</string>
+    <string msgid="2642448079273767521" name="account_settings_sync_contacts_enable">"Sincronizza contatti"</string>
+    <string msgid="1716022682035150630" name="account_settings_sync_contacts_summary">"Sincronizza i contatti per questo account"</string>
+    <string msgid="7135765408226471860" name="account_settings_sync_email_enable">"Sincronizza email"</string>
+    <string msgid="71710510041953351" name="account_settings_sync_email_summary">"Sincronizza le email per questo account"</string>
+    <string msgid="7286722617178322465" name="account_settings_unsupported_label">"Criteri non supportati"</string>
+    <string msgid="1980825746966562221" name="account_settings_unsupported_summary">"Nessuna"</string>
+    <string msgid="1434091698882290052" name="account_setup_ab_headline">"Conferma tipo di account"</string>
+    <string msgid="6223657094843768202" name="account_setup_ab_instructions_format">"Hai indicato che <ns1:g id="EMAIL">%1$s</ns1:g> utilizza <ns1:g id="USERPROTOCOL">%2$s</ns1:g>, ma l\'account potrebbe utilizzare <ns1:g id="PROVIDERPROTOCOL">%3$s</ns1:g>"</string>
+    <string msgid="3375795537675351389" name="account_setup_account_type_headline">"Tipo di account"</string>
+    <string msgid="968088954656738617" name="account_setup_account_type_instructions">"Di quale tipo di account si tratta?"</string>
+    <string msgid="4075075565221436715" name="account_setup_autodiscover_dlg_authfail_message">"Conferma se nome utente, password e impostazioni account sono corretti."</string>
+    <string msgid="7551559109838593189" name="account_setup_autodiscover_dlg_authfail_title">"Problema di configurazione dell\'account"</string>
+    <string msgid="8701406783555749929" name="account_setup_basics_email_label">"Indirizzo email"</string>
+    <string msgid="8468280216822264643" name="account_setup_basics_headline">"Account email"</string>
+    <string msgid="7690861839383362085" name="account_setup_basics_manual_setup_action">"Config. manuale"</string>
+    <string msgid="784962388753706730" name="account_setup_basics_password_label">"PASSWORD"</string>
+    <string msgid="5050895656741229172" name="account_setup_basics_title">"Impostazione account"</string>
+    <string msgid="9196418179524308411" name="account_setup_check_settings_check_incoming_msg">"Convalida impostazioni del server…"</string>
+    <string msgid="9062019904409225329" name="account_setup_check_settings_check_outgoing_msg">"Convalida delle impostazioni SMTP…"</string>
+    <string msgid="9103280616618316032" name="account_setup_check_settings_retr_info_msg">"Recupero informazioni sull\'account…"</string>
+    <string msgid="2898648422471181490" name="account_setup_creating_account_msg">"Creazione account…"</string>
+    <string msgid="8756785660598838350" name="account_setup_exchange_certificate_title">"CERTIFICATO CLIENT"</string>
+    <string msgid="2306603503497194905" name="account_setup_exchange_device_id_label">"ID DISPOSITIVO MOBILE"</string>
+    <string msgid="3569712401698909695" name="account_setup_exchange_no_certificate">"Nessuno"</string>
+    <string msgid="1222387802827919583" name="account_setup_exchange_remove_certificate">"Rimuovi"</string>
+    <string msgid="264748505181695915" name="account_setup_exchange_select_certificate">"Seleziona"</string>
+    <string msgid="6513687497912094538" name="account_setup_exchange_use_certificate">"Usa certificato client"</string>
+    <string msgid="2051742796367919026" name="account_setup_failed_access_denied">"Non sei autorizzato a effettuare la sincronizzazione con questo server. Contatta l\'amministratore del server per ulteriori informazioni."</string>
+    <string msgid="2684010997018901707" name="account_setup_failed_auth_required">"I metodi di autenticazione non sono supportati dal server."</string>
+    <string msgid="4574461885959029072" name="account_setup_failed_certificate_inaccessible">"Certificato non valido o non accessibile."</string>
+    <string msgid="4607859382193244795" name="account_setup_failed_certificate_required">"È necessario un certificato client. Vuoi connetterti al server con un certificato client?"</string>
+    <string msgid="430054384233036305" name="account_setup_failed_check_credentials_message">"Il server ha risposto con un errore. Controlla nome utente e password e riprova."</string>
+    <string msgid="5608549872868036352" name="account_setup_failed_dlg_auth_message">"Password o nome utente errato."</string>
+    <string msgid="4725950885859654809" name="account_setup_failed_dlg_certificate_message">"Impossibile connettersi in modo sicuro al server."</string>
+    <string msgid="3451681985727559303" name="account_setup_failed_dlg_certificate_message_fmt">"Impossibile connettersi in modo sicuro al server.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="8155332642922842729" name="account_setup_failed_dlg_edit_details_action">"Modifica dettagli"</string>
+    <string msgid="1180197172141077524" name="account_setup_failed_dlg_server_message">"Impossibile connettersi al server."</string>
+    <string msgid="3889441611138037320" name="account_setup_failed_dlg_server_message_fmt">"Impossibile connettersi al server.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="7923577224474005464" name="account_setup_failed_dlg_title">"Impossibile completare"</string>
+    <string msgid="3862689923436539909" name="account_setup_failed_ioerror">"Impossibile stabilire la connessione al server."</string>
+    <string msgid="4973054582044010375" name="account_setup_failed_protocol_unsupported">"Hai digitato l\'indirizzo di un server sbagliato o il server richiede una versione di protocollo non supportata da Email."</string>
+    <string msgid="1627240499907011040" name="account_setup_failed_security">"Impossibile stabilire la connessione al server a causa di un errore di sicurezza."</string>
+    <string msgid="4619685657253094627" name="account_setup_failed_security_policies_unsupported">"Il server richiede funzioni di sicurezza non supportate dal tuo dispositivo Android, fra cui: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="1902309158359287958" name="account_setup_failed_tls_required">"TLS richiesto ma non supportato dal server."</string>
+    <string msgid="8677018382715596606" name="account_setup_incoming_delete_policy_delete_label">"Quando elimino da Posta in arrivo"</string>
+    <string msgid="2341742235654301690" name="account_setup_incoming_delete_policy_label">"Elimina email da server"</string>
+    <string msgid="5777530843489961009" name="account_setup_incoming_delete_policy_never_label">"Mai"</string>
+    <string msgid="6232828824446177639" name="account_setup_incoming_headline">"Impostazioni server Posta in arrivo"</string>
+    <string msgid="206747922689229932" name="account_setup_incoming_imap_path_prefix_hint">"Facoltativo"</string>
+    <string msgid="3531290378620033218" name="account_setup_incoming_imap_path_prefix_label">"Prefisso percorso IMAP"</string>
+    <string msgid="4806105500058512876" name="account_setup_incoming_password_label">"PASSWORD"</string>
+    <string msgid="402562424498833560" name="account_setup_incoming_port_label">"PORTA"</string>
+    <string msgid="8360505617331971663" name="account_setup_incoming_security_label">"TIPO DI SICUREZZA"</string>
+    <string msgid="2461510827337484818" name="account_setup_incoming_security_none_label">"Nessuna"</string>
+    <string msgid="5169133414545009342" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="2834386066577239560" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (Accetta tutti i certificati)"</string>
+    <string msgid="3892291833944170882" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="2281920902104029077" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (accetta tutti i certificati)"</string>
+    <string msgid="5409694850973258387" name="account_setup_incoming_server_label">"SERVER"</string>
+    <string msgid="2609699829997945895" name="account_setup_incoming_username_label">"NOME UTENTE"</string>
+    <string msgid="3487538709712378441" name="account_setup_names_account_name_label">"Assegna un nome all\'account (facoltativo)"</string>
+    <string msgid="2031978210683887370" name="account_setup_names_headline">"Il tuo account è stato impostato e l\'email sarà presto disponibile."</string>
+    <string msgid="4298006111315033499" name="account_setup_names_user_name_label">"Il tuo nome (nei messaggi in uscita)"</string>
+    <string msgid="4085327585082867216" name="account_setup_options_background_attachments_label">"Scarica allegati automaticamente quando connesso a Wi-Fi"</string>
+    <string msgid="4810292194395251968" name="account_setup_options_headline">"Opzioni account"</string>
+    <string msgid="8787901333816702849" name="account_setup_options_mail_check_frequency_10min">"Ogni 10 minuti"</string>
+    <string msgid="7127640170766018765" name="account_setup_options_mail_check_frequency_15min">"Ogni 15 minuti"</string>
+    <string msgid="107706566853925273" name="account_setup_options_mail_check_frequency_1hour">"Ogni ora"</string>
+    <string msgid="4223562871143897449" name="account_setup_options_mail_check_frequency_30min">"Ogni 30 minuti"</string>
+    <string msgid="8929785860545198867" name="account_setup_options_mail_check_frequency_5min">"Ogni 5 minuti"</string>
+    <string msgid="7253305392938373553" name="account_setup_options_mail_check_frequency_label">"Frequenza sincronizzazione:"</string>
+    <string msgid="2937664246354067829" name="account_setup_options_mail_check_frequency_never">"Mai"</string>
+    <string msgid="5511415696925307797" name="account_setup_options_mail_check_frequency_push">"Automatica (push)"</string>
+    <string msgid="7930883294844418428" name="account_setup_options_mail_window_1day">"Ultimo giorno"</string>
+    <string msgid="3228265299330513816" name="account_setup_options_mail_window_1month">"Ultimo mese"</string>
+    <string msgid="5230695719358085318" name="account_setup_options_mail_window_1week">"Ultima settimana"</string>
+    <string msgid="1144271277694832921" name="account_setup_options_mail_window_2weeks">"Ultime due settimane"</string>
+    <string msgid="3435093562391555730" name="account_setup_options_mail_window_3days">"Ultimi tre giorni"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"Tutto"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"Automatico"</string>
+    <string msgid="5518038139722596598" name="account_setup_options_mail_window_default">"Usa imp. predef. account"</string>
+    <string msgid="4737241149297585368" name="account_setup_options_mail_window_label">"Sincronizza email da:"</string>
+    <string msgid="3101529443722198112" name="account_setup_options_notify_label">"Avvisami all\'arrivo di email"</string>
+    <string msgid="303441956432308807" name="account_setup_options_sync_calendar_label">"Sincronizza calendario di questo account"</string>
+    <string msgid="5029046373980454714" name="account_setup_options_sync_contacts_label">"Sincronizza contatti di questo account"</string>
+    <string msgid="468957966555663131" name="account_setup_options_sync_email_label">"Sincronizza email di questo account"</string>
+    <string msgid="6638171491109658047" name="account_setup_outgoing_headline">"Impostazioni server Posta in uscita"</string>
+    <string msgid="3735952013505812378" name="account_setup_outgoing_port_label">"PORTA"</string>
+    <string msgid="5405196721947884033" name="account_setup_outgoing_require_login_label">"Richiedi accesso"</string>
+    <string msgid="6473177134731615282" name="account_setup_outgoing_security_label">"TIPO DI SICUREZZA"</string>
+    <string msgid="3460163861711242681" name="account_setup_outgoing_smtp_server_label">"SERVER SMTP"</string>
+    <string msgid="8844680398828891772" name="account_setup_outgoing_username_label">"NOME UTENTE"</string>
+    <string msgid="5930042642982830233" name="account_setup_password_subheading">"Password"</string>
+    <string msgid="9029471168291631932" name="account_setup_security_policies_required_fmt">"Il server <ns1:g id="SERVER">%s</ns1:g> richiede che tu consenta il controllo remoto di alcune funzionalità di sicurezza del tuo dispositivo Android. Completare la configurazione dell\'account?"</string>
+    <string msgid="667943309546419435" name="account_setup_security_required_title">"Amministrazione sicurezza da remoto"</string>
+    <string msgid="3659744829670065777" name="account_setup_username_password_toast">"Digita un indirizzo email e una password validi."</string>
+    <string msgid="8848194305692897677" name="account_waiting_for_folders_msg">"Caricamento elenco cartelle…"</string>
+    <string msgid="7230367425520242593" name="accounts_welcome">"Puoi configurare il tuo account in pochi passaggi."</string>
+    <string msgid="382998197798081729" name="add_authentication_label">"Aggiungi autenticazione"</string>
+    <string msgid="2206468539066258195" name="app_name">"Email"</string>
+    <string msgid="914463525214987772" name="authentication_label">"AUTENTICAZIONE"</string>
+    <string msgid="4750930803913225689" name="clear_authentication_label">"Cancella autenticazione"</string>
+    <string msgid="6764021931370809514" name="confirm_response">"Invio risposta..."</string>
+    <string msgid="6575946089819721958" name="create_action">"Crea nuova"</string>
+    <string msgid="1337476992195531309" name="debug_title">"Debug"</string>
+    <string msgid="4299378570982520839" name="device_admin_description">"Abilita norme di sicurezza specificate dal server"</string>
+    <string msgid="3335272972461391415" name="device_admin_label">"Posta"</string>
+    <string msgid="6001542250505146252" name="disable_admin_warning">"AVVISO. La disattivazione dell\'autorità dell\'applicazione Email per l\'amministrazione del dispositivo comporterà l\'eliminazione di tutti gli account email che la richiedono, compresi i relativi messaggi email, contatti, eventi di calendario e altri dati."</string>
+    <string msgid="3048014284772648575" name="edit_quick_response_dialog">"Risposta rapida"</string>
+    <string msgid="64258748053106017" name="email_confirmation_label">"Indirizzo email:"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="349478353401667107" name="folder_sync_settings_pref_title">"Impostazioni di sincronizzazione cartella"</string>
+    <string msgid="2900585518884851062" name="forward_download_failed_ticker">"Impossibile inoltrare uno o più allegati."</string>
+    <string msgid="2043036709913723298" name="forward_download_failed_title">"Allegato non inoltrato"</string>
+    <string msgid="2099786953868369991" name="gmail_name">"Gmail"</string>
+    <string msgid="8285222985908214985" name="imap_name">"Personale (IMAP)"</string>
+    <string msgid="140881511322826320" name="label_notification_vibrate_title">"Vibrazione"</string>
+    <string msgid="4620839194581484497" name="login_failed_ticker">"Accesso a <ns1:g id="ACCOUNT_NAME">%s</ns1:g> non riuscito."</string>
+    <string msgid="1737884069957090004" name="login_failed_title">"Accesso non riuscito"</string>
+    <string msgid="4155918930481733669" name="mailbox_list_account_selector_combined_view">"Visualizzazione combinata"</string>
+    <string msgid="3552043116466269581" name="mailbox_name_display_drafts">"Bozze"</string>
+    <string msgid="5093068725739672126" name="mailbox_name_display_inbox">"Posta in arrivo"</string>
+    <string msgid="1634126984313831675" name="mailbox_name_display_junk">"Posta indesiderata"</string>
+    <string msgid="8735725798805339414" name="mailbox_name_display_outbox">"Posta in uscita"</string>
+    <string msgid="6705058612006729985" name="mailbox_name_display_sent">"Posta inviata"</string>
+    <string msgid="8076384721309828453" name="mailbox_name_display_starred">"Speciali"</string>
+    <string msgid="7020792045007681852" name="mailbox_name_display_trash">"Cestino"</string>
+    <string msgid="1453575937919310339" name="mailbox_name_display_unread">"Da leggere"</string>
+    <string msgid="2196614373847675314" name="mailbox_settings_activity_title">"Opzioni di sincronizzazione"</string>
+    <string msgid="5547676392298186906" name="mailbox_settings_activity_title_with_mailbox">"Opzioni di sincronizzazione (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="7027516982341382326" name="mailbox_settings_mailbox_sync_window_label">"Numero di giorni da sincronizzare"</string>
+    <string msgid="7723413381707277856" name="mailbox_settings_sync_enabled_label">"Sincronizza questa cartella"</string>
+    <string msgid="742233465207750578" name="mailbox_settings_sync_enabled_summary">"I messaggi verranno scaricati dopo la connessione"</string>
+    <string msgid="6193988236722150221" name="message_compose_fwd_header_fmt">\n\n"-------- Messaggio originale --------\nOggetto: <ns1:g id="SUBJECT">%1$s</ns1:g>\nDa: <ns1:g id="SENDER">%2$s</ns1:g>\nA: <ns1:g id="TO">%3$s</ns1:g>\nCC: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5836926808818821309" name="message_compose_insert_quick_response_list_title">"Inserisci risposta rapida"</string>
+    <string msgid="4393288554605333619" name="message_compose_insert_quick_response_menu_title">"Inserisci risposta rapida"</string>
+    <string msgid="91396461771444300" name="message_decode_error">"Si è verificato un errore durante la decodifica del messaggio."</string>
+    <string msgid="7571652141281187845" name="message_view_attachment_background_load">"Prima dell\'invio verranno scaricati uno o più allegati del messaggio inoltrato."</string>
+    <string msgid="8716297053803961304" name="no_quick_responses">"Nessuna disponibile"</string>
+    <string msgid="3771260531636603518" name="oauth_authentication_title">"Richiesta di autorizzazione"</string>
+    <string msgid="8466102021844409849" name="oauth_error_description">"Impossibile eseguire l\'autenticazione"</string>
+    <string msgid="6408695162723653446" name="or_label">"O"</string>
+    <string msgid="4360288708739366810" name="password_expire_warning_content_title">"Password blocco schermo in scadenza"</string>
+    <string msgid="1093389293050776319" name="password_expire_warning_dialog_content_fmt">"Appena possibile devi cambiare il PIN o la password di blocco dello schermo; in caso contrario i dati di <ns1:g id="ACCOUNT">%s</ns1:g> verranno cancellati. Vuoi apportare la modifica ora?"</string>
+    <string msgid="4901499545146045672" name="password_expire_warning_dialog_title">"Password blocco schermo in scadenza"</string>
+    <string msgid="5543005790538884060" name="password_expire_warning_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" richiede la modifica del PIN o della password di blocco dello schermo."</string>
+    <string msgid="7379094218699681984" name="password_expired_content_title">"Password blocco schermo scaduta"</string>
+    <string msgid="8322213184626443346" name="password_expired_dialog_content_fmt">"I dati relativi a <ns1:g id="ACCOUNT">%s</ns1:g> stanno per essere cancellati dal dispositivo. È possibile ripristinarli modificando il PIN o la password di blocco dello schermo. Vuoi apportare la modifica ora?"</string>
+    <string msgid="7275534155170185252" name="password_expired_dialog_title">"Password blocco schermo scaduta"</string>
+    <string msgid="3098703963402347483" name="password_expired_ticker">"Il PIN o la password di blocco dello schermo sono scaduti."</string>
+    <string msgid="4226682910292828279" name="password_hint">"Password"</string>
+    <string msgid="1887439537224212124" name="password_warning_label">"La password o l\'indirizzo email non sono corretti"</string>
+    <string msgid="5338433949655493713" name="permission_access_provider_desc">"Consente all\'applicazione di accedere al database della tua posta, inclusi i messaggi ricevuti e inviati, i nomi utente e le password."</string>
+    <string msgid="977700184037298723" name="permission_access_provider_label">"Accesso ai dati del provider di posta"</string>
+    <string msgid="6579059616090100181" name="permission_read_attachment_desc">"Consente all\'applicazione di leggere gli allegati email."</string>
+    <string msgid="6641407731311699536" name="permission_read_attachment_label">"Lettura allegati email"</string>
+    <string msgid="6469328498345236120" name="policy_calendar_age">"Limita numero di eventi calendario sincronizzati"</string>
+    <string msgid="8821533827628900689" name="policy_dont_allow_camera">"Non consentire uso fotocamera dispositivo"</string>
+    <string msgid="3521941976575225050" name="policy_email_age">"Limita numero di email sincronizzate"</string>
+    <string msgid="1287225242918742275" name="policy_password_expiration">"Richiedi scadenza password"</string>
+    <string msgid="9001177390979112746" name="policy_password_history">"Limita riutilizzo password recenti"</string>
+    <string msgid="3556860917024612396" name="policy_require_password">"Richiedi password dispositivo"</string>
+    <string msgid="3499201409239287702" name="policy_screen_timeout">"Richiedi dispos. inattivo per blocco schermo"</string>
+    <string msgid="6653484706414263493" name="pop3_name">"Personale (POP3)"</string>
+    <string msgid="1596701148051980218" name="provider_note_t_online">"Prima di configurare questo account email, visita il sito web T-Online e crea una password per l\'accesso email POP3."</string>
+    <string msgid="9130521670178673190" name="quick_1">"Grazie."</string>
+    <string msgid="8611591278119481491" name="quick_2">"Per me va bene."</string>
+    <string msgid="8070999183033184986" name="quick_3">"Lo leggerò più tardi e ti farò sapere."</string>
+    <string msgid="216066940197616025" name="quick_4">"Organizziamo una riunione per discuterne."</string>
+    <string msgid="3394094315357455290" name="quick_responses_empty_view">"Nessuna risposta rapida."</string>
+    <string msgid="5740359453077441466" name="save_action">"Salva"</string>
+    <string msgid="3823930420292838192" name="security_changed_ticker_fmt">"Impostazioni di sicurezza dell\'account \"<ns1:g id="ACCOUNT">%s</ns1:g>\" modificate; nessun intervento richiesto."</string>
+    <string msgid="7099561996532829229" name="security_needed_ticker_fmt">"È richiesto l\'aggiornamento delle impostazioni di sicurezza per l\'account \"<ns1:g id="ACCOUNT">%s</ns1:g>\"."</string>
+    <string msgid="615639963487448183" name="security_notification_content_change_title">"Criteri di sicurezza modificati"</string>
+    <string msgid="6494791400431198228" name="security_notification_content_unsupported_title">"Criteri sicurezza non rispettab."</string>
+    <string msgid="6321099538307807621" name="security_notification_content_update_title">"Aggiornam. sicurezza richiesto"</string>
+    <string msgid="3249185558872836884" name="security_unsupported_ticker_fmt">"L\'account \"<ns1:g id="ACCOUNT">%s</ns1:g>\" non può essere sincronizzato a causa di requisiti di sicurezza."</string>
+    <string msgid="9207482909822072856" name="sent_folder_selection_title">"Selez. cartella posta inviata server (<ns1:g id="ACCOUNT">%s</ns1:g>)"</string>
+    <string msgid="5051852806423550830" name="sign_in_title">"Accedi"</string>
+    <string msgid="1412668282326928102" name="sign_in_with_google">"Accedi con Google"</string>
+    <string msgid="4282359206358453634" name="signed_in_with_service_label">"Accesso eseguito con %s"</string>
+    <string msgid="2248313263003927725" name="system_account_create_failed">"Impossibile creare l\'account. Riprova."</string>
+    <string msgid="818944260541160146" name="system_folders_sent_dlg">"Seleziona cartella posta inviata del server"</string>
+    <string msgid="4252740721870748375" name="system_folders_sent_summary">"Seleziona la cartella della posta inviata del server"</string>
+    <string msgid="8792934374188279309" name="system_folders_sent_title">"Cartella posta inviata"</string>
+    <string msgid="7161311881709109736" name="system_folders_title">"Cartelle di sistema"</string>
+    <string msgid="353701568340939392" name="system_folders_trash_dlg">"Seleziona cartella Cestino del server"</string>
+    <string msgid="2583143581531897068" name="system_folders_trash_summary">"Seleziona la cartella Cestino del server"</string>
+    <string msgid="3190927115504713123" name="system_folders_trash_title">"Cartella Cestino"</string>
+    <string msgid="686039558899469073" name="trash_folder_selection_title">"Selez. cartella Cestino server per <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+</resources>

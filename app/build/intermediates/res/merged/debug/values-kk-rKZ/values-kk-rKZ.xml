@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6747351773934787126" name="account_duplicate_dlg_message_fmt">"Сіз бұл пайдаланушы атын «<ns1:g id="DUPLICATE">%s</ns1:g>» есептік жазбасы үшін әлдеқашан пайдаландыңыз."</string>
+    <string msgid="3768813340753269695" name="account_duplicate_dlg_title">"Есептік жазбаны көшірмелеу"</string>
+    <string msgid="4107093049191103780" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> қауіпсіздік параметрлеріңіздің жаңартылуын талап етеді."</string>
+    <string msgid="7003032393805438164" name="account_security_dialog_title">"Қауіпсіздік жаңартуы"</string>
+    <string msgid="2527501853520160827" name="account_security_policy_explanation_fmt">"<ns1:g id="SERVER">%s</ns1:g> сервері Android құрылғыңыздың кейбір қауіпсіздік функцияларын қашықтан басқаруына рұқсат беруіңізді талап етеді."</string>
+    <string msgid="6072273231606918870" name="account_security_title">"Құрылғы қауіпсіздігі"</string>
+    <string msgid="589969653965674604" name="account_settings_action">"Есептік жазба параметрлері"</string>
+    <string msgid="3552681465680701047" name="account_settings_background_attachments_label">"Тіркемелерді жүктеу"</string>
+    <string msgid="8801504001229061032" name="account_settings_background_attachments_summary">"Тіркемелерді Wi-Fi арқылы соңғы хабарлар ішіне автоматты жүктеу"</string>
+    <string msgid="6400715160238559711" name="account_settings_data_usage">"Дерекқорды пайдалану"</string>
+    <string msgid="2073736045984411004" name="account_settings_description_label">"Есептік жазба аты"</string>
+    <string msgid="6105791335935883199" name="account_settings_edit_quick_responses_label">"Жылдам жауаптар"</string>
+    <string msgid="5406599402930290682" name="account_settings_edit_quick_responses_summary">"Эл. пошта хабарын құрған кезде жиі кірістіретін мәтінді өңдеу"</string>
+    <string msgid="7005050362066086119" name="account_settings_enforced_label">"Қолданылған саясаттар"</string>
+    <string msgid="1668581504445370253" name="account_settings_enforced_summary">"Ешқандай"</string>
+    <string msgid="4232590695889111419" name="account_settings_exit_server_settings">"Сақталмаған өзгерістерді жою қажет пе?"</string>
+    <string msgid="3793314460723296874" name="account_settings_incoming_label">"Кіріс параметрлері"</string>
+    <string msgid="7521181981008371492" name="account_settings_incoming_summary">"Пайдаланушы аты, құпия сөз және басқа кіріс сервер параметрлері"</string>
+    <string msgid="4107847714594035131" name="account_settings_mail_check_frequency_label">"Синхрондау жиілігі"</string>
+    <string msgid="8230436030850457988" name="account_settings_name_label">"Сіздің атыңыз"</string>
+    <string msgid="2842952349214972116" name="account_settings_notifications">"Хабарландыру параметрлері"</string>
+    <string msgid="8621226576645167987" name="account_settings_notify_label">"Электрондық пошта хабарландырулары"</string>
+    <string msgid="88560545461159120" name="account_settings_notify_summary">"Электрондық пошта келгенде хабарландыру жіберу"</string>
+    <string msgid="4997504719643828381" name="account_settings_outgoing_label">"Шығыс параметрлері"</string>
+    <string msgid="1884202151340479161" name="account_settings_outgoing_summary">"Түпнұсқалықты растау мүмкін болмады. Құпия сөзді қайта теріп, әрекетті қайталаңыз."</string>
+    <string msgid="5972183883466873359" name="account_settings_policies">"Қауіпсіздік саясаттары"</string>
+    <string msgid="8605492340808650923" name="account_settings_retry_label">"Синхрондау әрекеті"</string>
+    <string msgid="2598065993718592906" name="account_settings_retry_summary">"Бұл есептік жазбаны синхрондау үшін мына жерді түртіңіз"</string>
+    <string msgid="2238523918221865167" name="account_settings_ringtone">"Рингтон таңдау"</string>
+    <string msgid="3386185135392642067" name="account_settings_servers">"Сервер параметрлері"</string>
+    <string msgid="4733776978291376161" name="account_settings_summary">"Синхрондау жиілігі, хабарландырулар, т.б."</string>
+    <string msgid="3172491863244160828" name="account_settings_sync_calendar_enable">"Күнтізбені синхрондау"</string>
+    <string msgid="411960248618953311" name="account_settings_sync_calendar_summary">"Осы есептік жазба үшін күнтізбе оқиғасын синхрондау"</string>
+    <string msgid="2642448079273767521" name="account_settings_sync_contacts_enable">"Контактілерді синхрондау"</string>
+    <string msgid="1716022682035150630" name="account_settings_sync_contacts_summary">"Осы есептік жазба үшін контактілерді синхрондау"</string>
+    <string msgid="7135765408226471860" name="account_settings_sync_email_enable">"Эл.поштаны синх-у"</string>
+    <string msgid="71710510041953351" name="account_settings_sync_email_summary">"Осы ес. жазба үшін эл. поштаны синх-у"</string>
+    <string msgid="7286722617178322465" name="account_settings_unsupported_label">"Қолдау көрсетілмейтін саясаттар"</string>
+    <string msgid="1980825746966562221" name="account_settings_unsupported_summary">"Ешқандай"</string>
+    <string msgid="1434091698882290052" name="account_setup_ab_headline">"Есептік жазба түрін растау"</string>
+    <string msgid="6223657094843768202" name="account_setup_ab_instructions_format">"Сіз <ns1:g id="EMAIL">%1$s</ns1:g> <ns1:g id="USERPROTOCOL">%2$s</ns1:g> пайдаланатынын көрсеттіңіз, бірақ есептік жазба <ns1:g id="PROVIDERPROTOCOL">%3$s</ns1:g> пайдалана алады"</string>
+    <string msgid="3375795537675351389" name="account_setup_account_type_headline">"Есептік жазба түрі"</string>
+    <string msgid="968088954656738617" name="account_setup_account_type_instructions">"Бұл есептік жазбаның түрі қандай?"</string>
+    <string msgid="4075075565221436715" name="account_setup_autodiscover_dlg_authfail_message">"Пайдаланушы аты, құпия сөз және есептік жазба параметрлерінің дұрыстығын растаңыз."</string>
+    <string msgid="7551559109838593189" name="account_setup_autodiscover_dlg_authfail_title">"Есептік жазбаны реттеуде мәселе туындады"</string>
+    <string msgid="8701406783555749929" name="account_setup_basics_email_label">"Электрондық пошта мекенжайы"</string>
+    <string msgid="8468280216822264643" name="account_setup_basics_headline">"Электрондық пошта есептік жазбасы"</string>
+    <string msgid="7690861839383362085" name="account_setup_basics_manual_setup_action">"Қолмен реттеу"</string>
+    <string msgid="784962388753706730" name="account_setup_basics_password_label">"ҚҰПИЯ СӨЗ"</string>
+    <string msgid="5050895656741229172" name="account_setup_basics_title">"Есептік жазбаны реттеу"</string>
+    <string msgid="9196418179524308411" name="account_setup_check_settings_check_incoming_msg">"Сервер параметрлері тексерілуде…"</string>
+    <string msgid="9062019904409225329" name="account_setup_check_settings_check_outgoing_msg">"SMTP параметрлері тексерілуде…"</string>
+    <string msgid="9103280616618316032" name="account_setup_check_settings_retr_info_msg">"Есептік жазба ақпараты шығарып алынуда…"</string>
+    <string msgid="2898648422471181490" name="account_setup_creating_account_msg">"Есептік жазба жасалуда…"</string>
+    <string msgid="8756785660598838350" name="account_setup_exchange_certificate_title">"КЛИЕНТ СЕРТИФИКАТЫ"</string>
+    <string msgid="2306603503497194905" name="account_setup_exchange_device_id_label">"МОБИЛЬДІ ҚҰРЫЛҒЫНЫҢ ИДЕНТИФИКАТОРЫ"</string>
+    <string msgid="3569712401698909695" name="account_setup_exchange_no_certificate">"Ешқандай"</string>
+    <string msgid="1222387802827919583" name="account_setup_exchange_remove_certificate">"Жою"</string>
+    <string msgid="264748505181695915" name="account_setup_exchange_select_certificate">"Таңдау"</string>
+    <string msgid="6513687497912094538" name="account_setup_exchange_use_certificate">"Клиент сертификатын пайдалану"</string>
+    <string msgid="2051742796367919026" name="account_setup_failed_access_denied">"Бұл сервермен синхрондалуға рұқсат жоқ. Қосымша ақпарат алу үшін сервер әкімшісіне хабарласыңыз."</string>
+    <string msgid="2684010997018901707" name="account_setup_failed_auth_required">"Аутентификация әдістеріне серверде қолдау көрсетілмейді."</string>
+    <string msgid="4574461885959029072" name="account_setup_failed_certificate_inaccessible">"Сертификат жарамсыз немесе қол жетімсіз."</string>
+    <string msgid="4607859382193244795" name="account_setup_failed_certificate_required">"Клиент сертификаты қажет. Клиент сертификаты бар серверге қосылғыңыз келе ме?"</string>
+    <string msgid="430054384233036305" name="account_setup_failed_check_credentials_message">"Сервер қатемен жауап берді. Пайдаланушы аты мен құпия сөзді тексеріп, қайталап көріңіз"</string>
+    <string msgid="5608549872868036352" name="account_setup_failed_dlg_auth_message">"Пайдаланушы аты немесе құпия сөз дұрыс емес."</string>
+    <string msgid="4725950885859654809" name="account_setup_failed_dlg_certificate_message">"Серверге қауіпсіз қосылу мүмкін болмады."</string>
+    <string msgid="3451681985727559303" name="account_setup_failed_dlg_certificate_message_fmt">"Серверге қауіпсіз қосылу мүмкін болмады.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="8155332642922842729" name="account_setup_failed_dlg_edit_details_action">"Мәліметтерді өңдеу"</string>
+    <string msgid="1180197172141077524" name="account_setup_failed_dlg_server_message">"Серверге қосылу мүмкін емес."</string>
+    <string msgid="3889441611138037320" name="account_setup_failed_dlg_server_message_fmt">"Серверге қосылу мүмкін емес.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="7923577224474005464" name="account_setup_failed_dlg_title">"Аяқтау мүмкін болмады"</string>
+    <string msgid="3862689923436539909" name="account_setup_failed_ioerror">"Сервер қосылымын ашу мүмкін болмады."</string>
+    <string msgid="4973054582044010375" name="account_setup_failed_protocol_unsupported">"Сервер мекенжайын дұрыс жазбадыңыз немесе сервер электрондық пошта қолдау көрсетпейтін протокол нұсқасын талап етеді."</string>
+    <string msgid="1627240499907011040" name="account_setup_failed_security">"Қауіпсіздік қатесіне байланысты сервер қосылымын ашу мүмкін болмады."</string>
+    <string msgid="4619685657253094627" name="account_setup_failed_security_policies_unsupported">"Бұл сервер сіздің Android құрылғыңыз қолдау көрсетпейтін қауіпсіздік функцияларын талап етеді, соның ішінде: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="1902309158359287958" name="account_setup_failed_tls_required">"TLS қажет, бірақ сервер оған қолдау көрсетпейді."</string>
+    <string msgid="8677018382715596606" name="account_setup_incoming_delete_policy_delete_label">"Мен «Кіріс» қалтасынан жойған кезде"</string>
+    <string msgid="2341742235654301690" name="account_setup_incoming_delete_policy_label">"Электрондық поштаны серверден жою"</string>
+    <string msgid="5777530843489961009" name="account_setup_incoming_delete_policy_never_label">"Ешқашан"</string>
+    <string msgid="6232828824446177639" name="account_setup_incoming_headline">"Кіріс сервер параметрлері"</string>
+    <string msgid="206747922689229932" name="account_setup_incoming_imap_path_prefix_hint">"Міндетті емес"</string>
+    <string msgid="3531290378620033218" name="account_setup_incoming_imap_path_prefix_label">"IMAP жолының префиксі"</string>
+    <string msgid="4806105500058512876" name="account_setup_incoming_password_label">"ҚҰПИЯ СӨЗ"</string>
+    <string msgid="402562424498833560" name="account_setup_incoming_port_label">"ПОРТ"</string>
+    <string msgid="8360505617331971663" name="account_setup_incoming_security_label">"ҚАУІПСІЗДІК ТҮРІ"</string>
+    <string msgid="2461510827337484818" name="account_setup_incoming_security_none_label">"Ешқандай"</string>
+    <string msgid="5169133414545009342" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="2834386066577239560" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (Барлық сертификаттарды қабылдау)"</string>
+    <string msgid="3892291833944170882" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="2281920902104029077" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (барлық сертификаттарды қабылдау)"</string>
+    <string msgid="5409694850973258387" name="account_setup_incoming_server_label">"СЕРВЕР"</string>
+    <string msgid="2609699829997945895" name="account_setup_incoming_username_label">"ПАЙДАЛАНУШЫ АТЫ"</string>
+    <string msgid="3487538709712378441" name="account_setup_names_account_name_label">"Бұл есептік жазбаға ат беру (міндетті емес)"</string>
+    <string msgid="2031978210683887370" name="account_setup_names_headline">"Сіздің есептік жазбаңыз реттелді және электрондық пошта келе жатыр!"</string>
+    <string msgid="4298006111315033499" name="account_setup_names_user_name_label">"Сіздің атыңыз (шығыс хабарларда көрсетіледі)"</string>
+    <string msgid="4085327585082867216" name="account_setup_options_background_attachments_label">"Wi-Fi желісіне қосылған кезде тіркемелерді автоматты түрде жүктеу"</string>
+    <string msgid="4810292194395251968" name="account_setup_options_headline">"Есептік жазба опциялары"</string>
+    <string msgid="8787901333816702849" name="account_setup_options_mail_check_frequency_10min">"10 минут сайын"</string>
+    <string msgid="7127640170766018765" name="account_setup_options_mail_check_frequency_15min">"15 минут сайын"</string>
+    <string msgid="107706566853925273" name="account_setup_options_mail_check_frequency_1hour">"Сағат сайын"</string>
+    <string msgid="4223562871143897449" name="account_setup_options_mail_check_frequency_30min">"30 минут сайын"</string>
+    <string msgid="8929785860545198867" name="account_setup_options_mail_check_frequency_5min">"5 минут сайын"</string>
+    <string msgid="7253305392938373553" name="account_setup_options_mail_check_frequency_label">"Синхрондау жиілігі"</string>
+    <string msgid="2937664246354067829" name="account_setup_options_mail_check_frequency_never">"Ешқашан"</string>
+    <string msgid="5511415696925307797" name="account_setup_options_mail_check_frequency_push">"Автоматты (Push)"</string>
+    <string msgid="7930883294844418428" name="account_setup_options_mail_window_1day">"Соңғы күн"</string>
+    <string msgid="3228265299330513816" name="account_setup_options_mail_window_1month">"Соңғы ай"</string>
+    <string msgid="5230695719358085318" name="account_setup_options_mail_window_1week">"Соңғы апта"</string>
+    <string msgid="1144271277694832921" name="account_setup_options_mail_window_2weeks">"Соңғы екі апта"</string>
+    <string msgid="3435093562391555730" name="account_setup_options_mail_window_3days">"Соңғы үш күн"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"Барлығы"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"Aвтоматты"</string>
+    <string msgid="5518038139722596598" name="account_setup_options_mail_window_default">"Ес. жазбаның әдепкі параметрл. пайдалану"</string>
+    <string msgid="4737241149297585368" name="account_setup_options_mail_window_label">"Келесіден электрондық хабарларды синхрондау:"</string>
+    <string msgid="3101529443722198112" name="account_setup_options_notify_label">"Электрондық пошта келген кезде хабарлау"</string>
+    <string msgid="303441956432308807" name="account_setup_options_sync_calendar_label">"Күнтізбені осы есептік жазбадан синхрондау"</string>
+    <string msgid="5029046373980454714" name="account_setup_options_sync_contacts_label">"Контактілерді осы есептік жазбадан синхрондау"</string>
+    <string msgid="468957966555663131" name="account_setup_options_sync_email_label">"Электрондық поштаны осы есептік жазбадан синхрондау"</string>
+    <string msgid="6638171491109658047" name="account_setup_outgoing_headline">"Шығыс сервер параметрлері"</string>
+    <string msgid="3735952013505812378" name="account_setup_outgoing_port_label">"ПОРТ"</string>
+    <string msgid="5405196721947884033" name="account_setup_outgoing_require_login_label">"Жүйеге кіруді талап ету"</string>
+    <string msgid="6473177134731615282" name="account_setup_outgoing_security_label">"ҚАУІПСІЗДІК ТҮРІ"</string>
+    <string msgid="3460163861711242681" name="account_setup_outgoing_smtp_server_label">"SMTP СЕРВЕРІ"</string>
+    <string msgid="8844680398828891772" name="account_setup_outgoing_username_label">"ПАЙДАЛАНУШЫ АТЫ"</string>
+    <string msgid="5930042642982830233" name="account_setup_password_subheading">"Құпия сөз"</string>
+    <string msgid="9029471168291631932" name="account_setup_security_policies_required_fmt">"<ns1:g id="SERVER">%s</ns1:g> сервері Android құрылғыңыздың кейбір қауіпсіздік функцияларын қашықтан басқаруға рұқсат беруіңізді қажет етеді. Бұл есептік жазба параметрлерін реттеуді аяқтағыңыз келе ме?"</string>
+    <string msgid="667943309546419435" name="account_setup_security_required_title">"Қашықтан қауіпсіздікті басқару"</string>
+    <string msgid="3659744829670065777" name="account_setup_username_password_toast">"Жарамды электрондық пошта мекенжайын немесе құпия сөзді теріңіз."</string>
+    <string msgid="8848194305692897677" name="account_waiting_for_folders_msg">"Қалталар тізімі жүктелуде…"</string>
+    <string msgid="7230367425520242593" name="accounts_welcome">"Есептік жазбаны бар болғаны бірнеше қадаммен реттей аласыз."</string>
+    <string msgid="382998197798081729" name="add_authentication_label">"Аутентификацияны қосу"</string>
+    <string msgid="2206468539066258195" name="app_name">"Электрондық пошта"</string>
+    <string msgid="914463525214987772" name="authentication_label">"АУТЕНТИФИКАЦИЯ"</string>
+    <string msgid="4750930803913225689" name="clear_authentication_label">"Аутентификацияны тазалау"</string>
+    <string msgid="6764021931370809514" name="confirm_response">"Жауап жіберілуде…"</string>
+    <string msgid="6575946089819721958" name="create_action">"Жаңасын жасау"</string>
+    <string msgid="1337476992195531309" name="debug_title">"Күйін келтіру"</string>
+    <string msgid="4299378570982520839" name="device_admin_description">"Сервер анықтаған қауіпсіздік саясаттарын қосады"</string>
+    <string msgid="3335272972461391415" name="device_admin_label">"Электрондық пошта"</string>
+    <string msgid="6001542250505146252" name="disable_admin_warning">"ЕСКЕРТУ: «Электрондық пошта» қолданбасының құрылғыңызды басқару мүмкіндігін өшіру оны талап ететін барлық электрондық пошта есептік жазбаларын, соның ішінде, электрондық поштаны, контактілерді, күнтізбе оқиғаларын және басқа деректерді жояды."</string>
+    <string msgid="3048014284772648575" name="edit_quick_response_dialog">"Жылдам жауап"</string>
+    <string msgid="64258748053106017" name="email_confirmation_label">"Электрондық пошта мекенжайы:"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="2900585518884851062" name="forward_download_failed_ticker">"Бір немесе бірнеше тіркемені қайта жіберу мүмкін болмады."</string>
+    <string msgid="2043036709913723298" name="forward_download_failed_title">"Тіркеме қайта жіберілмеді"</string>
+    <string msgid="4620839194581484497" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> жүйеге кіруі сәтсіз болды."</string>
+    <string msgid="1737884069957090004" name="login_failed_title">"Жүйеге кіру мүмкін болмады"</string>
+    <string msgid="4155918930481733669" name="mailbox_list_account_selector_combined_view">"Біріктірілген көрініс"</string>
+    <string msgid="3552043116466269581" name="mailbox_name_display_drafts">"Жоба жазбалар"</string>
+    <string msgid="5093068725739672126" name="mailbox_name_display_inbox">"«Кіріс» қалтасы"</string>
+    <string msgid="1634126984313831675" name="mailbox_name_display_junk">"Қалаусыз"</string>
+    <string msgid="8735725798805339414" name="mailbox_name_display_outbox">"Шығыс"</string>
+    <string msgid="6705058612006729985" name="mailbox_name_display_sent">"Жіберілген"</string>
+    <string msgid="8076384721309828453" name="mailbox_name_display_starred">"Жұлдызшалы"</string>
+    <string msgid="7020792045007681852" name="mailbox_name_display_trash">"Себет"</string>
+    <string msgid="1453575937919310339" name="mailbox_name_display_unread">"Оқылмаған"</string>
+    <string msgid="2196614373847675314" name="mailbox_settings_activity_title">"Синхрондау опциялары"</string>
+    <string msgid="5547676392298186906" name="mailbox_settings_activity_title_with_mailbox">"Синхрондау опциялары (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="7027516982341382326" name="mailbox_settings_mailbox_sync_window_label">"Пошта синхрондалуына қалған күндер"</string>
+    <string msgid="7723413381707277856" name="mailbox_settings_sync_enabled_label">"Осы қалтаны синхрондау"</string>
+    <string msgid="742233465207750578" name="mailbox_settings_sync_enabled_summary">"Хабарлар қосылған кезде жүктеледі"</string>
+    <string msgid="6193988236722150221" name="message_compose_fwd_header_fmt">\n\n"-------- Бастапқы хабар --------\nТақырыбы: <ns1:g id="SUBJECT">%1$s</ns1:g>\nКімнен: <ns1:g id="SENDER">%2$s</ns1:g>\nКімге: <ns1:g id="TO">%3$s</ns1:g>\nКөшірме: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5836926808818821309" name="message_compose_insert_quick_response_list_title">"Жылдам жауап кірістіру"</string>
+    <string msgid="4393288554605333619" name="message_compose_insert_quick_response_menu_title">"Жылдам жауап кірістіру"</string>
+    <string msgid="91396461771444300" name="message_decode_error">"Хабарды кодтан шығару кезінде қате пайда болды."</string>
+    <string msgid="7571652141281187845" name="message_view_attachment_background_load">"Сіздің қайта жіберілген хабарыңыздағы тіркемелердің бірі немесе бірнешеуі жіберместен бұрын жүктеледі."</string>
+    <string msgid="8716297053803961304" name="no_quick_responses">"Ешбірі қол жетімді емес"</string>
+    <string msgid="3771260531636603518" name="oauth_authentication_title">"Авторизация сұралуда"</string>
+    <string msgid="8466102021844409849" name="oauth_error_description">"Аутентификациялау мүмкін болмады"</string>
+    <string msgid="6408695162723653446" name="or_label">"НЕМЕСЕ"</string>
+    <string msgid="4360288708739366810" name="password_expire_warning_content_title">"Бекіту экранының құпия сөз мерзімі аяқталуда"</string>
+    <string msgid="1093389293050776319" name="password_expire_warning_dialog_content_fmt">"Бекіту экраныңыздың PIN кодын немесе құпия сөзін жақында өзгертуіңіз қажет, болмаса <ns1:g id="ACCOUNT">%s</ns1:g> деректері өшіріледі. Қазір өзгерткіңіз келе ме?"</string>
+    <string msgid="4901499545146045672" name="password_expire_warning_dialog_title">"Бекіту экранының құпия сөз мерзімі аяқталуда"</string>
+    <string msgid="5543005790538884060" name="password_expire_warning_ticker_fmt">"«<ns1:g id="ACCOUNT">%s</ns1:g>» бекіту экраныңыздың PIN кодын немесе құпия сөзін өзгертуді талап етеді."</string>
+    <string msgid="7379094218699681984" name="password_expired_content_title">"Бекіту экраны құпия сөзінің мерзімі аяқталды"</string>
+    <string msgid="8322213184626443346" name="password_expired_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> деректері құрылғыңыздан өшірілуде. Оны бекіту экранының PIN кодын немесе құпия сөзін өзгерту арқылы қалпына келтіре аласыз. Оны қазір өзгерткіңіз келе ме?"</string>
+    <string msgid="7275534155170185252" name="password_expired_dialog_title">"Бекіту экраны құпия сөзінің мерзімі аяқталды"</string>
+    <string msgid="3098703963402347483" name="password_expired_ticker">"Бекіту экраныңыздың PIN кодының немесе құпия сөзінің мерзімі аяқталды."</string>
+    <string msgid="4226682910292828279" name="password_hint">"Құпия сөз"</string>
+    <string msgid="1887439537224212124" name="password_warning_label">"Электрондық пошта мекенжайы немесе құпия сөз дұрыс емес"</string>
+    <string msgid="5338433949655493713" name="permission_access_provider_desc">"Қолданбаға сіздің электрондық поштаңыздың дерекқорына, соның ішінде алынған хабарларға, жіберілген хабарларға, пайдаланушы аттарына және құпия сөздерге қатынасуға рұқсат береді."</string>
+    <string msgid="977700184037298723" name="permission_access_provider_label">"Электрондық пошта провайдері деректеріне қатынас"</string>
+    <string msgid="6579059616090100181" name="permission_read_attachment_desc">"Қолданбаға сіздің электрондық пошта тіркемелеріңізді оқуға мүмкіндік береді"</string>
+    <string msgid="6641407731311699536" name="permission_read_attachment_label">"Электрондық пошта тіркемелерін оқу"</string>
+    <string msgid="6469328498345236120" name="policy_calendar_age">"Синхрондалған күнтізбе оқиғаларының санын шектеу"</string>
+    <string msgid="8821533827628900689" name="policy_dont_allow_camera">"Құрылғының камерасын пайдалануға рұқсат бермеу"</string>
+    <string msgid="3521941976575225050" name="policy_email_age">"Синхрондалған электрондық хабарлар санын шектеу"</string>
+    <string msgid="1287225242918742275" name="policy_password_expiration">"Құпия сөздердің мерзімін талап ету"</string>
+    <string msgid="9001177390979112746" name="policy_password_history">"Соңғы құпия сөздердің қайта пайдаланылуын шектеу"</string>
+    <string msgid="3556860917024612396" name="policy_require_password">"Құрылғының құпия сөзін талап ету"</string>
+    <string msgid="3499201409239287702" name="policy_screen_timeout">"Жұмыссыз тұрған құр-ң экранды бекітуін талап ету"</string>
+    <string msgid="1596701148051980218" name="provider_note_t_online">"Осы электрондық пошта есептік жазбасын реттеместен бұрын, T-Online веб-торабына кіріп, POP3 электрондық пошта қатынасуға арналған құпия сөз жасаңыз."</string>
+    <string msgid="9130521670178673190" name="quick_1">"Рақмет!"</string>
+    <string msgid="8611591278119481491" name="quick_2">"Бұл маған ұнайды!"</string>
+    <string msgid="8070999183033184986" name="quick_3">"Мен бұны кейірінек оқып, жауап беремін."</string>
+    <string msgid="216066940197616025" name="quick_4">"Бұны талқылау үшін кездесу ұйымдастырайық."</string>
+    <string msgid="3394094315357455290" name="quick_responses_empty_view">"Жылдам жауаптар жоқ."</string>
+    <string msgid="5740359453077441466" name="save_action">"Сақтау"</string>
+    <string msgid="3823930420292838192" name="security_changed_ticker_fmt">"«<ns1:g id="ACCOUNT">%s</ns1:g>» есептік жазбасы өзінің қауіпсіздік параметрлерін өзгертті; пайдаланушы әрекеті қажет емес."</string>
+    <string msgid="7099561996532829229" name="security_needed_ticker_fmt">"«<ns1:g id="ACCOUNT">%s</ns1:g>» есептік жазбасы қауіпсіздік параметрлерінің жаңартылуын талап етеді."</string>
+    <string msgid="615639963487448183" name="security_notification_content_change_title">"Қауіпсіздік саясаттары өзгертілді"</string>
+    <string msgid="6494791400431198228" name="security_notification_content_unsupported_title">"Қауіпсіздік саясаттарын сақтау мүмкін емес"</string>
+    <string msgid="6321099538307807621" name="security_notification_content_update_title">"Қауіпсіздікті жаңарту қажет"</string>
+    <string msgid="3249185558872836884" name="security_unsupported_ticker_fmt">"Қауіпсіздік талаптары себебінен «<ns1:g id="ACCOUNT">%s</ns1:g>» есептік жазбасын синхрондау мүмкін емес."</string>
+    <string msgid="9207482909822072856" name="sent_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g> үшін сер. жіб. эл-р қал. таң."</string>
+    <string msgid="5051852806423550830" name="sign_in_title">"Кіру"</string>
+    <string msgid="1412668282326928102" name="sign_in_with_google">"Google арқылы кіру"</string>
+    <string msgid="4282359206358453634" name="signed_in_with_service_label">"%s арқылы кірді"</string>
+    <string msgid="2248313263003927725" name="system_account_create_failed">"Есептік жазба жасау мүмкін болмады. Әрекетті қайталаңыз."</string>
+    <string msgid="818944260541160146" name="system_folders_sent_dlg">"Сервердің жіберілген элементтер қалтасын таңдау"</string>
+    <string msgid="4252740721870748375" name="system_folders_sent_summary">"Сервердің жіберілген элементтер қалтасын таңдау"</string>
+    <string msgid="8792934374188279309" name="system_folders_sent_title">"Жіберілген элементтер қалтасы"</string>
+    <string msgid="7161311881709109736" name="system_folders_title">"Жүйелік қалталар"</string>
+    <string msgid="353701568340939392" name="system_folders_trash_dlg">"Серверіңіздің қоқыс қалтасын таңдау"</string>
+    <string msgid="2583143581531897068" name="system_folders_trash_summary">"Серверіңіздің қоқыс қалтасын таңдау"</string>
+    <string msgid="3190927115504713123" name="system_folders_trash_title">"Қоқыс қалтасы"</string>
+    <string msgid="686039558899469073" name="trash_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g> үшін сервердің қоқыс қалтасын таңдаңыз"</string>
+</resources>

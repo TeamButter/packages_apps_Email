@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="account_providers" translatable="false">
+        <!-- email account list -->
+        <item>content://com.android.email.provider/uiaccts</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_entries">
+        <item>@string/account_setup_options_mail_check_frequency_never</item>
+        <item>@string/account_setup_options_mail_check_frequency_5min</item>
+        <item>@string/account_setup_options_mail_check_frequency_10min</item>
+        <item>@string/account_setup_options_mail_check_frequency_15min</item>
+        <item>@string/account_setup_options_mail_check_frequency_30min</item>
+        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_entries_push">
+        <item>@string/account_setup_options_mail_check_frequency_push</item>
+        <item>@string/account_setup_options_mail_check_frequency_never</item>
+        <item>@string/account_setup_options_mail_check_frequency_5min</item>
+        <item>@string/account_setup_options_mail_check_frequency_10min</item>
+        <item>@string/account_setup_options_mail_check_frequency_15min</item>
+        <item>@string/account_setup_options_mail_check_frequency_30min</item>
+        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values" translatable="false">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values_push" translatable="false">
+        <item>-2</item>
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries">
+        <item>@string/account_setup_options_mail_window_1day</item>
+        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1week</item>
+        <item>@string/account_setup_options_mail_window_2weeks</item>
+        <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_all</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries_with_default">
+        <item>@string/account_setup_options_mail_window_default</item>
+        <item>@string/account_setup_options_mail_window_1day</item>
+        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1week</item>
+        <item>@string/account_setup_options_mail_window_2weeks</item>
+        <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_all</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_with_default" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <array name="combined_view_account_colors" translatable="false">
+        <item>@color/combined_view_account_color_1</item>
+        <item>@color/combined_view_account_color_2</item>
+        <item>@color/combined_view_account_color_3</item>
+        <item>@color/combined_view_account_color_4</item>
+        <item>@color/combined_view_account_color_5</item>
+        <item>@color/combined_view_account_color_6</item>
+        <item>@color/combined_view_account_color_7</item>
+        <item>@color/combined_view_account_color_8</item>
+        <item>@color/combined_view_account_color_9</item>
+    </array>
+    <string-array name="default_quick_responses">
+        <item>@string/quick_1</item>
+        <item>@string/quick_2</item>
+        <item>@string/quick_3</item>
+        <item>@string/quick_4</item>
+    </string-array>
+    <string-array name="smtp_host_prefixes" translatable="false">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
+    </string-array>
+    <bool name="enable_services">true</bool>
+    <bool name="feedback_supported">false</bool>
+    <bool name="quickresponse_supported">true</bool>
+    <bool name="reconcile_accounts">true</bool>
+    <bool name="skip_oauth_on_setup">false</bool>
+    <color name="account_setup_button_bar_background">@color/very_light_grey</color>
+    <color name="account_setup_divider_color">#CCCCCC</color>
+    <color name="account_setup_headline_color">#333333</color>
+    <color name="account_setup_info_text_color">#000000</color>
+    <color name="account_setup_label_large_text_color">#000000</color>
+    <color name="account_setup_label_text_color">#666666</color>
+    <color name="account_setup_xlarge_background_color">#e5e5e5</color>
+    <color name="button_text_disabled_color">#cccccc</color>
+    <color name="combined_view_account_color_1">#ff71aea7</color>
+    <color name="combined_view_account_color_2">#ff621919</color>
+    <color name="combined_view_account_color_3">#ff18462f</color>
+    <color name="combined_view_account_color_4">#ffbf8e52</color>
+    <color name="combined_view_account_color_5">#ff001f79</color>
+    <color name="combined_view_account_color_6">#ffa8afc2</color>
+    <color name="combined_view_account_color_7">#ff6b64c4</color>
+    <color name="combined_view_account_color_8">#ff738359</color>
+    <color name="combined_view_account_color_9">#ff9d50a4</color>
+    <color name="email_confirmation_color">#808080</color>
+    <color name="password_warning_color">#d30000</color>
+    <color name="quick_response_text_color">#000000</color>
+    <color name="text_secondary_color">#666666</color>
+    <declare-styleable name="EmailServiceInfo"><attr format="string" name="protocol"/><attr format="string" name="name"/><attr format="boolean" name="hide"/><attr format="string" name="accountType"/><attr format="string" name="serviceClass"/><attr format="string" name="intent"/><attr format="string" name="intentPackage"/><attr format="integer" name="port"/><attr format="integer" name="portSsl"/><attr format="boolean" name="defaultSsl"/><attr format="boolean" name="offerTls"/><attr format="boolean" name="offerCerts"/><attr format="boolean" name="offerOAuth"/><attr format="boolean" name="offerLocalDeletes"/><attr format="integer" name="defaultLocalDeletes"/><attr format="boolean" name="offerPrefix"/><attr format="boolean" name="usesSmtp"/><attr format="boolean" name="syncChanges"/><attr format="boolean" name="syncContacts"/><attr format="boolean" name="syncCalendar"/><attr format="boolean" name="usesAutodiscover"/><attr format="boolean" name="offerLookback"/><attr format="boolean" name="offerLoadMore"/><attr format="boolean" name="offerMoveTo"/><attr name="defaultLookback"><enum name="auto" value="-2"/><enum name="days1" value="1"/><enum name="days3" value="2"/><enum name="weeks1" value="3"/><enum name="weeks2" value="4"/><enum name="months1" value="5"/><enum name="all" value="6"/></attr><attr format="boolean" name="offerAttachmentPreload"/><attr format="reference" name="syncIntervalStrings"/><attr format="reference" name="syncIntervals"/><attr name="defaultSyncInterval"><enum name="push" value="-2"/><enum name="never" value="-1"/><enum name="mins5" value="5"/><enum name="mins10" value="10"/><enum name="mins15" value="15"/><enum name="mins30" value="30"/><enum name="mins60" value="60"/></attr><attr format="string" name="inferPrefix"/><attr format="boolean" name="requiresSetup"/><attr format="boolean" name="isGmailStub"/></declare-styleable>
+    <dimen name="certificate_selector_padding_top">24dp</dimen>
+    <dimen name="dialog_padding_left">10sp</dimen>
+    <dimen name="dialog_padding_other">4sp</dimen>
+    <dimen name="dialog_text_size">10sp</dimen>
+    <dimen name="settings_buttons_padding_bottom">48dp</dimen>
+    <dimen name="settings_buttons_padding_top">48dp</dimen>
+    <dimen name="settings_fragment_padding_bottom">24dp</dimen>
+    <dimen name="settings_fragment_padding_side">16dp</dimen>
+    <dimen name="settings_fragment_padding_top">16dp</dimen>
+    <dimen name="setup_account_ab_button_height">54dp</dimen>
+    <dimen name="setup_account_ab_button_min_width">100sp</dimen>
+    <dimen name="setup_account_ab_button_vertical_spacing">16dp</dimen>
+    <dimen name="setup_account_ab_button_width">212sp</dimen>
+    <dimen name="setup_account_type_button_min_width">100sp</dimen>
+    <dimen name="setup_account_type_buttons_height">54dp</dimen>
+    <dimen name="setup_account_type_buttons_vertical_spacing">16dp</dimen>
+    <dimen name="setup_account_type_buttons_width">212sp</dimen>
+    <dimen name="setup_basics_logo_margin_bottom">4dp</dimen>
+    <dimen name="setup_basics_logo_margin_top">4dp</dimen>
+    <dimen name="setup_checkbox_margin_bottom">8dp</dimen>
+    <dimen name="setup_checkbox_margin_side">0dp</dimen>
+    <dimen name="setup_checkbox_margin_top">8dp</dimen>
+    <dimen name="setup_fragment_padding_bottom">16dp</dimen>
+    <dimen name="setup_fragment_padding_side">24dp</dimen>
+    <dimen name="setup_fragment_padding_top">16dp</dimen>
+    <dimen name="setup_headline_padding_side">24dp</dimen>
+    <dimen name="setup_headline_padding_top">24dp</dimen>
+    <dimen name="setup_headline_text_size">30sp</dimen>
+    <dimen name="setup_info_text_margin_bottom">20dp</dimen>
+    <dimen name="setup_input_text_padding_bottom">8dp</dimen>
+    <dimen name="setup_label_large_text_margin_bottom">20dp</dimen>
+    <dimen name="setup_label_text_padding_top">24dp</dimen>
+    <dimen name="setup_lower_headline_margin_bottom">16dp</dimen>
+    <dimen name="setup_nav_button_drawable_padding">16dp</dimen>
+    <dimen name="setup_nav_button_margin">4dp</dimen>
+    <dimen name="setup_nav_button_padding_bottom">16dp</dimen>
+    <dimen name="setup_nav_button_padding_side">12dp</dimen>
+    <dimen name="setup_nav_button_padding_top">16dp</dimen>
+    <dimen name="setup_template_content_width">600dp</dimen>
+    <dimen name="setup_text_button_height">40sp</dimen>
+    <dimen name="setup_text_button_text_size">18sp</dimen>
+    <dimen name="setup_text_button_width">160sp</dimen>
+    <string name="account_duplicate_dlg_message_fmt">
+        You\'re already using this username for the account \"<ns1:g id="duplicate">%s</ns1:g>\".
+    </string>
+    <string name="account_duplicate_dlg_title">Duplicate account</string>
+    <string name="account_manager_type_exchange" translatable="false">com.android.exchange</string>
+    <string name="account_manager_type_imap" translatable="false">com.android.email</string>
+    <string name="account_manager_type_legacy_imap" translatable="false">com.android.email</string>
+    <string name="account_manager_type_pop3" translatable="false">com.android.email</string>
+    <string name="account_security_dialog_content_fmt">
+         <ns1:g id="account">%s</ns1:g> requires that you update your security
+         settings.</string>
+    <string name="account_security_dialog_title">Security update</string>
+    <string name="account_security_policy_explanation_fmt">
+         The server <ns1:g id="server">%s</ns1:g> requires that you allow it to remotely control
+         some security features of your Android device.</string>
+    <string name="account_security_title">Device security</string>
+    <string name="account_settings_action">Account settings</string>
+    <string name="account_settings_background_attachments_label">
+        Download attachments</string>
+    <string name="account_settings_background_attachments_summary">
+        Auto-download attachments to recent messages via Wi-Fi</string>
+    <string name="account_settings_data_usage">Data usage</string>
+    <string name="account_settings_description_label">Account name</string>
+    <string name="account_settings_edit_quick_responses_label">Quick responses</string>
+    <string name="account_settings_edit_quick_responses_summary">
+        Edit text that you frequently insert when composing email</string>
+    <string name="account_settings_enforced_label">Policies enforced</string>
+    <string name="account_settings_enforced_summary">None</string>
+    <string name="account_settings_exit_server_settings">Discard unsaved changes?</string>
+    <string name="account_settings_incoming_label">Incoming settings</string>
+    <string name="account_settings_incoming_summary">
+        Username, password, and other incoming server settings</string>
+    <string name="account_settings_mail_check_frequency_label">Sync frequency</string>
+    <string name="account_settings_name_label">Your name</string>
+    <string name="account_settings_notifications">Notification settings</string>
+    <string name="account_settings_notify_label">Email notifications</string>
+    <string name="account_settings_notify_summary">Send notification when email arrives</string>
+    <string name="account_settings_outgoing_label">Outgoing settings</string>
+    <string name="account_settings_outgoing_summary">
+        Username, password, and other outgoing server settings</string>
+    <string name="account_settings_policies">Security policies</string>
+    <string name="account_settings_retry_label">Attempt sync</string>
+    <string name="account_settings_retry_summary">Touch here to sync this account</string>
+    <string name="account_settings_ringtone">Choose ringtone</string>
+    <string name="account_settings_servers">Server settings</string>
+    <string name="account_settings_summary">Sync frequency, notifications, etc.</string>
+    <string name="account_settings_sync_calendar_enable">Sync calendar</string>
+    <string name="account_settings_sync_calendar_summary">Sync calendar event for this account</string>
+    <string name="account_settings_sync_contacts_enable">Sync contacts</string>
+    <string name="account_settings_sync_contacts_summary">Sync contacts for this account</string>
+    <string name="account_settings_sync_email_enable">Sync email</string>
+    <string name="account_settings_sync_email_summary">Sync email for this account</string>
+    <string name="account_settings_unsupported_label">Unsupported policies</string>
+    <string name="account_settings_unsupported_summary">None</string>
+    <string name="account_setup_ab_headline">Confirm account type</string>
+    <string name="account_setup_ab_instructions_format">You indicated <ns1:g id="email">%1$s</ns1:g> uses <ns1:g id="userProtocol">%2$s</ns1:g>, but the account may use <ns1:g id="providerProtocol">%3$s</ns1:g></string>
+    <string name="account_setup_account_type_headline">Account type</string>
+    <string name="account_setup_account_type_instructions">What type of account is this?</string>
+    <string name="account_setup_autodiscover_dlg_authfail_message">Confirm username, password, and account settings are correct.</string>
+    <string name="account_setup_autodiscover_dlg_authfail_title">Problem with account setup</string>
+    <string name="account_setup_basics_email_label">Email address</string>
+    <string name="account_setup_basics_headline">Email account</string>
+    <string name="account_setup_basics_manual_setup_action">Manual setup</string>
+    <string name="account_setup_basics_password_label">PASSWORD</string>
+    <string name="account_setup_basics_title">Account setup</string>
+    <string name="account_setup_check_settings_check_incoming_msg">
+    Validating server settings\u2026</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">
+    Validating smtp settings\u2026</string>
+    <string name="account_setup_check_settings_retr_info_msg">
+    Retrieving account information\u2026</string>
+    <string name="account_setup_creating_account_msg">
+    Creating account\u2026</string>
+    <string name="account_setup_exchange_certificate_title">CLIENT CERTIFICATE</string>
+    <string name="account_setup_exchange_device_id_label">MOBILE DEVICE ID</string>
+    <string name="account_setup_exchange_no_certificate">None</string>
+    <string name="account_setup_exchange_remove_certificate">Remove</string>
+    <string name="account_setup_exchange_select_certificate">Select</string>
+    <string name="account_setup_exchange_use_certificate">Use client certificate</string>
+    <string name="account_setup_failed_access_denied">
+         You don\'t have permission to sync with this server. Contact your server\'s
+         administrator for more information.</string>
+    <string name="account_setup_failed_auth_required">Authentication methods aren\'t supported by server.</string>
+    <string name="account_setup_failed_certificate_inaccessible">The certificate is invalid or inaccessible.</string>
+    <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
+    <string name="account_setup_failed_check_credentials_message">
+         The server responded with an error. Check your username and password, then try again.</string>
+    <string name="account_setup_failed_dlg_auth_message">Username or password is incorrect.</string>
+    <string name="account_setup_failed_dlg_certificate_message">Can\'t safely connect to server.</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">Can\'t safely connect to server.\n(<ns1:g id="error">%s</ns1:g>)</string>
+    <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
+    <string name="account_setup_failed_dlg_server_message">Can\'t connect to server.</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">Can\'t connect to server.\n(<ns1:g id="error">%s</ns1:g>)</string>
+    <string name="account_setup_failed_dlg_title">Couldn\'t finish</string>
+    <string name="account_setup_failed_ioerror">Couldn\'t open connection to server.</string>
+    <string name="account_setup_failed_protocol_unsupported">
+         You typed an incorrect server address or the server requires a protocol version that
+         Email doesn\'t support.</string>
+    <string name="account_setup_failed_security">Couldn\'t open connection to server due to security error.</string>
+    <string name="account_setup_failed_security_policies_unsupported">
+         This server requires security features that your Android device doesn\'t support,
+          including: <ns1:g id="error">%s</ns1:g></string>
+    <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">
+        When I delete from Inbox</string>
+    <string name="account_setup_incoming_delete_policy_label">Delete email from server</string>
+    <string name="account_setup_incoming_delete_policy_never_label">Never</string>
+    <string name="account_setup_incoming_headline">Incoming server settings</string>
+    <string name="account_setup_incoming_imap_path_prefix_hint">Optional</string>
+    <string name="account_setup_incoming_imap_path_prefix_label">IMAP path prefix</string>
+    <string name="account_setup_incoming_password_label">PASSWORD</string>
+    <string name="account_setup_incoming_port_label">PORT</string>
+    <string name="account_setup_incoming_security_label">SECURITY TYPE</string>
+    <string name="account_setup_incoming_security_none_label">None</string>
+    <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">
+        SSL/TLS (Accept all certificates)</string>
+    <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">
+        STARTTLS (accept all certificates)</string>
+    <string name="account_setup_incoming_server_label">SERVER</string>
+    <string name="account_setup_incoming_username_label">USERNAME</string>
+    <string name="account_setup_names_account_name_label">
+        Give this account a name (optional)</string>
+    <string name="account_setup_names_headline">
+        Your account is set up and email is on its way!</string>
+    <string name="account_setup_names_user_name_label">
+        Your name (displayed on outgoing messages)</string>
+    <string name="account_setup_options_background_attachments_label">
+        Automatically download attachments when connected to Wi-Fi</string>
+    <string name="account_setup_options_headline">Account options</string>
+    <string name="account_setup_options_mail_check_frequency_10min">Every 10 minutes</string>
+    <string name="account_setup_options_mail_check_frequency_15min">Every 15 minutes</string>
+    <string name="account_setup_options_mail_check_frequency_1hour">Every hour</string>
+    <string name="account_setup_options_mail_check_frequency_30min">Every 30 minutes</string>
+    <string name="account_setup_options_mail_check_frequency_5min">Every 5 minutes</string>
+    <string name="account_setup_options_mail_check_frequency_label">Sync frequency:</string>
+    <string name="account_setup_options_mail_check_frequency_never">Never</string>
+    <string name="account_setup_options_mail_check_frequency_push">Automatic (Push)</string>
+    <string name="account_setup_options_mail_window_1day">Last day</string>
+    <string name="account_setup_options_mail_window_1month">Last month</string>
+    <string name="account_setup_options_mail_window_1week">Last week</string>
+    <string name="account_setup_options_mail_window_2weeks">Last two weeks</string>
+    <string name="account_setup_options_mail_window_3days">Last three days</string>
+    <string name="account_setup_options_mail_window_all">All</string>
+    <string name="account_setup_options_mail_window_auto">Automatic</string>
+    <string name="account_setup_options_mail_window_default">Use account default</string>
+    <string name="account_setup_options_mail_window_label">Sync emails from:</string>
+    <string name="account_setup_options_notify_label">Notify me when email arrives</string>
+    <string name="account_setup_options_sync_calendar_label">Sync calendar from this account</string>
+    <string name="account_setup_options_sync_contacts_label">Sync contacts from this account</string>
+    <string name="account_setup_options_sync_email_label">Sync email from this account</string>
+    <string name="account_setup_outgoing_headline">Outgoing server settings</string>
+    <string name="account_setup_outgoing_port_label">PORT</string>
+    <string name="account_setup_outgoing_require_login_label">Require signin</string>
+    <string name="account_setup_outgoing_security_label">SECURITY TYPE</string>
+    <string name="account_setup_outgoing_smtp_server_label">SMTP SERVER</string>
+    <string name="account_setup_outgoing_username_label">USERNAME</string>
+    <string name="account_setup_password_subheading">Password</string>
+    <string name="account_setup_security_policies_required_fmt">
+         The server <ns1:g id="server">%s</ns1:g> requires that you allow it to remotely control
+         some security features of your Android device. Do you want to finish setting up this
+         account?</string>
+    <string name="account_setup_security_required_title">Remote security administration</string>
+    <string name="account_setup_username_password_toast">
+        Type a valid email address and password.</string>
+    <string name="account_waiting_for_folders_msg">Loading folder list…</string>
+    <string name="accounts_welcome">You can set up your account in just a few steps.
+        </string>
+    <string name="add_account" translatable="true">Add account</string>
+    <string name="add_authentication_label">Add authentication</string>
+    <string name="app_name">Email</string>
+    <string name="application_mime_type" translatable="false">application/email-ls</string>
+    <string name="authentication_label">AUTHENTICATION</string>
+    <string name="authority_account_cache_provider" translatable="false">com.android.email.accountcache</string>
+    <string name="authority_conversation_provider" translatable="false">com.android.email.conversation.provider</string>
+    <string name="authority_email_provider" translatable="false">com.android.email.provider</string>
+    <string name="clear_authentication_label">Clear authentication</string>
+    <string name="confirm_response">Sending response…</string>
+    <string name="create_action">Create new</string>
+    <string name="debug_clear_migration_state" translatable="false">Clear migration state</string>
+    <string name="debug_clear_webview_cache" translatable="false">
+        Clear WebView cache</string>
+    <string name="debug_enable_debug_logging_label" translatable="false">
+        Enable extra debug logging?</string>
+    <string name="debug_enable_file_logging_label" translatable="false">
+        Enable sd card logging?</string>
+    <string name="debug_enable_strict_mode_label" translatable="false">
+        Enable strict mode (with logging)</string>
+    <string name="debug_enable_verbose_logging_label" translatable="false">
+        Enable exchange logging?</string>
+    <string name="debug_force_one_minute_refresh_label" translatable="false">
+        Force 1-minute refresh for POP/IMAP</string>
+    <string name="debug_title">Debug</string>
+    <string name="device_admin_description">Enables server-specified security policies</string>
+    <string name="device_admin_label">Email</string>
+    <string name="disable_admin_warning">WARNING: Deactivating the Email app\'s authority
+         to administer your device will delete all email accounts that require it, along with their
+         email, contacts, calendar events, and other data.</string>
+    <string name="done" translatable="true">Done</string>
+    <string name="edit_quick_response_dialog">Quick response</string>
+    <string name="email_confirmation_label">Email address:</string>
+    <string name="email_feedback_uri" translatable="false"/>
+    <string name="eml_attachment_provider" translatable="false">com.android.email.provider.eml.attachment</string>
+    <string name="exchange_eas_name" translatable="false">Exchange</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="feedback" translatable="true">Send feedback</string>
+    <string name="folder_sync_settings_pref_title">Folder sync settings</string>
+    <string name="forward_download_failed_ticker">Couldn\'t forward one or more attachments.</string>
+    <string name="forward_download_failed_title">Attachment not forwarded</string>
+    <string name="general_preferences_title" translatable="true">General settings</string>
+    <string name="gmail_name">Gmail</string>
+    <string name="imap_name">Personal (IMAP)</string>
+    <string name="intent_account_manager_entry" translatable="false">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+    <string name="intent_create_email_account" translatable="false">com.android.email.CREATE_NEW_ACCOUNT</string>
+    <string name="intent_exchange_action" translatable="false">com.android.email.EXCHANGE_INTENT</string>
+    <string name="intent_exchange_cert_action" translatable="false">com.android.email.EXCHANGE_REQUEST_CERT</string>
+    <string name="intent_exchange_package" translatable="false">com.android.exchange</string>
+    <string name="intent_force_create_email_account" translatable="false">com.android.email.FORCE_CREATE_ACCOUNT</string>
+    <string name="label_notification_vibrate_title">Vibrate</string>
+    <string name="login_failed_ticker">
+        <ns1:g id="account_name">%s</ns1:g> signin unsuccessful.</string>
+    <string name="login_failed_title">Couldn\'t sign in</string>
+    <string name="mailbox_list_account_selector_combined_view">Combined view</string>
+    <string name="mailbox_name_display_drafts">Drafts</string>
+    <string name="mailbox_name_display_inbox">Inbox</string>
+    <string name="mailbox_name_display_junk">Junk</string>
+    <string name="mailbox_name_display_outbox">Outbox</string>
+    <string name="mailbox_name_display_sent">Sent</string>
+    <string name="mailbox_name_display_starred">Starred</string>
+    <string name="mailbox_name_display_trash">Trash</string>
+    <string name="mailbox_name_display_unread">Unread</string>
+    <string name="mailbox_settings_activity_title">Sync options</string>
+    <string name="mailbox_settings_activity_title_with_mailbox">Sync options (<ns1:g example="Family" id="mailboxx_name">%s</ns1:g>)</string>
+    <string name="mailbox_settings_mailbox_sync_window_label">Days of mail to sync</string>
+    <string name="mailbox_settings_sync_enabled_label">Sync this folder</string>
+    <string name="mailbox_settings_sync_enabled_summary">Messages will download when connected</string>
+    <string name="message_compose_fwd_header_fmt">\n\n-------- Original Message --------\nSubject: <ns1:g id="subject">%1$s</ns1:g>\nFrom: <ns1:g id="sender">%2$s</ns1:g>\nTo: <ns1:g id="to">%3$s</ns1:g>\nCC: <ns1:g id="cc">%4$s</ns1:g>\n\n</string>
+    <string name="message_compose_insert_quick_response_list_title">Insert quick response</string>
+    <string name="message_compose_insert_quick_response_menu_title">Insert quick response</string>
+    <string name="message_decode_error">There was an error while decoding the message.</string>
+    <string name="message_view_attachment_background_load">One or more attachments in your
+        forwarded message will be downloaded prior to sending.</string>
+    <string name="next" translatable="true">Next</string>
+    <string name="no_quick_responses">None available</string>
+    <string name="oauth_authentication_title">Requesting authorization</string>
+    <string name="oauth_error_description">Unable to authenticate</string>
+    <string name="or_label">OR</string>
+    <string name="password_expire_warning_content_title">Lock screen password expiring</string>
+    <string name="password_expire_warning_dialog_content_fmt">
+         You need to change your lock screen PIN or password soon, or the data for
+         <ns1:g id="account">%s</ns1:g> will be erased. Do you want to change it now?</string>
+    <string name="password_expire_warning_dialog_title">Lock screen password expiring</string>
+    <string name="password_expire_warning_ticker_fmt">
+            \"<ns1:g id="account">%s</ns1:g>\" requires that you change your lock screen
+            PIN or password.</string>
+    <string name="password_expired_content_title">Lock screen password expired</string>
+    <string name="password_expired_dialog_content_fmt">
+         The data for <ns1:g id="account">%s</ns1:g> is being erased from your device.
+         You can restore it by changing your lock screen PIN or password. Do you want to change it now?</string>
+    <string name="password_expired_dialog_title">Lock screen password expired</string>
+    <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
+    <string name="password_hint">Password</string>
+    <string name="password_warning_label">Email address or password are incorrect</string>
+    <string name="permission_access_provider_desc">Allows the app to access your email
+        database, including received messages, sent messages, usernames, and passwords.</string>
+    <string name="permission_access_provider_label">Access email provider data</string>
+    <string name="permission_read_attachment_desc">Allows the app to read your email
+        attachments.</string>
+    <string name="permission_read_attachment_label">Read email attachments</string>
+    <string name="policy_calendar_age">Limit the number of calendar events synced</string>
+    <string name="policy_dont_allow_camera">Disallow use of the device\'s camera</string>
+    <string name="policy_email_age">Limit the number of emails synced</string>
+    <string name="policy_password_expiration">Require passwords to expire</string>
+    <string name="policy_password_history">Restrict the reuse of recent passwords</string>
+    <string name="policy_require_password">Require device password</string>
+    <string name="policy_screen_timeout">Require an idle device to lock its screen</string>
+    <string name="pop3_name">Personal (POP3)</string>
+    <string name="preferences_signature_dialog_title" translatable="true">Signature</string>
+    <string name="preferences_signature_title" translatable="true">Signature</string>
+    <string name="previous" translatable="true">Previous</string>
+    <string name="print_job_name" translatable="false">Email - <ns1:g id="subject">%1$s</ns1:g></string>
+    <string name="protocol_eas" translatable="false">eas</string>
+    <string name="protocol_imap" translatable="false">imap</string>
+    <string name="protocol_legacy_imap" translatable="false">imap</string>
+    <string name="protocol_pop3" translatable="false">pop3</string>
+    <string name="provider_note_t_online">Before setting up this email account, visit the T-Online website and create a password for POP3 email access.</string>
+    <string name="quick_1">Thanks!</string>
+    <string name="quick_2">Sounds good to me!</string>
+    <string name="quick_3">I\'ll read this later and get back to you.</string>
+    <string name="quick_4">Let\'s set up a meeting to discuss this.</string>
+    <string name="quick_responses_empty_view">No quick responses.</string>
+    <string name="reconciliation_compose_activity_name" translatable="false">com.android.email.activity.ComposeActivityEmail</string>
+    <string name="save_action">Save</string>
+    <string name="security_changed_ticker_fmt">
+            Account \"<ns1:g id="account">%s</ns1:g>\" changed its security settings; no user
+            action is required.
+    </string>
+    <string name="security_needed_ticker_fmt">
+            Account \"<ns1:g id="account">%s</ns1:g>\" requires security settings update.
+    </string>
+    <string name="security_notification_content_change_title">Security policies have
+         changed</string>
+    <string name="security_notification_content_unsupported_title">Security policies can\'t be
+         met</string>
+    <string name="security_notification_content_update_title">Security update required</string>
+    <string name="security_unsupported_ticker_fmt">
+            Account \"<ns1:g id="account">%s</ns1:g>\" can\'t be synced due to security
+    requirements.</string>
+    <string name="sent_folder_selection_title">Select server sent items folder for <ns1:g id="account">%s</ns1:g></string>
+    <string name="sign_in_title">Sign in</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="signed_in_with_service_label">Signed in with %s</string>
+    <string name="system_account_create_failed">Couldn\'t create the account. Try again.</string>
+    <string name="system_folders_sent_dlg">Select your server\'s sent items folder</string>
+    <string name="system_folders_sent_summary">Select your server\'s sent items folder</string>
+    <string name="system_folders_sent_title">Sent items folder</string>
+    <string name="system_folders_title">System folders</string>
+    <string name="system_folders_trash_dlg">Select your server\'s trash folder</string>
+    <string name="system_folders_trash_summary">Select your server\'s trash folder</string>
+    <string name="system_folders_trash_title">Trash folder</string>
+    <string name="trash_folder_selection_title">Select server trash folder for <ns1:g id="account">%s</ns1:g></string>
+    <string name="widget_provider" translatable="false">com.android.email.provider.WidgetProvider</string>
+    <style name="AccountSetupDialogActivityTheme" parent="@android:style/Theme.Holo.Light.Dialog.NoActionBar"/>
+    <style name="account_settings_button">
+        <item name="android:layout_width">@dimen/setup_text_button_width</item>
+        <item name="android:layout_height">48sp</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">@dimen/setup_text_button_text_size</item>
+    </style>
+    <style name="account_setup_checkbox">
+        <item name="android:layout_marginTop">@dimen/setup_checkbox_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/setup_checkbox_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/setup_checkbox_margin_side</item>
+        <item name="android:layout_marginRight">@dimen/setup_checkbox_margin_side</item>
+    </style>
+    <style name="account_setup_content">
+        <item name="android:background">@drawable/account_setup_background</item>
+    </style>
+    <style name="account_setup_fragment_container">
+        <item name="android:paddingTop">@dimen/setup_fragment_padding_top</item>
+        <item name="android:paddingLeft">@dimen/setup_fragment_padding_side</item>
+        <item name="android:paddingRight">@dimen/setup_fragment_padding_side</item>
+        <item name="android:paddingBottom">@dimen/setup_fragment_padding_bottom</item>
+    </style>
+    <style name="account_setup_headline">
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:textSize">@dimen/setup_headline_text_size</item>
+        <item name="android:textColor">@color/account_setup_headline_color</item>
+        <item name="android:paddingTop">@dimen/setup_headline_padding_top</item>
+        <item name="android:paddingLeft">@dimen/setup_headline_padding_side</item>
+        <item name="android:paddingRight">@dimen/setup_headline_padding_side</item>
+    </style>
+    <style name="account_setup_info_text">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/account_setup_info_text_color</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:layout_marginBottom">@dimen/setup_info_text_margin_bottom</item>
+    </style>
+    <style name="account_setup_label_large_text">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/account_setup_label_large_text_color</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:layout_marginBottom">@dimen/setup_label_large_text_margin_bottom</item>
+    </style>
+    <style name="account_setup_label_text">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:paddingTop">@dimen/setup_label_text_padding_top</item>
+    </style>
+    <style name="account_setup_lower_headline">
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:textSize">@dimen/setup_headline_text_size</item>
+        <item name="android:textColor">@color/account_setup_headline_color</item>
+    </style>
+    <style name="account_setup_nav_button">
+        <item name="android:layout_margin">@dimen/setup_nav_button_margin</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:paddingTop">@dimen/setup_nav_button_padding_top</item>
+        <item name="android:paddingLeft">@dimen/setup_nav_button_padding_side</item>
+        <item name="android:paddingRight">@dimen/setup_nav_button_padding_side</item>
+        <item name="android:paddingBottom">@dimen/setup_nav_button_padding_bottom</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@color/buttontext</item>
+    </style>
+    <style name="account_setup_text_button">
+        <item name="android:layout_width">@dimen/setup_text_button_width</item>
+        <item name="android:layout_height">@dimen/setup_text_button_height</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">@dimen/setup_text_button_text_size</item>
+    </style>
+    <style name="clear_authentication_button">
+        <item name="android:layout_marginLeft">8dp</item>
+    </style>
+    <style name="client_certificate_alias">
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_toLeftOf">@id/select_button</item>
+    </style>
+    <style name="client_certificate_button" parent="account_setup_text_button">
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+   </style>
+    <style name="client_certificate_title">
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_toLeftOf">@id/select_button</item>
+    </style>
+    <style name="oauth_label">
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+    <style name="quick_response_text">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/quick_response_text_color</item>
+    </style>
+</resources>

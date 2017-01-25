@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6747351773934787126" name="account_duplicate_dlg_message_fmt">"Már használja ezt a felhasználónevet a(z) <ns1:g id="DUPLICATE">%s</ns1:g> fiókhoz."</string>
+    <string msgid="3768813340753269695" name="account_duplicate_dlg_title">"Már létező fiók"</string>
+    <string msgid="4107093049191103780" name="account_security_dialog_content_fmt">"A(z) <ns1:g id="ACCOUNT">%s</ns1:g> fiók a biztonsági beállítások frissítését igényli."</string>
+    <string msgid="7003032393805438164" name="account_security_dialog_title">"Biztonsági frissítés"</string>
+    <string msgid="2527501853520160827" name="account_security_policy_explanation_fmt">"A(z) <ns1:g id="SERVER">%s</ns1:g> szerver engedélyt kér arra, hogy távolról vezérelhesse az Android-eszköz egyes biztonsági funkcióit."</string>
+    <string msgid="6072273231606918870" name="account_security_title">"Eszközbiztonság"</string>
+    <string msgid="589969653965674604" name="account_settings_action">"Fiókbeállítások"</string>
+    <string msgid="3552681465680701047" name="account_settings_background_attachments_label">"Mellékletek letöltése"</string>
+    <string msgid="8801504001229061032" name="account_settings_background_attachments_summary">"Mellékletek automatikus letöltése az üzenetekbe Wi-Fin keresztül"</string>
+    <string msgid="6400715160238559711" name="account_settings_data_usage">"Adathasználat"</string>
+    <string msgid="2073736045984411004" name="account_settings_description_label">"Fióknév"</string>
+    <string msgid="6105791335935883199" name="account_settings_edit_quick_responses_label">"Gyors válaszok"</string>
+    <string msgid="5406599402930290682" name="account_settings_edit_quick_responses_summary">"E-mail írásakor gyakran beillesztett szöveg szerkesztése"</string>
+    <string msgid="7005050362066086119" name="account_settings_enforced_label">"Kényszerített rendszabályok"</string>
+    <string msgid="1668581504445370253" name="account_settings_enforced_summary">"Nincs"</string>
+    <string msgid="4232590695889111419" name="account_settings_exit_server_settings">"Elveti a nem mentett módosításokat?"</string>
+    <string msgid="3793314460723296874" name="account_settings_incoming_label">"Bejövő üzenetek beállításai"</string>
+    <string msgid="7521181981008371492" name="account_settings_incoming_summary">"Felhasználónév, jelszó és a beérkező szerver egyéb beállításai"</string>
+    <string msgid="4107847714594035131" name="account_settings_mail_check_frequency_label">"Szinkronizálás gyakorisága"</string>
+    <string msgid="8230436030850457988" name="account_settings_name_label">"Az Ön neve"</string>
+    <string msgid="2842952349214972116" name="account_settings_notifications">"Értesítési beállítások"</string>
+    <string msgid="8621226576645167987" name="account_settings_notify_label">"E-mail értesítések"</string>
+    <string msgid="88560545461159120" name="account_settings_notify_summary">"E-mail érkezése esetén értesítés küldése"</string>
+    <string msgid="4997504719643828381" name="account_settings_outgoing_label">"Kimenő üzenetek beállításai"</string>
+    <string msgid="1884202151340479161" name="account_settings_outgoing_summary">"Felhasználónév, jelszó és a kimenő szerver beállításai"</string>
+    <string msgid="5972183883466873359" name="account_settings_policies">"Biztonsági rendszabályok"</string>
+    <string msgid="8605492340808650923" name="account_settings_retry_label">"Szinkronizálás megkísérlése"</string>
+    <string msgid="2598065993718592906" name="account_settings_retry_summary">"A fiók szinkronizálásához érintse meg itt"</string>
+    <string msgid="2238523918221865167" name="account_settings_ringtone">"Válasszon csengőhangot"</string>
+    <string msgid="3386185135392642067" name="account_settings_servers">"Szerverbeállítások"</string>
+    <string msgid="4733776978291376161" name="account_settings_summary">"Szinkronizálási gyakoriság, értesítések stb."</string>
+    <string msgid="3172491863244160828" name="account_settings_sync_calendar_enable">"Naptár szinkroniz."</string>
+    <string msgid="411960248618953311" name="account_settings_sync_calendar_summary">"A fiók naptárának szinkronizálása"</string>
+    <string msgid="2642448079273767521" name="account_settings_sync_contacts_enable">"Névjegyek szinkron."</string>
+    <string msgid="1716022682035150630" name="account_settings_sync_contacts_summary">"A fiók névjegyeinek szinkronizálása"</string>
+    <string msgid="7135765408226471860" name="account_settings_sync_email_enable">"E-mail szinkroniz."</string>
+    <string msgid="71710510041953351" name="account_settings_sync_email_summary">"A fiók e-mailjeinek szinkronizálása"</string>
+    <string msgid="7286722617178322465" name="account_settings_unsupported_label">"Nem támogatott rendszabályok"</string>
+    <string msgid="1980825746966562221" name="account_settings_unsupported_summary">"Nincs"</string>
+    <string msgid="1434091698882290052" name="account_setup_ab_headline">"Fióktípus megerősítése"</string>
+    <string msgid="6223657094843768202" name="account_setup_ab_instructions_format">"Azt jelezte, hogy <ns1:g id="EMAIL">%1$s</ns1:g> <ns1:g id="USERPROTOCOL">%2$s</ns1:g> protokollt használ, de lehet, hogy a fiók a következőt használja: <ns1:g id="PROVIDERPROTOCOL">%3$s</ns1:g>."</string>
+    <string msgid="3375795537675351389" name="account_setup_account_type_headline">"Fiók típusa"</string>
+    <string msgid="968088954656738617" name="account_setup_account_type_instructions">"Milyen típusú ez a fiók?"</string>
+    <string msgid="4075075565221436715" name="account_setup_autodiscover_dlg_authfail_message">"Erősítse meg felhasználónevének, jelszavának és fiókbeállításainak helyességét."</string>
+    <string msgid="7551559109838593189" name="account_setup_autodiscover_dlg_authfail_title">"Probléma a fiók beállításával"</string>
+    <string msgid="8701406783555749929" name="account_setup_basics_email_label">"E-mail cím"</string>
+    <string msgid="8468280216822264643" name="account_setup_basics_headline">"E-mail fiók"</string>
+    <string msgid="7690861839383362085" name="account_setup_basics_manual_setup_action">"Manuális beállítás"</string>
+    <string msgid="784962388753706730" name="account_setup_basics_password_label">"JELSZÓ"</string>
+    <string msgid="5050895656741229172" name="account_setup_basics_title">"Fiók beállítása"</string>
+    <string msgid="9196418179524308411" name="account_setup_check_settings_check_incoming_msg">"Szerverbeállítások ellenőrzése…"</string>
+    <string msgid="9062019904409225329" name="account_setup_check_settings_check_outgoing_msg">"SMTP-beállítások ellenőrzése…"</string>
+    <string msgid="9103280616618316032" name="account_setup_check_settings_retr_info_msg">"Fiókadatok beolvasása…"</string>
+    <string msgid="2898648422471181490" name="account_setup_creating_account_msg">"Fiók létrehozása…"</string>
+    <string msgid="8756785660598838350" name="account_setup_exchange_certificate_title">"ÜGYFÉLTANÚSÍTVÁNY"</string>
+    <string msgid="2306603503497194905" name="account_setup_exchange_device_id_label">"MOBILESZKÖZ AZONOSÍTÓJA"</string>
+    <string msgid="3569712401698909695" name="account_setup_exchange_no_certificate">"Nincs"</string>
+    <string msgid="1222387802827919583" name="account_setup_exchange_remove_certificate">"Eltávolítás"</string>
+    <string msgid="264748505181695915" name="account_setup_exchange_select_certificate">"Kijelölés"</string>
+    <string msgid="6513687497912094538" name="account_setup_exchange_use_certificate">"Ügyféltanúsítvány használata"</string>
+    <string msgid="2051742796367919026" name="account_setup_failed_access_denied">"Nincs engedélye arra, hogy szinkronizáljon ezzel a szerverrel. Kérjük, forduljon a szerver rendszergazdájához további információért."</string>
+    <string msgid="2684010997018901707" name="account_setup_failed_auth_required">"A szerver nem támogatja a hitelesítési módokat."</string>
+    <string msgid="4574461885959029072" name="account_setup_failed_certificate_inaccessible">"A tanúsítvány érvénytelen vagy elérhetetlen."</string>
+    <string msgid="4607859382193244795" name="account_setup_failed_certificate_required">"Klienstanúsítvány szükséges. Szeretne klienstanúsítvánnyal rendelkező szerverhez csatlakozni?"</string>
+    <string msgid="430054384233036305" name="account_setup_failed_check_credentials_message">"A szerver hibát jelzett. Ellenőrizze felhasználónevét és jelszavát, majd próbálja újra."</string>
+    <string msgid="5608549872868036352" name="account_setup_failed_dlg_auth_message">"Helytelen felhasználónév vagy jelszó."</string>
+    <string msgid="4725950885859654809" name="account_setup_failed_dlg_certificate_message">"Nem lehet biztonságos kapcsolatot létesíteni a szerverrel."</string>
+    <string msgid="3451681985727559303" name="account_setup_failed_dlg_certificate_message_fmt">"Nem lehet biztonságos kapcsolatot létesíteni a szerverrel.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="8155332642922842729" name="account_setup_failed_dlg_edit_details_action">"Részletek szerkesztése"</string>
+    <string msgid="1180197172141077524" name="account_setup_failed_dlg_server_message">"Nem lehet kapcsolatot létesíteni a szerverrel."</string>
+    <string msgid="3889441611138037320" name="account_setup_failed_dlg_server_message_fmt">"Nem lehet kapcsolódni a szerverhez.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="7923577224474005464" name="account_setup_failed_dlg_title">"Nem sikerült befejezni"</string>
+    <string msgid="3862689923436539909" name="account_setup_failed_ioerror">"Nem sikerült megnyitni a kapcsolatot a szerverrel."</string>
+    <string msgid="4973054582044010375" name="account_setup_failed_protocol_unsupported">"Nem megfelelő szervercímet adott meg, vagy a szerver olyan protokollverziót követel, amelyet az e-mail nem támogat."</string>
+    <string msgid="1627240499907011040" name="account_setup_failed_security">"Nem sikerült megnyitni a kapcsolatot a szerverrel egy biztonsági hiba miatt."</string>
+    <string msgid="4619685657253094627" name="account_setup_failed_security_policies_unsupported">"Ez a szerver olyan biztonsági funkciókat követel meg, amelyeket az Ön Android készüléke nem támogat, például: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="1902309158359287958" name="account_setup_failed_tls_required">"TLS szükséges, de a szerver nem támogatja."</string>
+    <string msgid="8677018382715596606" name="account_setup_incoming_delete_policy_delete_label">"A Beérkező levelek mappából való törléskor"</string>
+    <string msgid="2341742235654301690" name="account_setup_incoming_delete_policy_label">"E-mail törlése a szerverről"</string>
+    <string msgid="5777530843489961009" name="account_setup_incoming_delete_policy_never_label">"Soha"</string>
+    <string msgid="6232828824446177639" name="account_setup_incoming_headline">"Bejövő üzenetek szerverének beállításai"</string>
+    <string msgid="206747922689229932" name="account_setup_incoming_imap_path_prefix_hint">"Opcionális"</string>
+    <string msgid="3531290378620033218" name="account_setup_incoming_imap_path_prefix_label">"IMAP-alapú elérési út előtagja"</string>
+    <string msgid="4806105500058512876" name="account_setup_incoming_password_label">"JELSZÓ"</string>
+    <string msgid="402562424498833560" name="account_setup_incoming_port_label">"PORT"</string>
+    <string msgid="8360505617331971663" name="account_setup_incoming_security_label">"TITKOSÍTÁS TÍPUSA"</string>
+    <string msgid="2461510827337484818" name="account_setup_incoming_security_none_label">"Nincs"</string>
+    <string msgid="5169133414545009342" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="2834386066577239560" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (Minden tanúsítvány elfogadása)"</string>
+    <string msgid="3892291833944170882" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="2281920902104029077" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (minden tanúsítvány elfogadása)"</string>
+    <string msgid="5409694850973258387" name="account_setup_incoming_server_label">"SZERVER"</string>
+    <string msgid="2609699829997945895" name="account_setup_incoming_username_label">"FELHASZNÁLÓNÉV"</string>
+    <string msgid="3487538709712378441" name="account_setup_names_account_name_label">"Fiók elnevezése (opcionális)"</string>
+    <string msgid="2031978210683887370" name="account_setup_names_headline">"A fiók beállítása befejeződött, az e-mailek úton vannak."</string>
+    <string msgid="4298006111315033499" name="account_setup_names_user_name_label">"Az Ön neve (a kimenő üzenetekben való megjelenítéshez)"</string>
+    <string msgid="4085327585082867216" name="account_setup_options_background_attachments_label">"Mellékletek automatikus letöltése Wi-Fi-kapcsolatnál"</string>
+    <string msgid="4810292194395251968" name="account_setup_options_headline">"Fiókbeállítások"</string>
+    <string msgid="8787901333816702849" name="account_setup_options_mail_check_frequency_10min">"10 percenként"</string>
+    <string msgid="7127640170766018765" name="account_setup_options_mail_check_frequency_15min">"15 percenként"</string>
+    <string msgid="107706566853925273" name="account_setup_options_mail_check_frequency_1hour">"Óránként"</string>
+    <string msgid="4223562871143897449" name="account_setup_options_mail_check_frequency_30min">"30 percenként"</string>
+    <string msgid="8929785860545198867" name="account_setup_options_mail_check_frequency_5min">"5 percenként"</string>
+    <string msgid="7253305392938373553" name="account_setup_options_mail_check_frequency_label">"Szinkronizálás gyakorisága:"</string>
+    <string msgid="2937664246354067829" name="account_setup_options_mail_check_frequency_never">"Soha"</string>
+    <string msgid="5511415696925307797" name="account_setup_options_mail_check_frequency_push">"Automatikus (push)"</string>
+    <string msgid="7930883294844418428" name="account_setup_options_mail_window_1day">"Utolsó nap"</string>
+    <string msgid="3228265299330513816" name="account_setup_options_mail_window_1month">"Múlt hónap"</string>
+    <string msgid="5230695719358085318" name="account_setup_options_mail_window_1week">"Előző hét"</string>
+    <string msgid="1144271277694832921" name="account_setup_options_mail_window_2weeks">"Utolsó két hét"</string>
+    <string msgid="3435093562391555730" name="account_setup_options_mail_window_3days">"Utolsó három nap"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"Mind"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"Automatikus"</string>
+    <string msgid="5518038139722596598" name="account_setup_options_mail_window_default">"Alapbeállítások szerint"</string>
+    <string msgid="4737241149297585368" name="account_setup_options_mail_window_label">"E-mailek szinkronizálása innen:"</string>
+    <string msgid="3101529443722198112" name="account_setup_options_notify_label">"Értesítést kérek, ha e-mail érkezik"</string>
+    <string msgid="303441956432308807" name="account_setup_options_sync_calendar_label">"Naptár szinkronizálása ebből a fiókból"</string>
+    <string msgid="5029046373980454714" name="account_setup_options_sync_contacts_label">"Névjegyek szinkronizálása ebből a fiókból"</string>
+    <string msgid="468957966555663131" name="account_setup_options_sync_email_label">"Az e-mailek szinkronizálása ebből a fiókból"</string>
+    <string msgid="6638171491109658047" name="account_setup_outgoing_headline">"Kimenő üzenetek szerverének beállításai"</string>
+    <string msgid="3735952013505812378" name="account_setup_outgoing_port_label">"PORT"</string>
+    <string msgid="5405196721947884033" name="account_setup_outgoing_require_login_label">"Bejelentkezés szükséges"</string>
+    <string msgid="6473177134731615282" name="account_setup_outgoing_security_label">"TITKOSÍTÁS TÍPUSA"</string>
+    <string msgid="3460163861711242681" name="account_setup_outgoing_smtp_server_label">"SMTP-SZERVER"</string>
+    <string msgid="8844680398828891772" name="account_setup_outgoing_username_label">"FELHASZNÁLÓNÉV"</string>
+    <string msgid="5930042642982830233" name="account_setup_password_subheading">"Jelszó"</string>
+    <string msgid="9029471168291631932" name="account_setup_security_policies_required_fmt">"A(z) <ns1:g id="SERVER">%s</ns1:g> szerver engedélyt kér arra, hogy távolról vezérelhesse az Android-eszköz egyes biztonsági funkcióit. Befejezi a fiók konfigurálását?"</string>
+    <string msgid="667943309546419435" name="account_setup_security_required_title">"Távoli biztonságkezelés"</string>
+    <string msgid="3659744829670065777" name="account_setup_username_password_toast">"Írjon be egy érvényes e-mail címet és jelszót."</string>
+    <string msgid="8848194305692897677" name="account_waiting_for_folders_msg">"Mappalista betöltése…"</string>
+    <string msgid="7230367425520242593" name="accounts_welcome">"Mindössze néhány lépésben létrehozhatja fiókját."</string>
+    <string msgid="382998197798081729" name="add_authentication_label">"Hitelesítés hozzáadása"</string>
+    <string msgid="2206468539066258195" name="app_name">"E-mail küldése"</string>
+    <string msgid="914463525214987772" name="authentication_label">"HITELESÍTÉS"</string>
+    <string msgid="4750930803913225689" name="clear_authentication_label">"Hitelesítés törlése"</string>
+    <string msgid="6764021931370809514" name="confirm_response">"Válasz küldése…"</string>
+    <string msgid="6575946089819721958" name="create_action">"Új létrehozása"</string>
+    <string msgid="1337476992195531309" name="debug_title">"Hibakeresés"</string>
+    <string msgid="4299378570982520839" name="device_admin_description">"Engedélyezi a szerverspecifikus biztonsági irányelveket"</string>
+    <string msgid="3335272972461391415" name="device_admin_label">"E-mail küldése"</string>
+    <string msgid="6001542250505146252" name="disable_admin_warning">"FIGYELMEZTETÉS: ha kikapcsolja az E-mail alkalmazás azon jogosultságát, hogy felügyelje az eszközt, akkor törli az összes olyan e-mail fiókot, amelyhez szükség van az alkalmazásra; a fiókokkal együtt pedig törli az e-maileket, a névjegyeket, a naptári eseményeket és más adatokat is."</string>
+    <string msgid="3048014284772648575" name="edit_quick_response_dialog">"Gyors válasz"</string>
+    <string msgid="64258748053106017" name="email_confirmation_label">"E-mail cím:"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="349478353401667107" name="folder_sync_settings_pref_title">"Mappaszinkronizálási beállítások"</string>
+    <string msgid="2900585518884851062" name="forward_download_failed_ticker">"Egy vagy több melléklet nem továbbítható."</string>
+    <string msgid="2043036709913723298" name="forward_download_failed_title">"A melléklet nincs továbbítva"</string>
+    <string msgid="2099786953868369991" name="gmail_name">"Gmail"</string>
+    <string msgid="8285222985908214985" name="imap_name">"Személyes (IMAP)"</string>
+    <string msgid="140881511322826320" name="label_notification_vibrate_title">"Rezgés"</string>
+    <string msgid="4620839194581484497" name="login_failed_ticker">"A(z) <ns1:g id="ACCOUNT_NAME">%s</ns1:g> fiókba való bejelentkezés sikertelen."</string>
+    <string msgid="1737884069957090004" name="login_failed_title">"Sikertelen bejelentkezés"</string>
+    <string msgid="4155918930481733669" name="mailbox_list_account_selector_combined_view">"Kombinált nézet"</string>
+    <string msgid="3552043116466269581" name="mailbox_name_display_drafts">"Piszkozatok"</string>
+    <string msgid="5093068725739672126" name="mailbox_name_display_inbox">"Beérkező levelek"</string>
+    <string msgid="1634126984313831675" name="mailbox_name_display_junk">"Spam"</string>
+    <string msgid="8735725798805339414" name="mailbox_name_display_outbox">"Kimenő levelek"</string>
+    <string msgid="6705058612006729985" name="mailbox_name_display_sent">"Elküldve"</string>
+    <string msgid="8076384721309828453" name="mailbox_name_display_starred">"Megcsillagozva"</string>
+    <string msgid="7020792045007681852" name="mailbox_name_display_trash">"Kuka"</string>
+    <string msgid="1453575937919310339" name="mailbox_name_display_unread">"Olvasatlan"</string>
+    <string msgid="2196614373847675314" name="mailbox_settings_activity_title">"Szinkronizálási beállítások"</string>
+    <string msgid="5547676392298186906" name="mailbox_settings_activity_title_with_mailbox">"Szinkronizálási beállítások (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="7027516982341382326" name="mailbox_settings_mailbox_sync_window_label">"Ennyi nap leveleinek szinkronizálása"</string>
+    <string msgid="7723413381707277856" name="mailbox_settings_sync_enabled_label">"Mappa szinkronizálása"</string>
+    <string msgid="742233465207750578" name="mailbox_settings_sync_enabled_summary">"Az üzenetek automatikusan letöltésre kerülnek, amikor létrejön kapcsolat"</string>
+    <string msgid="6193988236722150221" name="message_compose_fwd_header_fmt">\n\n"-------- Eredeti üzenet --------\nTárgy: <ns1:g id="SUBJECT">%1$s</ns1:g>\nFeladó: <ns1:g id="SENDER">%2$s</ns1:g>\nCímzett: <ns1:g id="TO">%3$s</ns1:g>\nMásolatot kap: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5836926808818821309" name="message_compose_insert_quick_response_list_title">"Gyors válasz beillesztése"</string>
+    <string msgid="4393288554605333619" name="message_compose_insert_quick_response_menu_title">"Gyors válasz beillesztése"</string>
+    <string msgid="91396461771444300" name="message_decode_error">"Hiba történt az üzenet dekódolása közben."</string>
+    <string msgid="7571652141281187845" name="message_view_attachment_background_load">"Küldés előtt továbbított üzenete egy vagy több melléklete letöltődik."</string>
+    <string msgid="8716297053803961304" name="no_quick_responses">"Egyik sem érhető el"</string>
+    <string msgid="3771260531636603518" name="oauth_authentication_title">"Engedélyezés kérése"</string>
+    <string msgid="8466102021844409849" name="oauth_error_description">"Nem lehet hitelesíteni"</string>
+    <string msgid="6408695162723653446" name="or_label">"VAGY"</string>
+    <string msgid="4360288708739366810" name="password_expire_warning_content_title">"Képernyőzár jelszava lejár"</string>
+    <string msgid="1093389293050776319" name="password_expire_warning_dialog_content_fmt">"Hamarosan módosítania kell a képernyőzár PIN-kódját vagy jelszavát, különben a(z) <ns1:g id="ACCOUNT">%s</ns1:g> fiók adatai törlődnek. Módosítja most?"</string>
+    <string msgid="4901499545146045672" name="password_expire_warning_dialog_title">"Képernyőzár jelszava lejár"</string>
+    <string msgid="5543005790538884060" name="password_expire_warning_ticker_fmt">"„<ns1:g id="ACCOUNT">%s</ns1:g>” miatt módosítania kell a zárolási képernyő PIN kódját vagy jelszavát."</string>
+    <string msgid="7379094218699681984" name="password_expired_content_title">"Képernyőzár jelszava lejárt"</string>
+    <string msgid="8322213184626443346" name="password_expired_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> adatai törlésre kerülnek a készülékről. Visszaállíthatja a képernyőzár PIN-kódjának vagy jelszavának módosításával. Módosítja most?"</string>
+    <string msgid="7275534155170185252" name="password_expired_dialog_title">"Képernyőzár jelszava lejárt"</string>
+    <string msgid="3098703963402347483" name="password_expired_ticker">"A képernyőzár PIN kódja vagy jelszava lejárt."</string>
+    <string msgid="4226682910292828279" name="password_hint">"Jelszó"</string>
+    <string msgid="1887439537224212124" name="password_warning_label">"Az e-mail cím vagy a jelszó nem megfelelő"</string>
+    <string msgid="5338433949655493713" name="permission_access_provider_desc">"Lehetővé teszi az alkalmazás számára az e-mail adatbázisához, így a fogadott és elküldött üzenetekhez, a felhasználónevekhez és jelszavakhoz való hozzáférést."</string>
+    <string msgid="977700184037298723" name="permission_access_provider_label">"Hozzáférés az e-mail szolgáltató adataihoz"</string>
+    <string msgid="6579059616090100181" name="permission_read_attachment_desc">"Lehetővé teszi az alkalmazás számára az e-mailek mellékleteinek olvasását."</string>
+    <string msgid="6641407731311699536" name="permission_read_attachment_label">"E-mail mellékletek olvasása"</string>
+    <string msgid="6469328498345236120" name="policy_calendar_age">"Szinkronizált naptáresemények számának korlátozása"</string>
+    <string msgid="8821533827628900689" name="policy_dont_allow_camera">"A kamera használatának tiltása"</string>
+    <string msgid="3521941976575225050" name="policy_email_age">"Szinkronizált e-mailek számának korlátozása"</string>
+    <string msgid="1287225242918742275" name="policy_password_expiration">"A jelszavak kötelezően lejárnak"</string>
+    <string msgid="9001177390979112746" name="policy_password_history">"Előző jelszavak kizárása"</string>
+    <string msgid="3556860917024612396" name="policy_require_password">"Eszközjelszó kötelező"</string>
+    <string msgid="3499201409239287702" name="policy_screen_timeout">"Képernyőzároláshoz szükséges nyugalmi idő"</string>
+    <string msgid="6653484706414263493" name="pop3_name">"Személyes (POP3)"</string>
+    <string msgid="1596701148051980218" name="provider_note_t_online">"Kérjük, az e-mail fiók beállítása előtt keresse fel a T-Online webhelyét, és hozzon létre jelszót a POP3-alapú e-mail hozzáféréshez."</string>
+    <string msgid="9130521670178673190" name="quick_1">"Köszönjük!"</string>
+    <string msgid="8611591278119481491" name="quick_2">"Jól hangzik!"</string>
+    <string msgid="8070999183033184986" name="quick_3">"Később elolvasom és visszatérünk rá."</string>
+    <string msgid="216066940197616025" name="quick_4">"Szervezzünk egy találkozót a dolog megvitatására."</string>
+    <string msgid="3394094315357455290" name="quick_responses_empty_view">"Nincsenek gyors válaszok."</string>
+    <string msgid="5740359453077441466" name="save_action">"Mentés"</string>
+    <string msgid="3823930420292838192" name="security_changed_ticker_fmt">"A(z) „<ns1:g id="ACCOUNT">%s</ns1:g>” nevű fiók módosította a biztonsági beállításokat, nem szükséges felhasználói beavatkozás."</string>
+    <string msgid="7099561996532829229" name="security_needed_ticker_fmt">"Frissíteni kell a(z) „<ns1:g id="ACCOUNT">%s</ns1:g>” fiók biztonsági beállításait."</string>
+    <string msgid="615639963487448183" name="security_notification_content_change_title">"A házirendek megváltoztak"</string>
+    <string msgid="6494791400431198228" name="security_notification_content_unsupported_title">"A biztonsági házirend nem tartható be"</string>
+    <string msgid="6321099538307807621" name="security_notification_content_update_title">"Biztonsági frissítés szükséges"</string>
+    <string msgid="3249185558872836884" name="security_unsupported_ticker_fmt">"A(z) „<ns1:g id="ACCOUNT">%s</ns1:g>\" fiókot a biztonsági követelmények miatt nem lehet szinkronizálni."</string>
+    <string msgid="9207482909822072856" name="sent_folder_selection_title">"Szerver Elküldött mappájának kiválasztása – <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <string msgid="5051852806423550830" name="sign_in_title">"Bejelentkezés"</string>
+    <string msgid="1412668282326928102" name="sign_in_with_google">"Bejelentkezés Google-fiókkal"</string>
+    <string msgid="4282359206358453634" name="signed_in_with_service_label">"Bejelentkezve a következővel: %s"</string>
+    <string msgid="2248313263003927725" name="system_account_create_failed">"Nem sikerült létrehozni a fiókot. Próbálja újra."</string>
+    <string msgid="818944260541160146" name="system_folders_sent_dlg">"A szerver Elküldött elemek mappájának kiválasztása"</string>
+    <string msgid="4252740721870748375" name="system_folders_sent_summary">"A szerver Elküldött elemek mappájának kiválasztása"</string>
+    <string msgid="8792934374188279309" name="system_folders_sent_title">"Elküldött elemek mappa"</string>
+    <string msgid="7161311881709109736" name="system_folders_title">"Rendszermappák"</string>
+    <string msgid="353701568340939392" name="system_folders_trash_dlg">"A szerver Kuka mappájának kiválasztása"</string>
+    <string msgid="2583143581531897068" name="system_folders_trash_summary">"A szerver Kuka mappájának kiválasztása"</string>
+    <string msgid="3190927115504713123" name="system_folders_trash_title">"Kuka mappa"</string>
+    <string msgid="686039558899469073" name="trash_folder_selection_title">"Szerver Kuka mappájának kiválasztása – <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+</resources>

@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/values-ldrtl-v17/values-ldrtl-v17.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-ldrtl/styles-ldrtl.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1683,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 1797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-ldrtl/styles-ldrtl.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1390,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-ldrtl/styles-ldrtl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 630,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-ldrtl/styles-ldrtl.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/values-ldrtl/styles-ldrtl.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1677
+                    }
+                }
+            }
+        ]
+    }
+]

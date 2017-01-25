@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/senders_product.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/senders_product.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/providers_product.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/providers_product.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/authenticator_legacy_eas.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/authenticator_legacy_eas.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/eastest_authenticator.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/eastest_authenticator.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/email_extra_preference_headers.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/email_extra_preference_headers.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/oauth.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/oauth.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/syncadapter_pop3.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/syncadapter_pop3.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/authenticator_alternate.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/authenticator_alternate.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/authenticator_legacy_imap.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/authenticator_legacy_imap.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/authenticator_legacy_email.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/authenticator_legacy_email.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/widget_info.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/widget_info.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/account_settings_preferences.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/account_settings_preferences.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/device_admin.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/device_admin.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/authenticator_eas.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/authenticator_eas.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/providers.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/providers.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/authenticator_imap.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/authenticator_imap.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/services.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/services.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/account_preferences.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/account_preferences.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/preference_headers.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/preference_headers.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/authenticator_pop3.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/authenticator_pop3.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/syncadapter_legacy_imap.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/syncadapter_legacy_imap.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/mailbox_preferences.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/mailbox_preferences.xml"
+    },
+    {
+        "merged": "/home/hesham/slimlp5.1/packages/apps/Email/app/build/intermediates/res/merged/debug/xml/senders.xml",
+        "source": "/home/hesham/slimlp5.1/packages/apps/Email/app/src/main/res/xml/senders.xml"
+    }
+]

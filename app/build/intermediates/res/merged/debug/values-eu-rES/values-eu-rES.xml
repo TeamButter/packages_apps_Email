@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6747351773934787126" name="account_duplicate_dlg_message_fmt">"Dagoeneko erabiltzen duzu erabiltzaile-izen hori \"<ns1:g id="DUPLICATE">%s</ns1:g>\" kontuan."</string>
+    <string msgid="3768813340753269695" name="account_duplicate_dlg_title">"Bikoiztu kontua"</string>
+    <string msgid="4107093049191103780" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> kontuak segurtasun-ezarpenak eguneratzea eskatzen du."</string>
+    <string msgid="7003032393805438164" name="account_security_dialog_title">"Segurtasun-eguneratzea"</string>
+    <string msgid="2527501853520160827" name="account_security_policy_explanation_fmt">"<ns1:g id="SERVER">%s</ns1:g> zerbitzariak Android gailuaren segurtasun-eginbide batzuk urrunetik kontrolatzea eskatzen du."</string>
+    <string msgid="6072273231606918870" name="account_security_title">"Gailuaren segurtasuna"</string>
+    <string msgid="589969653965674604" name="account_settings_action">"Kontuaren ezarpenak"</string>
+    <string msgid="3552681465680701047" name="account_settings_background_attachments_label">"Deskargatu eranskinak"</string>
+    <string msgid="8801504001229061032" name="account_settings_background_attachments_summary">"Deskargatu automatikoki azken mezuen eranskinak Wi-Fi bidez"</string>
+    <string msgid="6400715160238559711" name="account_settings_data_usage">"Datu-erabilera"</string>
+    <string msgid="2073736045984411004" name="account_settings_description_label">"Kontuaren izena"</string>
+    <string msgid="6105791335935883199" name="account_settings_edit_quick_responses_label">"Erantzun bizkorrak"</string>
+    <string msgid="5406599402930290682" name="account_settings_edit_quick_responses_summary">"Editatu mezu elektronikoak idaztean maiz idatzi ohi duzun testua"</string>
+    <string msgid="7005050362066086119" name="account_settings_enforced_label">"Gidalerroak aplikatzen dira"</string>
+    <string msgid="1668581504445370253" name="account_settings_enforced_summary">"Bat ere ez"</string>
+    <string msgid="4232590695889111419" name="account_settings_exit_server_settings">"Gorde gabeko aldaketak baztertu nahi dituzu?"</string>
+    <string msgid="3793314460723296874" name="account_settings_incoming_label">"Sarrerako postaren ezarpenak"</string>
+    <string msgid="7521181981008371492" name="account_settings_incoming_summary">"Erabiltzaile-izena, pasahitza eta sarrerako zerbitzariaren gainerako ezarpenak"</string>
+    <string msgid="4107847714594035131" name="account_settings_mail_check_frequency_label">"Sinkronizazio-maiztasuna"</string>
+    <string msgid="8230436030850457988" name="account_settings_name_label">"Zure izena"</string>
+    <string msgid="2842952349214972116" name="account_settings_notifications">"Jakinarazpen-ezarpenak"</string>
+    <string msgid="8621226576645167987" name="account_settings_notify_label">"Posta elektroniko bidezko jakinarazpenak"</string>
+    <string msgid="88560545461159120" name="account_settings_notify_summary">"Bidali jakinarazpena mezu elektronikoak iristean"</string>
+    <string msgid="4997504719643828381" name="account_settings_outgoing_label">"Irteerako postaren ezarpenak"</string>
+    <string msgid="1884202151340479161" name="account_settings_outgoing_summary">"Erabiltzaile-izena, pasahitza eta irteerako zerbitzariaren bestelako ezarpenak"</string>
+    <string msgid="5972183883466873359" name="account_settings_policies">"Segurtasun-gidalerroak"</string>
+    <string msgid="8605492340808650923" name="account_settings_retry_label">"Saiatu sinkronizatzen"</string>
+    <string msgid="2598065993718592906" name="account_settings_retry_summary">"Kontu hau sinkronizatzeko, ukitu hau"</string>
+    <string msgid="2238523918221865167" name="account_settings_ringtone">"Aukeratu tonua"</string>
+    <string msgid="3386185135392642067" name="account_settings_servers">"Zerbitzariaren ezarpenak"</string>
+    <string msgid="4733776978291376161" name="account_settings_summary">"Sinkronizazio-maiztasuna, jakinarazpenak eta abar."</string>
+    <string msgid="3172491863244160828" name="account_settings_sync_calendar_enable">"Sinkronizatu egutegia"</string>
+    <string msgid="411960248618953311" name="account_settings_sync_calendar_summary">"Sinkronizatu kontu honen egutegiko gertaerak"</string>
+    <string msgid="2642448079273767521" name="account_settings_sync_contacts_enable">"Sinkronizatu kontaktuak"</string>
+    <string msgid="1716022682035150630" name="account_settings_sync_contacts_summary">"Sinkronizatu kontu honen kontaktuak"</string>
+    <string msgid="7135765408226471860" name="account_settings_sync_email_enable">"Sinkronizatu posta"</string>
+    <string msgid="71710510041953351" name="account_settings_sync_email_summary">"Sinkronizatu kontu honen posta"</string>
+    <string msgid="7286722617178322465" name="account_settings_unsupported_label">"Onartu gabeko gidalerroak"</string>
+    <string msgid="1980825746966562221" name="account_settings_unsupported_summary">"Bat ere ez"</string>
+    <string msgid="1434091698882290052" name="account_setup_ab_headline">"Berretsi kontu mota"</string>
+    <string msgid="6223657094843768202" name="account_setup_ab_instructions_format">"<ns1:g id="EMAIL">%1$s</ns1:g> kontuak <ns1:g id="USERPROTOCOL">%2$s</ns1:g> erabiltzen duela adierazi duzu, baina baliteke kontuak <ns1:g id="PROVIDERPROTOCOL">%3$s</ns1:g> erabiltzea"</string>
+    <string msgid="3375795537675351389" name="account_setup_account_type_headline">"Kontu mota"</string>
+    <string msgid="968088954656738617" name="account_setup_account_type_instructions">"Zer motatako kontua da hau?"</string>
+    <string msgid="4075075565221436715" name="account_setup_autodiscover_dlg_authfail_message">"Berretsi erabiltzaile-izena, pasahitza eta kontuaren ezarpenak zuzenak direla."</string>
+    <string msgid="7551559109838593189" name="account_setup_autodiscover_dlg_authfail_title">"Arazo bat dago kontuaren konfigurazioan"</string>
+    <string msgid="8701406783555749929" name="account_setup_basics_email_label">"Helbide elektronikoa"</string>
+    <string msgid="8468280216822264643" name="account_setup_basics_headline">"Posta-kontua"</string>
+    <string msgid="7690861839383362085" name="account_setup_basics_manual_setup_action">"Eskuzko konfigurazioa"</string>
+    <string msgid="784962388753706730" name="account_setup_basics_password_label">"PASAHITZA"</string>
+    <string msgid="5050895656741229172" name="account_setup_basics_title">"Kontuaren konfigurazioa"</string>
+    <string msgid="9196418179524308411" name="account_setup_check_settings_check_incoming_msg">"Zerbitzariaren ezarpenak balidatzen…"</string>
+    <string msgid="9062019904409225329" name="account_setup_check_settings_check_outgoing_msg">"SMTP ezarpenak balidatzen…"</string>
+    <string msgid="9103280616618316032" name="account_setup_check_settings_retr_info_msg">"Kontuaren informazioa eskuratzen…"</string>
+    <string msgid="2898648422471181490" name="account_setup_creating_account_msg">"Kontua sortzen…"</string>
+    <string msgid="8756785660598838350" name="account_setup_exchange_certificate_title">"BEZERO-ZIURTAGIRIA"</string>
+    <string msgid="2306603503497194905" name="account_setup_exchange_device_id_label">"GAILU MUGIKORRAREN IDa"</string>
+    <string msgid="3569712401698909695" name="account_setup_exchange_no_certificate">"Bat ere ez"</string>
+    <string msgid="1222387802827919583" name="account_setup_exchange_remove_certificate">"Kendu"</string>
+    <string msgid="264748505181695915" name="account_setup_exchange_select_certificate">"Hautatu"</string>
+    <string msgid="6513687497912094538" name="account_setup_exchange_use_certificate">"Erabili bezeroaren ziurtagiria"</string>
+    <string msgid="2051742796367919026" name="account_setup_failed_access_denied">"Ez duzu zerbitzari honekin sinkronizatzeko baimenik. Informazio gehiago lortzeko, jarri zerbitzariaren administratzailearekin harremanetan."</string>
+    <string msgid="2684010997018901707" name="account_setup_failed_auth_required">"Zerbitzariak ez ditu gure autentifikazio-metodoak onartzen."</string>
+    <string msgid="4574461885959029072" name="account_setup_failed_certificate_inaccessible">"Ziurtagiria baliogabea da edo ezin da atzitu."</string>
+    <string msgid="4607859382193244795" name="account_setup_failed_certificate_required">"Bezero-ziurtagiria behar da. Zerbitzarira bezero-ziurtagiri batekin konektatu nahi duzu?"</string>
+    <string msgid="430054384233036305" name="account_setup_failed_check_credentials_message">"Zerbitzariak errore batekin erantzun du. Egiaztatu zure erabiltzaile-izena eta pasahitza, eta saiatu berriro."</string>
+    <string msgid="5608549872868036352" name="account_setup_failed_dlg_auth_message">"Erabiltzaile-izena edo pasahitza okerra da."</string>
+    <string msgid="4725950885859654809" name="account_setup_failed_dlg_certificate_message">"Ezin da zerbitzarira segurtasunez konektatu."</string>
+    <string msgid="3451681985727559303" name="account_setup_failed_dlg_certificate_message_fmt">"Ezin da zerbitzarira segurtasunez konektatu.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="8155332642922842729" name="account_setup_failed_dlg_edit_details_action">"Editatu xehetasunak"</string>
+    <string msgid="1180197172141077524" name="account_setup_failed_dlg_server_message">"Ezin da zerbitzarira konektatu."</string>
+    <string msgid="3889441611138037320" name="account_setup_failed_dlg_server_message_fmt">"Ezin izan da zerbitzarira konektatu.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="7923577224474005464" name="account_setup_failed_dlg_title">"Ezin izan da amaitu"</string>
+    <string msgid="3862689923436539909" name="account_setup_failed_ioerror">"Ezin izan da zerbitzarirako konexioa ireki."</string>
+    <string msgid="4973054582044010375" name="account_setup_failed_protocol_unsupported">"Zerbitzari-helbide okerra idatzi duzu edo Postak onartzen ez duen protokolo-bertsioa eskatzen du zerbitzariak."</string>
+    <string msgid="1627240499907011040" name="account_setup_failed_security">"Ezin izan da zerbitzarirako konexioa ireki segurtasun-errore bat gertatu delako."</string>
+    <string msgid="4619685657253094627" name="account_setup_failed_security_policies_unsupported">"Android gailuak onartzen ez dituen segurtasun-eginbide batzuk eskatzen ditu zerbitzariak, besteak beste: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="1902309158359287958" name="account_setup_failed_tls_required">"TLS segurtasuna behar da baina zerbitzariak ez du onartzen."</string>
+    <string msgid="8677018382715596606" name="account_setup_incoming_delete_policy_delete_label">"Sarrera-ontzitik ezabatzean"</string>
+    <string msgid="2341742235654301690" name="account_setup_incoming_delete_policy_label">"Ezabatu mezu elektronikoak zerbitzaritik"</string>
+    <string msgid="5777530843489961009" name="account_setup_incoming_delete_policy_never_label">"Inoiz ez"</string>
+    <string msgid="6232828824446177639" name="account_setup_incoming_headline">"Sarrerako zerbitzariaren ezarpenak"</string>
+    <string msgid="206747922689229932" name="account_setup_incoming_imap_path_prefix_hint">"Aukerakoa"</string>
+    <string msgid="3531290378620033218" name="account_setup_incoming_imap_path_prefix_label">"IMAP bide-izenaren aurrizkia"</string>
+    <string msgid="4806105500058512876" name="account_setup_incoming_password_label">"PASAHITZA"</string>
+    <string msgid="402562424498833560" name="account_setup_incoming_port_label">"ATAKA"</string>
+    <string msgid="8360505617331971663" name="account_setup_incoming_security_label">"SEGURTASUN MOTA"</string>
+    <string msgid="2461510827337484818" name="account_setup_incoming_security_none_label">"Bat ere ez"</string>
+    <string msgid="5169133414545009342" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="2834386066577239560" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (onartu ziurtagiri guztiak)"</string>
+    <string msgid="3892291833944170882" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="2281920902104029077" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (onartu ziurtagiri guztiak)"</string>
+    <string msgid="5409694850973258387" name="account_setup_incoming_server_label">"ZERBITZARIA"</string>
+    <string msgid="2609699829997945895" name="account_setup_incoming_username_label">"ERABILTZAILE-IZENA"</string>
+    <string msgid="3487538709712378441" name="account_setup_names_account_name_label">"Eman izena kontu honi (aukerakoa)"</string>
+    <string msgid="2031978210683887370" name="account_setup_names_headline">"Kontua konfiguratu da eta posta jasoko duzu laster!"</string>
+    <string msgid="4298006111315033499" name="account_setup_names_user_name_label">"Zure izena (irteerako mezuetan bistaratzen da)"</string>
+    <string msgid="4085327585082867216" name="account_setup_options_background_attachments_label">"Deskargatu eranskinak automatikoki Wi-Fi sarera konektatuta nagoenean"</string>
+    <string msgid="4810292194395251968" name="account_setup_options_headline">"Kontuaren aukerak"</string>
+    <string msgid="8787901333816702849" name="account_setup_options_mail_check_frequency_10min">"10 minuturo"</string>
+    <string msgid="7127640170766018765" name="account_setup_options_mail_check_frequency_15min">"15 minuturo"</string>
+    <string msgid="107706566853925273" name="account_setup_options_mail_check_frequency_1hour">"Orduro"</string>
+    <string msgid="4223562871143897449" name="account_setup_options_mail_check_frequency_30min">"30 minuturo"</string>
+    <string msgid="8929785860545198867" name="account_setup_options_mail_check_frequency_5min">"5 minuturo"</string>
+    <string msgid="7253305392938373553" name="account_setup_options_mail_check_frequency_label">"Sinkronizazio-maiztasuna:"</string>
+    <string msgid="2937664246354067829" name="account_setup_options_mail_check_frequency_never">"Inoiz ez"</string>
+    <string msgid="5511415696925307797" name="account_setup_options_mail_check_frequency_push">"Automatikoa (push)"</string>
+    <string msgid="7930883294844418428" name="account_setup_options_mail_window_1day">"Azken eguna"</string>
+    <string msgid="3228265299330513816" name="account_setup_options_mail_window_1month">"Azken hilabetea"</string>
+    <string msgid="5230695719358085318" name="account_setup_options_mail_window_1week">"Azken astea"</string>
+    <string msgid="1144271277694832921" name="account_setup_options_mail_window_2weeks">"Azken bi asteak"</string>
+    <string msgid="3435093562391555730" name="account_setup_options_mail_window_3days">"Azken hiru egunak"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"Guztiak"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"Automatikoa"</string>
+    <string msgid="5518038139722596598" name="account_setup_options_mail_window_default">"Erabili kontuaren balio lehenetsia"</string>
+    <string msgid="4737241149297585368" name="account_setup_options_mail_window_label">"Sinkronizatu igorle honen mezu elektronikoak:"</string>
+    <string msgid="3101529443722198112" name="account_setup_options_notify_label">"Jakinarazi mezu berriak iristen direnean"</string>
+    <string msgid="303441956432308807" name="account_setup_options_sync_calendar_label">"Sinkronizatu kontu honen egutegia"</string>
+    <string msgid="5029046373980454714" name="account_setup_options_sync_contacts_label">"Sinkronizatu kontu honen kontaktuak"</string>
+    <string msgid="468957966555663131" name="account_setup_options_sync_email_label">"Sinkronizatu kontu honen posta"</string>
+    <string msgid="6638171491109658047" name="account_setup_outgoing_headline">"Irteerako zerbitzariaren ezarpenak"</string>
+    <string msgid="3735952013505812378" name="account_setup_outgoing_port_label">"ATAKA"</string>
+    <string msgid="5405196721947884033" name="account_setup_outgoing_require_login_label">"Eskatu saioa hasteko"</string>
+    <string msgid="6473177134731615282" name="account_setup_outgoing_security_label">"SEGURTASUN MOTA"</string>
+    <string msgid="3460163861711242681" name="account_setup_outgoing_smtp_server_label">"SMTP ZERBITZARIA"</string>
+    <string msgid="8844680398828891772" name="account_setup_outgoing_username_label">"ERABILTZAILE-IZENA"</string>
+    <string msgid="5930042642982830233" name="account_setup_password_subheading">"Pasahitza"</string>
+    <string msgid="9029471168291631932" name="account_setup_security_policies_required_fmt">"<ns1:g id="SERVER">%s</ns1:g> zerbitzariak Android gailuaren segurtasun-eginbide batzuk urrunetik kontrolatzea eskatzen du. Kontua konfiguratzen amaitu nahi duzu?"</string>
+    <string msgid="667943309546419435" name="account_setup_security_required_title">"Urruneko segurtasun-administrazioa"</string>
+    <string msgid="3659744829670065777" name="account_setup_username_password_toast">"Idatzi baliozko helbide elektronikoa eta pasahitza."</string>
+    <string msgid="8848194305692897677" name="account_waiting_for_folders_msg">"Karpeta-zerrenda kargatzen…"</string>
+    <string msgid="7230367425520242593" name="accounts_welcome">"Kontua urrats gutxitan konfigura dezakezu."</string>
+    <string msgid="382998197798081729" name="add_authentication_label">"Gehitu autentifikazioa"</string>
+    <string msgid="2206468539066258195" name="app_name">"Helbide elektronikoa"</string>
+    <string msgid="914463525214987772" name="authentication_label">"AUTENTIFIKAZIOA"</string>
+    <string msgid="4750930803913225689" name="clear_authentication_label">"Garbitu autentifikazioa"</string>
+    <string msgid="6764021931370809514" name="confirm_response">"Erantzuna bidaltzen..."</string>
+    <string msgid="6575946089819721958" name="create_action">"Sortu"</string>
+    <string msgid="1337476992195531309" name="debug_title">"Araztu"</string>
+    <string msgid="4299378570982520839" name="device_admin_description">"Zerbitzariak zehaztutako segurtasun-gidalerroak gaitzen ditu"</string>
+    <string msgid="3335272972461391415" name="device_admin_label">"Posta"</string>
+    <string msgid="6001542250505146252" name="disable_admin_warning">"ABISUA: Posta aplikazioari gailua administratzeko baimena desaktibatzen badiozu, hori eskatzen duten posta-kontu guztiak ezabatuko dira, bertako mezuak, kontaktuak, egutegiko gertaerak eta bestelako datuak barne."</string>
+    <string msgid="3048014284772648575" name="edit_quick_response_dialog">"Erantzun bizkorra"</string>
+    <string msgid="64258748053106017" name="email_confirmation_label">"Helbide elektronikoa:"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="349478353401667107" name="folder_sync_settings_pref_title">"Karpetak sinkronizatzeko ezarpenak"</string>
+    <string msgid="2900585518884851062" name="forward_download_failed_ticker">"Ezin izan dira eranskin bat edo gehiago birbidali."</string>
+    <string msgid="2043036709913723298" name="forward_download_failed_title">"Ez da eranskina birbidali"</string>
+    <string msgid="2099786953868369991" name="gmail_name">"Gmail"</string>
+    <string msgid="8285222985908214985" name="imap_name">"Pertsonala (IMAP)"</string>
+    <string msgid="140881511322826320" name="label_notification_vibrate_title">"Egin dar-dar"</string>
+    <string msgid="4620839194581484497" name="login_failed_ticker">"Ezin izan da <ns1:g id="ACCOUNT_NAME">%s</ns1:g> kontuan saioa hasi."</string>
+    <string msgid="1737884069957090004" name="login_failed_title">"Ezin izan da saioa hasi"</string>
+    <string msgid="4155918930481733669" name="mailbox_list_account_selector_combined_view">"Ikuspegi bateratua"</string>
+    <string msgid="3552043116466269581" name="mailbox_name_display_drafts">"Zirriborroak"</string>
+    <string msgid="5093068725739672126" name="mailbox_name_display_inbox">"Sarrera-ontzia"</string>
+    <string msgid="1634126984313831675" name="mailbox_name_display_junk">"Mezu baztergarriak"</string>
+    <string msgid="8735725798805339414" name="mailbox_name_display_outbox">"Irteera-ontzia"</string>
+    <string msgid="6705058612006729985" name="mailbox_name_display_sent">"Bidalitako mezuak"</string>
+    <string msgid="8076384721309828453" name="mailbox_name_display_starred">"Izardunak"</string>
+    <string msgid="7020792045007681852" name="mailbox_name_display_trash">"Zaborrontzia"</string>
+    <string msgid="1453575937919310339" name="mailbox_name_display_unread">"Irakurri gabe"</string>
+    <string msgid="2196614373847675314" name="mailbox_settings_activity_title">"Sinkronizazio-aukerak"</string>
+    <string msgid="5547676392298186906" name="mailbox_settings_activity_title_with_mailbox">"Sinkronizazio-aukerak (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="7027516982341382326" name="mailbox_settings_mailbox_sync_window_label">"Sinkronizatu beharreko postaren egun kopurua"</string>
+    <string msgid="7723413381707277856" name="mailbox_settings_sync_enabled_label">"Sinkronizatu karpeta hau"</string>
+    <string msgid="742233465207750578" name="mailbox_settings_sync_enabled_summary">"Mezuak deskargatuko dira konexioa dagoenean"</string>
+    <string msgid="6193988236722150221" name="message_compose_fwd_header_fmt">\n\n"-------- Jatorrizko mezua --------\nGaia: <ns1:g id="SUBJECT">%1$s</ns1:g>\nIgorlea: <ns1:g id="SENDER">%2$s</ns1:g>\nHartzailea: <ns1:g id="TO">%3$s</ns1:g>\nCC: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5836926808818821309" name="message_compose_insert_quick_response_list_title">"Sartu erantzun bizkorra"</string>
+    <string msgid="4393288554605333619" name="message_compose_insert_quick_response_menu_title">"Sartu erantzun bizkorra"</string>
+    <string msgid="91396461771444300" name="message_decode_error">"Errore bat gertatu mezua deskodetzean."</string>
+    <string msgid="7571652141281187845" name="message_view_attachment_background_load">"Birbidalitako mezuko eranskin bat edo gehiago bidali aurretik deskargatuko dira."</string>
+    <string msgid="8716297053803961304" name="no_quick_responses">"Ez dago bat ere erabilgarri"</string>
+    <string msgid="3771260531636603518" name="oauth_authentication_title">"Eskatu baimena"</string>
+    <string msgid="8466102021844409849" name="oauth_error_description">"Ezin da autentifikatu"</string>
+    <string msgid="6408695162723653446" name="or_label">"EDO"</string>
+    <string msgid="4360288708739366810" name="password_expire_warning_content_title">"Gailuko pasahitza iraungitzear"</string>
+    <string msgid="1093389293050776319" name="password_expire_warning_dialog_content_fmt">"Pantaila desblokeatzeko PINa edo pasahitza laster aldatu behar dituzu. Bestela, <ns1:g id="ACCOUNT">%s</ns1:g> kontuko datuak ezabatu egingo dira. Orain aldatu nahi duzu?"</string>
+    <string msgid="4901499545146045672" name="password_expire_warning_dialog_title">"Gailuko pasahitza iraungitzear dago"</string>
+    <string msgid="5543005790538884060" name="password_expire_warning_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" kontuak blokeatutako pantailaren PINa edo pasahitza aldatzea eskatzen du."</string>
+    <string msgid="7379094218699681984" name="password_expired_content_title">"Pantaila blokeatuaren pasahitza iraungi da"</string>
+    <string msgid="8322213184626443346" name="password_expired_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> kontuko datuak gailutik ezabatu egingo dira. Datuak leheneratzeko, pantaila blokeatuaren PINa edo pasahitza aldatu behar duzu. Orain aldatu nahi duzu?"</string>
+    <string msgid="7275534155170185252" name="password_expired_dialog_title">"Pantaila blokeatuaren pasahitza iraungi da"</string>
+    <string msgid="3098703963402347483" name="password_expired_ticker">"Pantaila blokeatuaren PINa edo pasahitza iraungi da."</string>
+    <string msgid="4226682910292828279" name="password_hint">"Pasahitza"</string>
+    <string msgid="1887439537224212124" name="password_warning_label">"Helbide elektronikoa edo pasahitza okerra da"</string>
+    <string msgid="5338433949655493713" name="permission_access_provider_desc">"Posta elektronikoaren datu-basea atzitzea baimentzen die aplikazioei, besteak beste, jasotako eta bidalitako mezuak, erabiltzaile-izenak eta pasahitzak."</string>
+    <string msgid="977700184037298723" name="permission_access_provider_label">"Atzitu posta-hornitzailearen datuak"</string>
+    <string msgid="6579059616090100181" name="permission_read_attachment_desc">"Mezuetako eranskinak irakurtzea baimentzen die aplikazioei."</string>
+    <string msgid="6641407731311699536" name="permission_read_attachment_label">"Irakurri mezuetako eranskinak"</string>
+    <string msgid="6469328498345236120" name="policy_calendar_age">"Mugatu sinkronizatu beharreko egutegiko gertaerak"</string>
+    <string msgid="8821533827628900689" name="policy_dont_allow_camera">"Ez baimendu gailuaren kamera erabiltzea"</string>
+    <string msgid="3521941976575225050" name="policy_email_age">"Mugatu sinkronizatutako mezu elektroniko kopurua"</string>
+    <string msgid="1287225242918742275" name="policy_password_expiration">"Eskatu pasahitzak iraungitzea"</string>
+    <string msgid="9001177390979112746" name="policy_password_history">"Debekatu azken pasahitzak berriro erabiltzea"</string>
+    <string msgid="3556860917024612396" name="policy_require_password">"Eskatu gailuaren pasahitza"</string>
+    <string msgid="3499201409239287702" name="policy_screen_timeout">"Eskatu gailu inaktiboen pantaila blokeatzea"</string>
+    <string msgid="6653484706414263493" name="pop3_name">"Pertsonala (POP3)"</string>
+    <string msgid="1596701148051980218" name="provider_note_t_online">"Posta-kontu hori konfiguratu aurretik, joan T-Online webgunera eta sortu POP3 postarako sarbiderako pasahitza."</string>
+    <string msgid="9130521670178673190" name="quick_1">"Eskerrik asko!"</string>
+    <string msgid="8611591278119481491" name="quick_2">"Ongi iruditzen zait!"</string>
+    <string msgid="8070999183033184986" name="quick_3">"Geroxeago irakurriko dut eta erantzungo dizut."</string>
+    <string msgid="216066940197616025" name="quick_4">"Egin dezagun bilera bat hori eztabaidatzeko."</string>
+    <string msgid="3394094315357455290" name="quick_responses_empty_view">"Erantzun bizkorrik gabe."</string>
+    <string msgid="5740359453077441466" name="save_action">"Gorde"</string>
+    <string msgid="3823930420292838192" name="security_changed_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" kontuak bere segurtasun-ezarpenak aldatu ditu. Erabiltzaileak ez du ezer egin beharrik."</string>
+    <string msgid="7099561996532829229" name="security_needed_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" kontuak segurtasun-ezarpenak eguneratzea eskatzen du."</string>
+    <string msgid="615639963487448183" name="security_notification_content_change_title">"Segurtasun-gidalerroak aldatu egin dira"</string>
+    <string msgid="6494791400431198228" name="security_notification_content_unsupported_title">"Ezin dira gidalerroak gorde"</string>
+    <string msgid="6321099538307807621" name="security_notification_content_update_title">"Segurtasuna eguneratu behar da"</string>
+    <string msgid="3249185558872836884" name="security_unsupported_ticker_fmt">"Ezin da \"<ns1:g id="ACCOUNT">%s</ns1:g>\" kontua sinkronizatu segurtasun-eskakizunak direla-eta."</string>
+    <string msgid="9207482909822072856" name="sent_folder_selection_title">"Hautatu zerbitzariaren <ns1:g id="ACCOUNT">%s</ns1:g> kontuaren bidalitako mezuen karpeta"</string>
+    <string msgid="5051852806423550830" name="sign_in_title">"Hasi saioa"</string>
+    <string msgid="1412668282326928102" name="sign_in_with_google">"Hasi saioa Google-n"</string>
+    <string msgid="4282359206358453634" name="signed_in_with_service_label">"%s zerbitzuarekin hasi duzu saioa"</string>
+    <string msgid="2248313263003927725" name="system_account_create_failed">"Ezin izan da kontua sortu. Saiatu berriro."</string>
+    <string msgid="818944260541160146" name="system_folders_sent_dlg">"Hautatu zerbitzariaren bidalitako elementuen karpeta"</string>
+    <string msgid="4252740721870748375" name="system_folders_sent_summary">"Hautatu zerbitzariaren bidalitako elementuen karpeta"</string>
+    <string msgid="8792934374188279309" name="system_folders_sent_title">"Bidalitako elementuen karpeta"</string>
+    <string msgid="7161311881709109736" name="system_folders_title">"Sistemaren karpetak"</string>
+    <string msgid="353701568340939392" name="system_folders_trash_dlg">"Hautatu zerbitzariaren Zaborrontzia karpeta"</string>
+    <string msgid="2583143581531897068" name="system_folders_trash_summary">"Hautatu zerbitzariaren zaborrontzi-karpeta"</string>
+    <string msgid="3190927115504713123" name="system_folders_trash_title">"Zaborrontzia karpeta"</string>
+    <string msgid="686039558899469073" name="trash_folder_selection_title">"Hautatu <ns1:g id="ACCOUNT">%s</ns1:g> kontuaren zerbitzariaren Zaborrontzia karpeta"</string>
+</resources>
