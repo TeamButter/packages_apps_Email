@@ -682,7 +682,6 @@
 
     <!-- Name for preference entry which leads to the per-folder sync settings activity -->
     <string name="folder_sync_settings_pref_title">Folder sync settings</string>
-
     <string name="done" translatable="true">Done</string>
     <string name="next" translatable="true">Next</string>
     <string name="previous" translatable="true">Previous</string>
@@ -691,5 +690,5 @@
     <string name="add_account" translatable="true">Add account</string>
     <string name="general_preferences_title" translatable="true">General settings</string>
     <string name="feedback" translatable="true">Send feedback</string>
-</resources>
 
+</resources>
